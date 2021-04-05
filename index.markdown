@@ -3,4 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: HINGTAK LLC., Wire&Cable,Connectors,Wire Harness
 ---
