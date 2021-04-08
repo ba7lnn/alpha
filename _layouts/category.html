@@ -1,0 +1,79 @@
+{% include header.html %}
+					{% include sidebar.html %}
+
+
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<header>
+								<h1>Category: {{ page.title }}</h1>
+								<p>{{ page.excerpt }}</p>
+							</header>
+
+
+							<section class="tiles">
+
+							 {% for post in site.categories[page.category] %}
+
+								<article class="style1">
+									<span class="image">
+										<img src="{{ site.url }}/{{ post.thumb_img }}" alt="" />
+									</span>
+									<a href="{{ post.url }}">
+										<h2>{{ post.title }} - ({{ post.date | date_to_string }})</h2>
+										<div class="content">
+											<p>{{ post.summary }}</p> {{ post.description }}
+										</div>
+									</a>
+									<!-- Tags: {{ post.tags | join: ", " }} -->
+								</article>
+
+								{% endfor %}
+
+							</section>
+
+
+						
+
+
+
+
+<!-- 遍历分页后的文章 -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+
+<!-- 分页链接 -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+
+
+
+
+
+
+
+
+						</div>
+					</div>
+
+{% include footer.html %}

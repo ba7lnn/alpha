@@ -1,0 +1,19 @@
+{% include header.html %}
+
+					{% include sidebar.html %}
+
+
+				<!-- Main -->
+					<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>{{ page.title }}</h1>
+
+							<span class="image main"><img src="{{ site.url }}/{{ page.the_image }}" alt="{{ page.title }}" /></span>
+
+							 {{ content }}
+
+						</div>
+					</div>
+
+{% include footer.html %}
