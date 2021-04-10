@@ -1,0 +1,20 @@
+---
+layout: post
+title: MX3.0 MOLD成型接2.54带锁扣CABLE线束
+#permalink: 
+date: 2020-03-23 16:55:23
+categories: wire-harness
+tags:  Wire Harness
+summary: MX3.0 MOLD成型接2.54带锁扣CABLE线束
+published: true 
+series: 
+part_number: kR13
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/280-thumb-20200323165909.jpg
+small_img: static/202003/280-20200323165909.jpg
+---
+
+
+MX3.0 MOLD成型接2.54带锁扣CABLE线束

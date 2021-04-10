@@ -1,0 +1,19 @@
+---
+layout: post
+title: 797582025,Pre-Crimped Lead .062
+#permalink: 
+date: 2020-07-03 15:01:40
+categories: wire-harness
+tags:  Pre-crimp Wire
+summary: Pre-Crimped Lead .062" Male, 150mm, 22 AWG
+published: true 
+series: 1625
+part_number: 797582025
+mfg_part_number: 797582025
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202007/414-thumb-20200703150201.jpg
+small_img: static/202007/414-20200703150201.jpg
+---
+
+

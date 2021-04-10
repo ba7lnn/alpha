@@ -1,0 +1,19 @@
+---
+layout: post
+title: 0.8Pitch, FEP 32AWG IDC
+#permalink: 
+date: 2019-12-31 22:19:58
+categories: wire-harness
+tags: 0.8剌破线 Wire Harness
+summary: 0.8Pitch, FEP 32AWG IDC
+published: true 
+series: IDC
+part_number: 
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202007/217-thumb-20200703200713.jpg
+small_img: static/202007/217-20200703200713.jpg
+---
+
+

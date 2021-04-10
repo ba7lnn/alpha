@@ -1,0 +1,19 @@
+---
+layout: post
+title:  VH3.96 SMT,3.96mm Pitch
+#permalink: 
+date: 2020-01-01 14:32:56
+categories: housing-terminal
+tags: VH3.96 3.96mm Pitch(.156")
+summary: This small, field-proven connector for PC boards is reliable and has a large current carrying capacity. It can be used with a wide variety of signal, power supply, and output circuits that appear in consumer electronic products.
+published: true 
+series: VH
+part_number: S2B-VH
+mfg_part_number: 
+mfg_part_number2: JST NONE
+price: 0.00
+thumb_img: static/202006/224-thumb-20200626144037.jpg
+small_img: static/202006/224-20200626144037.jpg
+---
+
+

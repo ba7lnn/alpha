@@ -1,0 +1,20 @@
+---
+layout: post
+title: 空中对接 1.25喇叭4PIN线
+#permalink: 
+date: 2020-03-23 18:16:00
+categories: wire-harness
+tags:  Wire Harness
+summary: 空中对接 1.25喇叭4PIN线
+published: true 
+series: 
+part_number: KR29
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/295-thumb-20200323181636.jpg
+small_img: static/202003/295-20200323181636.jpg
+---
+
+
+空中对接 1.25喇叭4PIN线

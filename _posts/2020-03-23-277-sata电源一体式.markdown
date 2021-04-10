@@ -1,0 +1,20 @@
+---
+layout: post
+title: SATA电源一体式
+#permalink: 
+date: 2020-03-23 16:46:53
+categories: wire-harness
+tags: SATA Wire Harness
+summary: SATA电源一体式
+published: true 
+series: 
+part_number: KR11
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/277-thumb-20200323164752.jpg
+small_img: static/202003/277-20200323164752.jpg
+---
+
+
+SATA电源一体式

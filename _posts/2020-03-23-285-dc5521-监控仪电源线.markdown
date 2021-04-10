@@ -1,0 +1,20 @@
+---
+layout: post
+title: DC5521 监控仪电源线
+#permalink: 
+date: 2020-03-23 18:01:35
+categories: wire-harness
+tags:  Wire Harness
+summary: DC5521 监控仪电源线
+published: true 
+series: 
+part_number: KR20
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/285-thumb-20200323180245.jpg
+small_img: static/202003/285-20200323180245.jpg
+---
+
+
+DC5521 监控仪电源线

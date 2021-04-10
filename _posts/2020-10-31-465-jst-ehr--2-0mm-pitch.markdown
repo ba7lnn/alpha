@@ -1,0 +1,19 @@
+---
+layout: post
+title: JST EHR, 2.0mm Pitch
+#permalink: 
+date: 2020-10-31 14:02:17
+categories: housing-terminal
+tags:  2.54mm Pitch(.10")
+summary: JST EHR, 2.0mm Pitch
+published: true 
+series: EH
+part_number: 4-200-000
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202010/465-thumb-20201031140303.jpg
+small_img: static/202010/465-20201031140303.jpg
+---
+
+

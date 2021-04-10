@@ -1,0 +1,21 @@
+---
+layout: post
+title: 187TAB Pre-Wire 1007 22AWG
+#permalink: 
+date: 2020-11-02 18:57:40
+categories: wireharness
+tags:  Wire Harness
+summary: 
+published: true 
+series: faston
+part_number: 5-187-0002
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202011/476-thumb-20201102185831.jpg
+small_img: static/202011/476-20201102185831.jpg
+the_image_1: static/202011/476-0-20201102185831.jpg
+the_image_2: static/202011/476-1-20201102185831.jpg
+---
+
+

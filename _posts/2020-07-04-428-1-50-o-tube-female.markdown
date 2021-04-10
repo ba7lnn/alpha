@@ -1,0 +1,19 @@
+---
+layout: post
+title: 1.50 O Tube,Female
+#permalink: 
+date: 2020-07-04 08:19:16
+categories: housing-terminal
+tags:  Faston Terminal (DIN)
+summary: 1.50 O Tube,Female
+published: true 
+series: FA
+part_number: FA-M150-25U1824B6
+mfg_part_number: 
+mfg_part_number2: 5TS:M150-25U0-FA1824B6
+price: 0.00
+thumb_img: static/202007/428-thumb-20200704082005.jpg
+small_img: static/202007/428-20200704082005.jpg
+---
+
+

@@ -1,0 +1,20 @@
+---
+layout: post
+title: 自动车控制线束
+#permalink: 
+date: 2020-03-19 19:13:54
+categories: wire-harness
+tags: 控制线束 Power Cable
+summary: 自动车控制线束
+published: true 
+series: 
+part_number: 
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/238-thumb-20200319191427.jpg
+small_img: static/202003/238-20200319191427.jpg
+---
+
+
+自动车控制线束

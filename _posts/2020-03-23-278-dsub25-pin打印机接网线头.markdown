@@ -1,0 +1,20 @@
+---
+layout: post
+title: DSUB25 PIN打印机接网线头
+#permalink: 
+date: 2020-03-23 16:48:29
+categories: wire-harness
+tags:  Wire Harness
+summary: SATA电源一体式
+published: true 
+series: 
+part_number: KR12
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/278-thumb-20200323165131.jpg
+small_img: static/202003/278-20200323165131.jpg
+---
+
+
+SATA电源一体式

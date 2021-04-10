@@ -1,0 +1,20 @@
+---
+layout: post
+title: 5557白色6PIN成型对MX3.0成型6PIN Cable线
+#permalink: 
+date: 2020-03-23 16:53:37
+categories: wire-harness
+tags:  Wire Harness
+summary: 5557白色6PIN成型对MX3.0成型6PIN Cable线
+published: true 
+series: 
+part_number: KR12/06
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/279-thumb-20200323165455.jpg
+small_img: static/202003/279-20200323165455.jpg
+---
+
+
+5557白色6PIN成型对MX3.0成型6PIN Cable线

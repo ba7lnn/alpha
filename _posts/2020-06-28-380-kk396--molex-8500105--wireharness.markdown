@@ -1,0 +1,19 @@
+---
+layout: post
+title: KK396, Molex 8500105, WireHarness
+#permalink: 
+date: 2020-06-28 16:44:51
+categories: wireharness
+tags:  Wire Harness
+summary: KK396, MX8500105, WireHarness
+published: true 
+series: KK396
+part_number: 08500105
+mfg_part_number: 
+mfg_part_number2: 08500105
+price: 0.00
+thumb_img: static/202006/380-thumb-20200628164523.jpg
+small_img: static/202006/380-20200628164523.jpg
+---
+
+

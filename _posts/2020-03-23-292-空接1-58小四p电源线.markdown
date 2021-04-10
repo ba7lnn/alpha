@@ -1,0 +1,20 @@
+---
+layout: post
+title: 空接1.58小四P电源线
+#permalink: 
+date: 2020-03-23 18:12:35
+categories: wire-harness
+tags:  Wire Harness
+summary: 空接1.58小四P电源线
+published: true 
+series: 
+part_number: KR26
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/292-thumb-20200323181322.jpg
+small_img: static/202003/292-20200323181322.jpg
+---
+
+
+空接1.58小四P电源线

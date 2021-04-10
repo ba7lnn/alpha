@@ -1,0 +1,19 @@
+---
+layout: post
+title: RNB2-4,16AWG-14AWG
+#permalink: 
+date: 2020-07-04 11:24:56
+categories: housing-terminal
+tags:  Faston Terminal (DIN)
+summary: RNB2-4,16AWG-14AWG
+published: true 
+series: KT
+part_number: RNB2-4
+mfg_part_number: 
+mfg_part_number2: KT:RNB2-4
+price: 0.00
+thumb_img: static/202007/432-thumb-20200704112600.jpg
+small_img: static/202007/432-20200704112600.jpg
+---
+
+

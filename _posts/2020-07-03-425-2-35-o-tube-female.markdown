@@ -1,0 +1,19 @@
+---
+layout: post
+title: 2.35 O Tube,Female
+#permalink: 
+date: 2020-07-03 20:25:17
+categories: housing-terminal
+tags:  Faston Terminal (DIN)
+summary: 2.35 O Tube,Female
+published: true 
+series: FA
+part_number: FA-W235-30U1822B0
+mfg_part_number: 
+mfg_part_number2: 5TS D.W235-30UO-FA1822B0
+price: 0.00
+thumb_img: static/202007/425-thumb-20200703202656.jpg
+small_img: static/202007/425-20200703202656.jpg
+---
+
+

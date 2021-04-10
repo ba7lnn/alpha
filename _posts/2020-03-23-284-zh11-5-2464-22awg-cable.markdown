@@ -1,0 +1,20 @@
+---
+layout: post
+title: ZH11.5 2464 22AWG CABLE
+#permalink: 
+date: 2020-03-23 18:00:56
+categories: wire-harness
+tags:  Power Cable
+summary: ZH11.5 2464 22AWG CABLE
+published: true 
+series: 
+part_number: KR19
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/284-thumb-20200323180132.jpg
+small_img: static/202003/284-20200323180132.jpg
+---
+
+
+ZH11.5 2464 22AWG CABLE

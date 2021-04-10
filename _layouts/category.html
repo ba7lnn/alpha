@@ -1,43 +1,22 @@
-{% include header2.html %}
-					{% include sidebar2.html %}
-
-
-
-				<!-- Main -->
+<!-- home 2021/04/05 -->
+{% include header.html %}
 					<div id="main">
-						<div class="inner">
 							<header>
 								<h1>Category: {{ page.title }}</h1>
 								<p>{{ page.excerpt }}</p>
 							</header>
 
+						{% for post in site.categories[page.category] %}
+						<article class="thumb">
+							<a href="{{ site.url }}/{{ post.small_img }}" class="image"><img src="{{ site.url }}/{{ post.small_img }}" alt=""/></a>
+							<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+							<p>{{ post.summary }}</p><p> {{ post.description }}</p>
+							<!-- Tags: {{ post.tags | join: ", " }} -->
+						</article>
 
-							<section class="tiles">
+						{% endfor %}
 
-							 {% for post in site.categories[page.category] %}
-
-								<article class="style1">
-									<span class="image">
-										<img src="{{ site.url }}/{{ post.thumb_img }}" alt="" />
-									</span>
-									<a href="{{ post.url }}">
-										<h2>{{ post.title }} - ({{ post.date | date_to_string }})</h2>
-										<div class="content">
-											<p>{{ post.summary }}</p> {{ post.description }}
-										</div>
-									</a>
-									<!-- Tags: {{ post.tags | join: ", " }} -->
-								</article>
-
-								{% endfor %}
-
-							</section>
-
-
-						
-
-
-
+					</div>
 
 <!-- 遍历分页后的文章 -->
 {% for post in paginator.posts %}
@@ -73,7 +52,6 @@
 
 
 
-						</div>
-					</div>
 
-{% include footer2.html %}
+
+{% include footer.html %}

@@ -1,0 +1,19 @@
+---
+layout: post
+title: Molex
+#permalink: 
+date: 2020-12-02 19:34:21
+categories: wireharness
+tags:  Wire Harness
+summary: 
+published: true 
+series: MX30
+part_number: 71-1000-00001
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202012/490-thumb-20201202193906.jpg
+small_img: static/202012/490-20201202193906.jpg
+---
+
+

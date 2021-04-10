@@ -1,0 +1,22 @@
+---
+layout: post
+title: PHR, Pre-Wire, 2468 24AWG
+#permalink: 
+date: 2020-11-03 10:01:09
+categories: wire-harness
+tags:  Pre-crimp Wire
+summary: 
+published: true 
+series: PH
+part_number: 7-PHR-2
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202011/479-thumb-20201103100212.jpg
+small_img: static/202011/479-20201103100212.jpg
+the_image_1: static/202011/479-0-20201103100213.jpg
+the_image_2: static/202011/479-1-20201103100213.jpg
+the_image_3: static/202011/479-2-20201103100213.jpg
+---
+
+

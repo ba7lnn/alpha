@@ -1,0 +1,20 @@
+---
+layout: post
+title: MX2.54大电流线束
+#permalink: 
+date: 2020-03-19 20:07:51
+categories: wireharness
+tags: MX2.54 Wire Harness
+summary: MX2.54大电流线束
+published: true 
+series: 
+part_number: 
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/260-thumb-20200319200822.jpg
+small_img: static/202003/260-20200319200822.jpg
+---
+
+
+MX2.54大电流线束

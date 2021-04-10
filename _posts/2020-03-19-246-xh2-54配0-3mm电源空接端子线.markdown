@@ -1,0 +1,20 @@
+---
+layout: post
+title: XH2.54配0.3mm电源空接端子线
+#permalink: 
+date: 2020-03-19 19:35:52
+categories: wireharness
+tags: 空中对接，端子线 Wire Harness
+summary: XH2.54配0.3mm电源空接端子线
+published: true 
+series: 
+part_number: 
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/246-thumb-20200319193634.jpg
+small_img: static/202003/246-20200319193634.jpg
+---
+
+
+XH2.54配0.3mm电源空接端子线

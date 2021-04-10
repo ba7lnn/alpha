@@ -1,0 +1,19 @@
+---
+layout: post
+title: JASO D611-2009 AVSS 0.5mm SQ
+#permalink: 
+date: 2020-07-06 07:18:02
+categories: wire-cable
+tags:  Hookup-Wire(UL)
+summary: JASO AVSS 0.5mm SQ, AVSS Automation Wire 
+published: true 
+series: JASO
+part_number: 1-220546
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202007/440-thumb-20200706071942.jpg
+small_img: static/202007/440-20200706071942.jpg
+---
+
+

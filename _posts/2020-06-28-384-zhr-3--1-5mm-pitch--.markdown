@@ -1,0 +1,20 @@
+---
+layout: post
+title: ZHR-3, 1.5mm Pitch, 
+#permalink: 
+date: 2020-06-28 16:55:24
+categories: wireharness
+tags:  Wire Harness
+summary: The dimple at the center of the contact ensures positive contact and low contact resistance at all times
+published: true 
+series: ZH
+part_number: ZHR-3
+mfg_part_number: 
+mfg_part_number2: ZHR-3
+price: 0.00
+thumb_img: static/202006/384-thumb-20200628165606.jpg
+small_img: static/202006/384-20200628165606.jpg
+the_image_1: static/202006/384-0-20200628165606.jpg
+---
+
+

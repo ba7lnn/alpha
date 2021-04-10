@@ -1,22 +1,25 @@
 ---
 layout: post
-title:  "Ultra flexible 0.05 Series Silicone wire"
-#permalink: post/ultra-flexible-0.05-series-silicone-wire.html
-date:   2021-04-05 18:31:00 +0800
+title: Ultra flexible 0.06 Series Silicone wire
+#permalink: 006-silicone-wire
+date: 2018-05-05 14:52:44
 categories: wire-cable
-tags: 0.05
-summary: our new product Ultra flexible 0.05 Series Silicone wire
-published: true
-thumb_img: static/202003/1-thumb-20200325145810.jpg
-the_image: static/202003/1-20200325145810.jpg
-###  <p>{{ post.excerpt }}</p>
-### site.static_files
-## site.categories  : http://jekyllcn.com/docs/variables/
+tags: 0.06 Silicon Robbin Wire(Flexible)
+summary: Ultra flexible 0.06 Series Silicone wire
+published: true 
+series: FN10
+part_number: 10-0006-0
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/2-thumb-20200325150017.jpg
+small_img: static/202003/2-20200325150017.jpg
 ---
+
 
 <ul>
 	<li>
-		Rate Voltage: 600V
+		Rating Voltage: 600V
 	</li>
 	<li>
 		Temperature Range: -60℃ ~+200℃
@@ -28,16 +31,16 @@ the_image: static/202003/1-20200325145810.jpg
 		Testing Voltage: 25000V
 	</li>
 	<li>
-		Conductuor：Tinned Copper
+		Conductuor: Tinned Copper
 	</li>
 	<li>
 		Insulator：Silicone
 	</li>
 	<li>
-		Colours:Red/Black/White/Brown/Yellow/Green/Yellow Green)
+		Colours:&nbsp; Red/Black/White/Brown/Yellow/Green/Yellow Green
 	</li>
 	<li>
-		Application: LED, Electrection, Sensor, Hookup-wire
+		Application: LED light/Electrection/Sensor/Lion-battery,hookup-wire
 	</li>
 </ul>
 <p>
@@ -47,20 +50,31 @@ the_image: static/202003/1-20200325145810.jpg
 	<table class="table table-bordered table-hover table-condensed">
 		<tbody>
 			<tr>
+				<td colspan="2">
+					Conductor
+				</td>
+				<td colspan="2">
+					<span>Insulation</span> 
+				</td>
+				<td>
+					<br />
+				</td>
+			</tr>
+			<tr>
 				<td>
 					AWG
 				</td>
 				<td>
-					Conductor
+					Strand mm
+				</td>
+				<td>
+					<br />
+				</td>
+				<td>
+					Insulation
 				</td>
 				<td>
 					O.D.
-				</td>
-				<td>
-					Insulator
-				</td>
-				<td>
-					Norm.OD
 				</td>
 			</tr>
 			<tr>
@@ -68,7 +82,7 @@ the_image: static/202003/1-20200325145810.jpg
 					30
 				</td>
 				<td>
-					28/0.05
+					19/0.06 OD:0.8
 				</td>
 				<td>
 					0.3
@@ -85,7 +99,7 @@ the_image: static/202003/1-20200325145810.jpg
 					28
 				</td>
 				<td>
-					40/0.05
+					28/0.06 OD:1.2
 				</td>
 				<td>
 					0.36
@@ -102,7 +116,7 @@ the_image: static/202003/1-20200325145810.jpg
 					26
 				</td>
 				<td>
-					76/0.05
+					42/0.06 OD:1.5
 				</td>
 				<td>
 					0.46
@@ -119,7 +133,7 @@ the_image: static/202003/1-20200325145810.jpg
 					24
 				</td>
 				<td>
-					102/0.05
+					70/0.06 OD:1.6
 				</td>
 				<td>
 					0.61
@@ -136,7 +150,7 @@ the_image: static/202003/1-20200325145810.jpg
 					22
 				</td>
 				<td>
-					153/0.05
+					11/0.06 OD:1.7
 				</td>
 				<td>
 					0.72
@@ -153,7 +167,7 @@ the_image: static/202003/1-20200325145810.jpg
 					20
 				</td>
 				<td>
-					250/0.05
+					178/0.06 OD:1.8
 				</td>
 				<td>
 					0.92
@@ -170,7 +184,7 @@ the_image: static/202003/1-20200325145810.jpg
 					18
 				</td>
 				<td>
-					382/0.05
+					270/0.06 OD:2.3
 				</td>
 				<td>
 					1.13
@@ -187,7 +201,7 @@ the_image: static/202003/1-20200325145810.jpg
 					16
 				</td>
 				<td>
-					636/0.05
+					476/0.06 OD:3.0
 				</td>
 				<td>
 					1.47
@@ -204,7 +218,7 @@ the_image: static/202003/1-20200325145810.jpg
 					14
 				</td>
 				<td>
-					1018/0.05
+					707/0.06 OD:3.5
 				</td>
 				<td>
 					1.85
@@ -221,7 +235,7 @@ the_image: static/202003/1-20200325145810.jpg
 					12
 				</td>
 				<td>
-					1710/0.05
+					1100/0.06 OD:4.5
 				</td>
 				<td>
 					2.48
@@ -238,7 +252,7 @@ the_image: static/202003/1-20200325145810.jpg
 					10
 				</td>
 				<td>
-					2070/0.05
+					1700/0.06 OD:5.5
 				</td>
 				<td>
 					3.35
@@ -252,6 +266,11 @@ the_image: static/202003/1-20200325145810.jpg
 			</tr>
 		</tbody>
 	</table>
+</div>
+<p>
+	<br />
+</p>
+<div class="table-responsive">
 	<p>
 		Remark:<br />
 30# 1500M/Reel<br />
@@ -262,4 +281,10 @@ the_image: static/202003/1-20200325145810.jpg
 </div>
 <p>
 	* NO Approval
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<span></span><span></span> 
 </p>

@@ -1,0 +1,19 @@
+---
+layout: post
+title: 2.35 O Tube,Male
+#permalink: 
+date: 2020-07-03 20:27:25
+categories: housing-terminal
+tags:  Faston Terminal (DIN)
+summary: 2.35 O Tube,Male
+published: true 
+series: FA
+part_number: FA-M235-30U1822B0
+mfg_part_number: 
+mfg_part_number2: 5TS:W235-30UO-FA-1822B0
+price: 0.00
+thumb_img: static/202007/426-thumb-20200703202908.jpg
+small_img: static/202007/426-20200703202908.jpg
+---
+
+

@@ -1,0 +1,24 @@
+---
+layout: post
+title: SYP-02TV-1
+#permalink: 
+date: 2020-11-02 17:10:21
+categories: wireharness
+tags:  Wire Harness
+summary: 
+published: true 
+series: SYP
+part_number: 7-SYP-02-22
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202011/473-thumb-20201102171117.jpg
+small_img: static/202011/473-20201102171117.jpg
+the_image_1: static/202011/473-0-20201102171117.jpg
+the_image_2: static/202011/473-1-20201102171117.jpg
+the_image_3: static/202011/473-2-20201102171117.jpg
+the_image_4: static/202011/473-3-20201102171117.jpg
+the_image_5: static/202011/473-4-20201102171117.jpg
+---
+
+

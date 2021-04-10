@@ -1,0 +1,19 @@
+---
+layout: post
+title: PHR,W2W
+#permalink: 
+date: 2020-11-03 10:00:10
+categories: housing-terminal
+tags:  2.0mm Pitch(.079")
+summary: 
+published: true 
+series: PH
+part_number: 3-PH-2W
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202011/478-thumb-20201103100057.jpg
+small_img: static/202011/478-20201103100057.jpg
+---
+
+

@@ -1,0 +1,19 @@
+---
+layout: post
+title: 110 Terminal, D Type
+#permalink: 
+date: 2020-06-30 09:08:26
+categories: housing-terminal
+tags:  Faston Terminal (DIN)
+summary: 110 Terminal, D Type
+published: true 
+series: faston
+part_number: ST1100802-25C
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202006/394-thumb-20200630091051.jpg
+small_img: static/202006/394-20200630091051.jpg
+---
+
+

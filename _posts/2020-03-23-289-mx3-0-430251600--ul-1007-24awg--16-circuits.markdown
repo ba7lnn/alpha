@@ -1,0 +1,19 @@
+---
+layout: post
+title: MX3.0 430251600, UL 1007 24AWG, 16 Circuits
+#permalink: 
+date: 2020-03-23 18:08:23
+categories: wireharness
+tags:  Wire Harness
+summary: MX3.0 430251600, UL 1007 24AWG, 16 Circuits
+published: true 
+series: MX30
+part_number: 430251600
+mfg_part_number: 
+mfg_part_number2: 430251600
+price: 0.00
+thumb_img: static/202003/289-thumb-20200323181001.jpg
+small_img: static/202003/289-20200323181001.jpg
+---
+
+

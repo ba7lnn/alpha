@@ -1,0 +1,19 @@
+---
+layout: post
+title: FA-M235-30U1822B0, 1.50, O Tube, Male, Pre-crimp, 1007 20AWG,300mm,Black
+#permalink: 
+date: 2020-06-28 14:05:03
+categories: wire-harness
+tags:  Pre-crimp Wire
+summary: OD 1.5 male terminal tube
+published: true 
+series: FA
+part_number: FA-P235-30U1822B0
+mfg_part_number: 
+mfg_part_number2: 5TS:FA-M235-30U1822B0
+price: 0.00
+thumb_img: static/202006/351-thumb-20200628140616.jpg
+small_img: static/202006/351-20200628140616.jpg
+---
+
+

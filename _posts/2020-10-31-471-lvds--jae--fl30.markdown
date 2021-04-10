@@ -1,0 +1,23 @@
+---
+layout: post
+title: LVDS, JAE, FL30
+#permalink: 
+date: 2020-10-31 16:09:21
+categories: wireharness
+tags:  Wire Harness
+summary: 
+published: true 
+series: FI30
+part_number: 9-F30-0000
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202010/471-thumb-20201031161025.jpg
+small_img: static/202010/471-20201031161025.jpg
+the_image_1: static/202010/471-0-20201031161025.jpg
+the_image_2: static/202010/471-1-20201031161025.jpg
+the_image_3: static/202010/471-2-20201031161025.jpg
+the_image_4: static/202010/471-3-20201031161025.jpg
+---
+
+

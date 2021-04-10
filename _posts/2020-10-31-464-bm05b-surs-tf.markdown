@@ -1,0 +1,19 @@
+---
+layout: post
+title: BM05B-SURS-TF
+#permalink: 
+date: 2020-10-31 14:00:22
+categories: wire-cable
+tags:  0.8mm Pitch (.031")
+summary: 
+published: true 
+series: IDC
+part_number: 5-08000-000
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202010/464-thumb-20201031140054.jpg
+small_img: static/202010/464-20201031140054.jpg
+---
+
+

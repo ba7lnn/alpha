@@ -1,0 +1,19 @@
+---
+layout: post
+title: Faston, 125 Tab,22AWG-16AWG
+#permalink: 
+date: 2019-12-31 21:58:45
+categories: housing-terminal
+tags: 125冷压端子 Faston Terminal (DIN)
+summary: Faston, 125 Tab,22AWG-16AWG
+published: true 
+series: 
+part_number: AJ125R2216
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202006/214-thumb-20200629080533.jpg
+small_img: static/202006/214-20200629080533.jpg
+---
+
+

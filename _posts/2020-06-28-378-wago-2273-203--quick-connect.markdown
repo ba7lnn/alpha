@@ -1,0 +1,19 @@
+---
+layout: post
+title: wago 2273-203, Quick connect
+#permalink: 
+date: 2020-06-28 16:36:52
+categories: housing-terminal
+tags:  3.0mm Pitch (.118")
+summary: wago 2273-203
+published: true 
+series: 
+part_number: 2273-203
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202006/378-thumb-20200628163751.jpg
+small_img: static/202006/378-20200628163751.jpg
+---
+
+

@@ -1,0 +1,20 @@
+---
+layout: post
+title: MSH2.0空中对接4P端子线
+#permalink: 
+date: 2020-03-19 19:51:26
+categories: wireharness
+tags: 空中对接 Wire Harness
+summary: MSH2.0空中对接4P端子线
+published: true 
+series: 
+part_number: 
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/251-thumb-20200319195218.jpg
+small_img: static/202003/251-20200319195218.jpg
+---
+
+
+MSH2.0空中对接4P端子线

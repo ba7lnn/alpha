@@ -1,0 +1,21 @@
+---
+layout: post
+title: DC5521 XH2.54电源线
+#permalink: 
+date: 2020-03-23 16:02:16
+categories: wire-harness
+tags: KR03 Wire Harness
+summary: DC5521 XH2.54电源线
+published: true 
+series: 
+part_number: 
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/269-thumb-20200323160325.jpg
+small_img: static/202003/269-20200323160325.jpg
+the_image_1: static/202003/269-0-20200323160739.jpg
+---
+
+
+DC5521 XH2.54电源线

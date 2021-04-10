@@ -1,0 +1,21 @@
+---
+layout: post
+title: 超薄电脑屏线
+#permalink: 
+date: 2020-03-23 18:21:35
+categories: wire-harness
+tags:  Wire Harness
+summary: 超薄电脑屏线
+published: true 
+series: 
+part_number: KR34
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/300-thumb-20200323182216.jpg
+small_img: static/202003/300-20200323182216.jpg
+the_image_1: static/202003/300-0-20200323182216.jpg
+---
+
+
+超薄电脑屏线

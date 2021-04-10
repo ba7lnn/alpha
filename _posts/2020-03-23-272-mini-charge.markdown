@@ -1,0 +1,20 @@
+---
+layout: post
+title: MINI Charge
+#permalink: 
+date: 2020-03-23 16:15:53
+categories: wire-harness
+tags:  Wire Harness
+summary: MINI Charge
+published: true 
+series: 
+part_number: KR06
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/272-thumb-20200323161625.jpg
+small_img: static/202003/272-20200323161625.jpg
+---
+
+
+MINI Charge

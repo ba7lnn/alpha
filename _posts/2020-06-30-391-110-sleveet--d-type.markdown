@@ -1,0 +1,19 @@
+---
+layout: post
+title: 110 Sleveet, D Type
+#permalink: 
+date: 2020-06-30 08:49:39
+categories: housing-terminal
+tags:  Faston Terminal (DIN)
+summary: 110 Sleveet, D Type
+published: true 
+series: faston
+part_number: DR110-25
+mfg_part_number: 
+mfg_part_number2: DR110-25
+price: 0.00
+thumb_img: static/202006/391-thumb-20200630085017.jpg
+small_img: static/202006/391-20200630085017.jpg
+---
+
+

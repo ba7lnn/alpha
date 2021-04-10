@@ -1,0 +1,186 @@
+---
+layout: post
+title: 42-34AWG Mini HDMI 
+#permalink: 42-34awg-core-wire-for-hdmi
+date: 2018-05-05 15:01:12
+categories: wire-cable
+tags: hdmi Teflon
+summary: 
+published: true 
+series: FN10
+part_number: 10-0000-1
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: 
+small_img: 
+---
+
+
+<p align="center">
+	<img src="public/goods/4234awgminihdmi2.jpg" alt="42-34 awg core wire" class="img-responsive" /> 
+</p>
+<div class="table-responsive">
+	<table class="table table-bordered table-hover">
+		<tbody>
+			<tr>
+				<td>
+					AWG
+				</td>
+				<td>
+					Conducor
+				</td>
+				<td>
+					Metarial
+				</td>
+				<td>
+					<br />
+				</td>
+				<td>
+					O.D.(mm)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					42AWG
+				</td>
+				<td>
+					7/0.025
+				</td>
+				<td>
+					SPTCA
+				</td>
+				<td>
+					PFA
+				</td>
+				<td>
+					0.18
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+				<td>
+					1/0.065
+				</td>
+				<td>
+					SPC
+				</td>
+				<td>
+					PFA
+				</td>
+				<td>
+					0.165
+				</td>
+			</tr>
+			<tr>
+				<td>
+					40AWG
+				</td>
+				<td>
+					7/0.03
+				</td>
+				<td>
+					SPTCA
+				</td>
+				<td>
+					FEP
+				</td>
+				<td>
+					0.21
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+				<td>
+					7/0.03
+				</td>
+				<td>
+					TPTCA
+				</td>
+				<td>
+					FEP
+				</td>
+				<td>
+					0.21
+				</td>
+			</tr>
+			<tr>
+				<td>
+					36AWG
+				</td>
+				<td>
+					7/0.05
+				</td>
+				<td>
+					SPC
+				</td>
+				<td>
+					FEP
+				</td>
+				<td>
+					0.40
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+				<td>
+					7/0.05
+				</td>
+				<td>
+					TC
+				</td>
+				<td>
+					FEP
+				</td>
+				<td>
+					0.40
+				</td>
+			</tr>
+			<tr>
+				<td>
+					34AWG
+				</td>
+				<td>
+					7/0.06
+				</td>
+				<td>
+					SPC
+				</td>
+				<td>
+					FEP
+				</td>
+				<td>
+					0.50
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+				<td>
+					7/0.06
+				</td>
+				<td>
+					TC
+				</td>
+				<td>
+					FEP
+				</td>
+				<td>
+					0.50
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	* TC: Tinned copper<br />
+* SPC: Silver plated copper<br />
+* SPTCA: silver plated tin-copper alloy<br />
+* TPTCA：Tin plated tin-copper allloy
+</p>
+<p>
+	<br />
+</p>

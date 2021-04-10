@@ -1,0 +1,20 @@
+---
+layout: post
+title: DC5521 SPT-1 18AWG 304船形开关电源线
+#permalink: 
+date: 2020-03-23 18:02:53
+categories: wire-harness
+tags:  Wire Harness
+summary: DC5521 SPT-1 18AWG 304船形开关电源线
+published: true 
+series: 
+part_number: KR21
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/286-thumb-20200323180337.jpg
+small_img: static/202003/286-20200323180337.jpg
+---
+
+
+SPT-1 18AWG 304船形开关电源线

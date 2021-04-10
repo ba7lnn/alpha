@@ -1,0 +1,19 @@
+---
+layout: post
+title: EN1508, Terminal
+#permalink: 
+date: 2020-07-04 11:20:44
+categories: housing-terminal
+tags:  Faston Terminal (DIN)
+summary: EN1508, Terminal
+published: true 
+series: KT
+part_number: EN1508
+mfg_part_number: 
+mfg_part_number2: EN1508
+price: 0.00
+thumb_img: static/202007/430-thumb-20200704112243.jpg
+small_img: static/202007/430-20200704112243.jpg
+---
+
+

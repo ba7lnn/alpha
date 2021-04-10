@@ -1,0 +1,20 @@
+---
+layout: post
+title: Molex1.5 IDC
+#permalink: 
+date: 2020-03-25 09:33:55
+categories: housing-terminal
+tags:  1.25mm Pitch(.049")
+summary: Molex1.5 MTA
+published: true 
+series: MTA
+part_number: MX15/06
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/306-thumb-20200325093455.jpg
+small_img: static/202003/306-20200325093455.jpg
+---
+
+
+Molex1.5 MTA

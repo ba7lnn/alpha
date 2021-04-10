@@ -1,0 +1,20 @@
+---
+layout: post
+title: EL4.14对接端子线束红黑2P硅胶线
+#permalink: 
+date: 2020-03-19 20:08:54
+categories: wire-harness
+tags: 对接端子线 Power Cable
+summary: EL4.14对接端子线束红黑2P硅胶线
+published: true 
+series: 
+part_number: 
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/261-thumb-20200319200952.jpg
+small_img: static/202003/261-20200319200952.jpg
+---
+
+
+EL4.14对接端子线束红黑2P硅胶线

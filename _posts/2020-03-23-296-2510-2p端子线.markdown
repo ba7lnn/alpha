@@ -1,0 +1,20 @@
+---
+layout: post
+title: 2510 2P端子线
+#permalink: 
+date: 2020-03-23 18:17:21
+categories: wireharness
+tags:  Wire Harness
+summary: 2510 2P端子线
+published: true 
+series: 
+part_number: KR30
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/296-thumb-20200323181753.jpg
+small_img: static/202003/296-20200323181753.jpg
+---
+
+
+2510 2P端子线

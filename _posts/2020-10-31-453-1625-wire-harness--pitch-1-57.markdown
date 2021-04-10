@@ -1,0 +1,19 @@
+---
+layout: post
+title: 1625 Wire Harness, Pitch 1.57
+#permalink: 
+date: 2020-10-31 08:18:40
+categories: wireharness
+tags:  Wire Harness
+summary: Pitch 1.57, 1265 Series
+published: true 
+series: 1625
+part_number: HRE1258
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202010/453-thumb-20201031081957.jpg
+small_img: static/202010/453-20201031081957.jpg
+---
+
+

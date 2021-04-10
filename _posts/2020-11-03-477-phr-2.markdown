@@ -1,0 +1,19 @@
+---
+layout: post
+title: PHR-2
+#permalink: 
+date: 2020-11-03 09:58:53
+categories: housing-terminal
+tags:  2.0mm Pitch(.079")
+summary: 
+published: true 
+series: PH
+part_number: PHR
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202011/477-thumb-20201103095958.jpg
+small_img: static/202011/477-20201103095958.jpg
+---
+
+

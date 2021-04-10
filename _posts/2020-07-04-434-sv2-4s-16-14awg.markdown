@@ -1,0 +1,19 @@
+---
+layout: post
+title: SV2-4S,16-14AWG
+#permalink: 
+date: 2020-07-04 11:28:35
+categories: housing-terminal
+tags:  Faston Terminal (DIN)
+summary: SV2-4S,16-14AWG
+published: true 
+series: KT
+part_number: SV2-4S
+mfg_part_number: 
+mfg_part_number2: KT:SV2-4S
+price: 0.00
+thumb_img: static/202007/434-thumb-20200704112913.jpg
+small_img: static/202007/434-20200704112913.jpg
+---
+
+

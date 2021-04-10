@@ -1,0 +1,25 @@
+---
+layout: post
+title: 2651 28AWG L=300 3mm
+#permalink: 
+date: 2020-05-23 14:52:37
+categories: wireharness
+tags:  Wire Harness
+summary: 2651 28AWG L=300 3mm2
+published: true 
+series: 
+part_number: 5120000
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202005/329-thumb-20200523145344.jpg
+small_img: static/202005/329-20200523145344.jpg
+---
+
+
+<p>
+	2651 28AWG L=300 3mm
+</p>
+<p>
+	Side Gray&nbsp; with 8 Pin
+</p>

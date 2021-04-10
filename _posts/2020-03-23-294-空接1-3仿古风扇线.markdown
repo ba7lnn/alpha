@@ -1,0 +1,20 @@
+---
+layout: post
+title: 空接1.3仿古风扇线
+#permalink: 
+date: 2020-03-23 18:15:03
+categories: wire-harness
+tags:  Wire Harness
+summary: 空接1.3仿古风扇线
+published: true 
+series: 
+part_number: KR28
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/294-thumb-20200323181541.jpg
+small_img: static/202003/294-20200323181541.jpg
+---
+
+
+空接1.3仿古风扇线

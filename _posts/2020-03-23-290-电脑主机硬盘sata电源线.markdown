@@ -1,0 +1,20 @@
+---
+layout: post
+title: 电脑主机硬盘SATA电源线
+#permalink: 
+date: 2020-03-23 18:10:16
+categories: wire-harness
+tags:  Wire Harness
+summary: 电脑主机硬盘电源线
+published: true 
+series: 
+part_number: KR24
+mfg_part_number: 
+mfg_part_number2: 
+price: 0.00
+thumb_img: static/202003/290-thumb-20200323181057.jpg
+small_img: static/202003/290-20200323181057.jpg
+---
+
+
+电脑主机硬盘电源线
