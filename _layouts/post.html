@@ -2,12 +2,20 @@
 
 					{% include sidebar2.html %}
 
-
 				<!-- Main -->
 					<!-- Main -->
 					<div id="main">
 						<div class="inner">
 							<h1>{{ page.title }}</h1>
+							<section>
+							<ul>
+								<li>Category:  <a href="{{site.url}}/category/{{ page.categories }}">{{ page.categories }}</a></li>
+								<li>Part Number: {{ page.part_number }}</li>
+								<li>Series: <a href="{{site.url}}/series/{{page.series }}">{{page.series }}</a></li>
+								<li>Tags: {{ pages.tags | join: ", " }}</li>
+								<li>Overview: {{ page.summary }}</li>
+							</ul>
+							</section>
 
 							<span class="image main"><img src="{{ site.url }}/{{ page.small_img }}" alt="{{ page.title }}" /></span>
 
