@@ -4,7 +4,7 @@ title: AMP5264 2P 50375023 2.50mm Pitch, Mini-SPOX Receptacle Crimp
 #permalink: 
 date: 2020-04-12 23:10:02
 categories: housing-terminal
-tags:  2.0mm Pitch(.079")
+tags:  2.0mm(.079")
 summary: AMP5264 2P 2.50mm Pitch, Mini-SPOX Receptacle Crimp Housing, Single Row, Friction Lock, 2 Circuits, Natural
 published: true 
 series: 5264

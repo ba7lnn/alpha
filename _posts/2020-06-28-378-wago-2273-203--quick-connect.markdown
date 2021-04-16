@@ -4,7 +4,7 @@ title: wago 2273-203, Quick connect
 #permalink: 
 date: 2020-06-28 16:36:52
 categories: housing-terminal
-tags:  3.0mm Pitch (.118")
+tags:  3.0mm(.118")
 summary: wago 2273-203
 published: true 
 series: 

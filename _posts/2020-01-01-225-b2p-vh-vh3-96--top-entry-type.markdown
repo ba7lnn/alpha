@@ -4,7 +4,7 @@ title: B2P-VH,VH3.96, Top entry type
 #permalink: 
 date: 2020-01-01 14:34:27
 categories: housing-terminal
-tags: VH3.96 3.96mm Pitch(.156")
+tags: VH3.96 3.96mm(.156")
 summary: B2P-VH,VH3.96, Top entry type
 published: true 
 series: 

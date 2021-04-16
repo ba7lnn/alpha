@@ -3,7 +3,7 @@ layout: post
 title: DB9Female, D-SUB to PH2.0, Overmolded
 #permalink: 
 date: 2020-03-23 16:03:44
-categories: overmolded 
+categories: wire-harness
 tags:  Overmolded Assembly
 summary: DB9Female, D-SUB to PH2.0, Overmolded
 published: true 

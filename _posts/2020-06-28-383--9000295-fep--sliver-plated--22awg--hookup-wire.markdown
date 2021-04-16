@@ -3,7 +3,7 @@ layout: post
 title: #9000295 FEP, Sliver plated, 22AWG, Hookup wire
 #permalink: 
 date: 2020-06-28 16:52:22
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: #9000295 FEP, Sliver plated, 22AWG, Hookup wire
 published: true 

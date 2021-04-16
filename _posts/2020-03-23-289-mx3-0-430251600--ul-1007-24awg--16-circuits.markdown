@@ -3,7 +3,7 @@ layout: post
 title: MX3.0 430251600, UL 1007 24AWG, 16 Circuits
 #permalink: 
 date: 2020-03-23 18:08:23
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: MX3.0 430251600, UL 1007 24AWG, 16 Circuits
 published: true 

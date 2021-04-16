@@ -3,7 +3,7 @@ layout: post
 title: Pre-Crimped 1.57mm,Pin&Socket Crimp Terminal,Male, 18AWG
 #permalink: 
 date: 2020-06-27 08:29:13
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: Pre-Crimped 1.57mm,Pin&Socket Crimp Terminal,Male, 18AWG
 published: true 

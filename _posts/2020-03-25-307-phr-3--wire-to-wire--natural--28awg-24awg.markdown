@@ -4,7 +4,7 @@ title: PHR-3, Wire to Wire, Natural, 28AWG-24AWG
 #permalink: 
 date: 2020-03-25 09:35:25
 categories: housing-terminal
-tags:  2.0mm Pitch(.079")
+tags:  2.0mm(.079")
 summary: PHR-3, Wire to Wire, Natural, 28AWG-24AWG
 published: true 
 series: 

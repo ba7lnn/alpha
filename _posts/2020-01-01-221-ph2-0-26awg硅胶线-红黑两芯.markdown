@@ -3,7 +3,7 @@ layout: post
 title: PH2.0 26AWG硅胶线,红黑两芯
 #permalink: 
 date: 2020-01-01 13:07:58
-categories: wireharness
+categories: wire-harness
 tags: 硅胶线 Wire Harness
 summary: PH2.0 26AWG硅胶线
 published: true 

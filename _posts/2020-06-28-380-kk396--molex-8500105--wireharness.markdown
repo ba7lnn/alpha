@@ -3,7 +3,7 @@ layout: post
 title: KK396, Molex 8500105, WireHarness
 #permalink: 
 date: 2020-06-28 16:44:51
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: KK396, MX8500105, WireHarness
 published: true 

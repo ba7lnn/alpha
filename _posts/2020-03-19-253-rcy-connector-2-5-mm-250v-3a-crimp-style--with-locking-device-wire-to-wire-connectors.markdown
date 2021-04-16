@@ -3,7 +3,7 @@ layout: post
 title: RCY connector,2.5 mm,250V,3A,Crimp style, With locking device,Wire-to-Wire Connectors
 #permalink: 
 date: 2020-03-19 19:53:19
-categories: wireharness
+categories: wire-harness
 tags: 空中对接 Wire Harness
 summary: RCY connector,2.5 mm,250V,3A,Crimp style, With locking device,Wire-to-Wire Connectors
 published: true 

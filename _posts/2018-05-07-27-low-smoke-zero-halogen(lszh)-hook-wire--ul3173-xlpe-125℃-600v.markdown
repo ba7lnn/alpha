@@ -13,7 +13,7 @@ mfg_part_number:
 mfg_part_number2: 
 price: 0.00
 thumb_img: 
-small_img: 
+small_img: assets/images/single-conductor.jpg
 ---
 
 

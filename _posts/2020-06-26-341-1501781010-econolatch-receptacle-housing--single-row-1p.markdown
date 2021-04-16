@@ -4,7 +4,7 @@ title: 1501781010,EconoLatch Receptacle Housing, Single Row,1P
 #permalink: 
 date: 2020-06-26 16:19:37
 categories: housing-terminal
-tags:  1.57mm Pitch(.062")
+tags:  1.57mm(.062")
 summary: EconoLatch Receptacle Housing, Single Row, 1 Circuits
 published: true 
 series: 1625

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: ROBOT wire harness
+is_home: true
 #permalink: 
 date: 2020-10-31 15:42:58
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: ROBOT wire harness
 published: true 

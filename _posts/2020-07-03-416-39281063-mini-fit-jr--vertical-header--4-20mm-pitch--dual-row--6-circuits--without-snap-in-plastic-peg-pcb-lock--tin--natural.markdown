@@ -4,7 +4,7 @@ title: 39281063，Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 6 Circui
 #permalink: 
 date: 2020-07-03 15:32:55
 categories: housing-terminal
-tags:  4.2mm Pitch(.165")
+tags:  4.2mm(.165")
 summary: Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 6 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural
 published: true 
 series: 5557

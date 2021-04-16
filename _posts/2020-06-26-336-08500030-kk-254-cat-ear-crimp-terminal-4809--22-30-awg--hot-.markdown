@@ -4,7 +4,7 @@ title: 08500030 KK 254 Cat Ear Crimp Terminal 4809, 22-30 AWG, Hot
 #permalink: 
 date: 2020-06-26 14:05:15
 categories: housing-terminal
-tags:  2.54mm Pitch(.10")
+tags:  2.54mm(.10")
 summary: KK 254 Cat Ear Crimp Terminal 4809, 22-30 AWG, Hot Tin Dip, 2.20mm Insulation Crimp, Reel
 published: true 
 series: 2510

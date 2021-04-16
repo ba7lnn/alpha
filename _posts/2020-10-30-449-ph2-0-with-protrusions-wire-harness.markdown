@@ -3,7 +3,7 @@ layout: post
 title: PH2.0 With protrusions Wire Harness
 #permalink: 
 date: 2020-10-30 19:44:26
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: 
 published: true 

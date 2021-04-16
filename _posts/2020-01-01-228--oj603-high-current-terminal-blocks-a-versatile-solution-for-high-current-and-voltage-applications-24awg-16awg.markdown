@@ -4,7 +4,7 @@ title:  OJ603,High-Current,Terminal Blocks,a versatile solution for high current
 #permalink: 
 date: 2020-01-01 14:57:46
 categories: housing-terminal
-tags: OJ603,快接端子 4.14mm Pitch(.163")
+tags: OJ603,快接端子 4.14mm(.163")
 summary: OJ603,lighting-connectors, Wire to Wire,High-Current,Terminal Blocks,a versatile solution for high current and voltage applications,24awg-16awg
 published: true 
 series: 

@@ -3,7 +3,7 @@ layout: post
 title: 2651 28AWG L=300 3mm
 #permalink: 
 date: 2020-05-23 14:52:37
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: 2651 28AWG L=300 3mm2
 published: true 

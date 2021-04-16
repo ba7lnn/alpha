@@ -3,7 +3,7 @@ layout: post
 title: 0.6mm Pitch XSR,10XSR-36S, 8 circuits Insulation Displacement Connectors (Wire-to-Board type)
 #permalink: 
 date: 2020-07-01 18:20:01
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: XSR,10XSR-36S, 8 circuits Insulation Displacement Connectors (Wire-to-Board type),0.6,0.2A,30V,Side entry
 published: true 

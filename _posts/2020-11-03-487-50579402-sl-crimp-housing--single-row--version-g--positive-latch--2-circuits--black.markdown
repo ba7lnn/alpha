@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 50579402,SL Crimp Housing, Single Row, Version G, Positive Latch, 2 Circuits, Black
+is_home: true
 #permalink: 
 date: 2020-11-03 19:41:47
 categories: housing-terminal
-tags:  2.54mm Pitch(.10")
+tags:  2.54mm(.10")
 summary: SL Crimp Housing, Single Row, Version G, Positive Latch, 2 Circuits, Black
 published: true 
 series: SL

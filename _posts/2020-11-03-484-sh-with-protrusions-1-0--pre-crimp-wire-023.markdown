@@ -3,7 +3,7 @@ layout: post
 title: SH With protrusions 1.0, Pre-crimp wire 023
 #permalink: 
 date: 2020-11-03 15:27:56
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: 
 published: true 

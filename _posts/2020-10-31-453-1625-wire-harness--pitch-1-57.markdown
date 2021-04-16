@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 1625 Wire Harness, Pitch 1.57
+is_home: true
 #permalink: 
 date: 2020-10-31 08:18:40
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: Pitch 1.57, 1265 Series
 published: true 

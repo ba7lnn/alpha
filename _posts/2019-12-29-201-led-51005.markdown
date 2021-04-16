@@ -3,7 +3,7 @@ layout: post
 title: LED 51005
 #permalink: 
 date: 2019-12-29 10:17:51
-categories: wireharness
+categories: wire-harness
 tags: 51005 Wire Harness
 summary: 
 published: true 

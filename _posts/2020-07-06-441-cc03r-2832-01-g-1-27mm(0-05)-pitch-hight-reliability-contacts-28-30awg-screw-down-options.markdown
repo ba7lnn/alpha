@@ -4,7 +4,7 @@ title: CC03R-2832-01-G,1.27mm(0.05") Pitch,Hight-reliability contacts,28-30AWG,S
 #permalink: 
 date: 2020-07-06 07:23:16
 categories: housing-terminal
-tags:  1.27mm Pitch(.05")
+tags:  1.27mm(.05")
 summary: 1.27mm(0.05") Pitch,Hight-reliability contacts,28-30AWG,Screw Down Options
 published: true 
 series: 

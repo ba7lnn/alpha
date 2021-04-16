@@ -4,7 +4,7 @@ title: 08500105 KK 396 Crimp Terminal 2478, 18-24 AWG, Reel, Brass Tin (Sn)
 #permalink: 
 date: 2020-06-28 14:38:03
 categories: housing-terminal
-tags:  3.96mm Pitch(.156")
+tags:  3.96mm(.156")
 summary: KK 396 Crimp Terminal 2478, 18-24 AWG, Reel, Brass Tin (Sn)
 published: true 
 series: KK396

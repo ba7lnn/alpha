@@ -4,7 +4,7 @@ title: JST, PH, 2Pin, s2b-ph-k-s
 #permalink: 
 date: 2020-10-30 19:42:43
 categories: housing-terminal
-tags:  2.0mm Pitch(.079")
+tags:  2.0mm(.079")
 summary: 
 published: true 
 series: PH

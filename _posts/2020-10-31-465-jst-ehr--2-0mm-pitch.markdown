@@ -4,7 +4,7 @@ title: JST EHR, 2.0mm Pitch
 #permalink: 
 date: 2020-10-31 14:02:17
 categories: housing-terminal
-tags:  2.54mm Pitch(.10")
+tags:  2.54mm(.10")
 summary: JST EHR, 2.0mm Pitch
 published: true 
 series: EH

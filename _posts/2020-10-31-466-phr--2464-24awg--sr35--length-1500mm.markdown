@@ -3,7 +3,7 @@ layout: post
 title: PHR, 2464 24AWG  SR:3*5, Length 1500mm
 #permalink: 
 date: 2020-10-31 14:05:13
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: PHR, 2464 24AWG  SR:3*5, Length 1500mm
 published: true 

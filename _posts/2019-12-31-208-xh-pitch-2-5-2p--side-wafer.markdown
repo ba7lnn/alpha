@@ -4,7 +4,7 @@ title: XH,Pitch 2.5,2P, Side Wafer
 #permalink: 
 date: 2019-12-31 21:17:07
 categories: housing-terminal
-tags: 2.54 2.54mm Pitch(.10")
+tags: 2.54 2.54mm(.10")
 summary: XH,Pitch 2.5,2P, Side Wafer
 published: true 
 series: XH

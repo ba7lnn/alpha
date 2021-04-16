@@ -4,7 +4,7 @@ title: PHR,W2W
 #permalink: 
 date: 2020-11-03 10:00:10
 categories: housing-terminal
-tags:  2.0mm Pitch(.079")
+tags:  2.0mm(.079")
 summary: 
 published: true 
 series: PH

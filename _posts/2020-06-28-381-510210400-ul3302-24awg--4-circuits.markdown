@@ -3,7 +3,7 @@ layout: post
 title: 510210400,UL3302 24AWG, 4 Circuits
 #permalink: 
 date: 2020-06-28 16:47:32
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: 510210400,UL3302 24AWG, 4 Circuits
 published: true 

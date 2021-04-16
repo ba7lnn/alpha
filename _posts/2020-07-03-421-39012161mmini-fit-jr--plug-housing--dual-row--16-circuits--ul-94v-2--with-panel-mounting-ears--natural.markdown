@@ -4,7 +4,7 @@ title: 39012161mMini-Fit Jr. Plug Housing, Dual Row, 16 Circuits, UL 94V-2, with
 #permalink: 
 date: 2020-07-03 16:15:37
 categories: housing-terminal
-tags:  4.2mm Pitch(.165")
+tags:  4.2mm(.165")
 summary: Mini-Fit Jr. Plug Housing, Dual Row, 16 Circuits, UL 94V-2, with Panel Mounting Ears, Natural
 published: true 
 series: 5557

@@ -3,7 +3,7 @@ layout: post
 title: 797580002 Pre-Crimped Lead Micro-Fit 3.0 Female-to-Micro-Fit
 #permalink: 
 date: 2020-06-26 13:18:01
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: Cable Assemblies,Pre-Crimped Lead Micro-Fit 3.0 Female-to-Micro-Fit 3.0 Female Tin Plated, 150mm, 20 AWG
 published: true 

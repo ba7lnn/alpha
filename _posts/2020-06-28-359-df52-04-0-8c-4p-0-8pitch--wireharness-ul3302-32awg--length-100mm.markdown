@@ -3,7 +3,7 @@ layout: post
 title: DF52-04-0.8C,4P,0.8Pitch, WireHarness,UL3302 32AWG, Length 100mm
 #permalink: 
 date: 2020-06-28 14:46:58
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: DF52-04-0.8C,4P,0.8Pitch, WireHarness,UL3302 32AWG, Length 100mm
 published: true 

@@ -4,7 +4,7 @@ title: PH2.0 Wire to wire, Headers,3 Circuits
 #permalink: 
 date: 2020-06-28 15:15:44
 categories: housing-terminal
-tags:  2.0mm Pitch(.079")
+tags:  2.0mm(.079")
 summary: PH2.0 Wire to wire, Headers,4Circuits
 published: true 
 series: PH

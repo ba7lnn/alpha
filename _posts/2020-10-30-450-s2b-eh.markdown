@@ -4,7 +4,7 @@ title: S2B-EH
 #permalink: 
 date: 2020-10-30 19:48:58
 categories: housing-terminal
-tags:  2.54mm Pitch(.10")
+tags:  2.54mm(.10")
 summary: 
 published: true 
 series: EH

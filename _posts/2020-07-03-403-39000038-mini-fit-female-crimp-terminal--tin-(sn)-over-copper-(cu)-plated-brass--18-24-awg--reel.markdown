@@ -4,7 +4,7 @@ title: 39000038 Mini-Fit Female Crimp Terminal, Tin (Sn) over Copper (Cu) Plated
 #permalink: 
 date: 2020-07-03 13:17:05
 categories: housing-terminal
-tags:  4.2mm Pitch(.165")
+tags:  4.2mm(.165")
 summary: Mini-Fit Female Crimp Terminal, Tin (Sn) over Copper (Cu) Plated Brass, 18-24 AWG, Reel
 published: true 
 series: 5557

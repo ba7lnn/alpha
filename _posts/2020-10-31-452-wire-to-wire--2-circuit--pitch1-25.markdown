@@ -3,7 +3,7 @@ layout: post
 title: Wire to Wire, 2 Circuit, Pitch1.25
 #permalink: 
 date: 2020-10-31 08:15:04
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: Wire to Wire, 2 Circuit, Pitch1.25
 published: true 

@@ -3,7 +3,7 @@ layout: post
 title: UL10064 32AWG, FEP WireHarness Length 25mm for TWS(True Wireless Stereo)
 #permalink: 
 date: 2020-06-28 15:06:43
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: UL10064 32AWG, FEP WireHarness Length 25mm for TWS(True Wireless Stereo)
 published: true 

@@ -3,7 +3,7 @@ layout: post
 title: PHR-6, Pitch 2.0mm, 6 circuits, Length 300mm, UL1007 24AWG
 #permalink: 
 date: 2020-06-28 16:50:07
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: PHR-6, Pitch 2.0mm, 6 circuits, Length 300mm, UL1007 24AWG
 published: true 

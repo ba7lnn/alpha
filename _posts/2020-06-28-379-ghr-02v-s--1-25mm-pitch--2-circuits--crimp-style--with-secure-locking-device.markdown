@@ -3,7 +3,7 @@ layout: post
 title: GHR-02V-S, 1.25mm pitch, 2 Circuits, Crimp style, With secure locking device
 #permalink: 
 date: 2020-06-28 16:39:39
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: Crimp style, With secure locking device,With secure locking device, Pitch 1.25
 published: true 

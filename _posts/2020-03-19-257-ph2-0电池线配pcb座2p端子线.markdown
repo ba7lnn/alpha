@@ -3,7 +3,7 @@ layout: post
 title: PH2.0电池线配PCB座2P端子线
 #permalink: 
 date: 2020-03-19 20:01:50
-categories: wireharness
+categories: wire-harness
 tags: 端子线 Wire Harness
 summary: PH2.0电池线配PCB座2P端子线
 published: true 

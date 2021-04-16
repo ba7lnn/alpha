@@ -4,7 +4,7 @@ title: SH With protrusions 1.0
 #permalink: 
 date: 2020-11-03 15:26:35
 categories: housing-terminal
-tags:  1.0mm Pitch(.039")
+tags:  1.0mm(.039")
 summary: 
 published: true 
 series: SH

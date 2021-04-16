@@ -3,7 +3,7 @@ layout: post
 title: JAE航空电子2P端子线
 #permalink: 
 date: 2020-03-19 20:06:38
-categories: wireharness
+categories: wire-harness
 tags: JAE航空电子,端子线 Wire Harness
 summary: JAE航空电子2P端子线
 published: true 

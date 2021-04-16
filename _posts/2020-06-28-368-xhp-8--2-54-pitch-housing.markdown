@@ -4,7 +4,7 @@ title: XHP-8, 2.54 Pitch Housing
 #permalink: 
 date: 2020-06-28 15:19:08
 categories: housing-terminal
-tags:  2.54mm Pitch(.10")
+tags:  2.54mm(.10")
 summary: This connector was developed based on the high reliability
 published: true 
 series: 

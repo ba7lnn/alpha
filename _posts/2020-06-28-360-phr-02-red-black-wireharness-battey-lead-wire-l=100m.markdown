@@ -3,7 +3,7 @@ layout: post
 title: PHR-02,Red,Black Wireharness,battey lead wire,L=100m
 #permalink: 
 date: 2020-06-28 14:50:08
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: PHR-02,Red,Black Wireharness,battey lead wire,
 published: true 

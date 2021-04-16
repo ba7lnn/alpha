@@ -3,7 +3,7 @@ layout: post
 title: Ultra-thin pitch 1.25mm, 4 circuit
 #permalink: 
 date: 2020-03-25 09:31:48
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: Ultra-thin pitch 1.25mm, 4 circuit
 published: true 

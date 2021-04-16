@@ -4,7 +4,7 @@ title: 02061101,1.57mm, Pin&Socket Crimp Terminal, Female,18-24AWG
 #permalink: 
 date: 2020-06-26 15:39:04
 categories: housing-terminal
-tags:  1.57mm Pitch(.062")
+tags:  1.57mm(.062")
 summary: 1.57mm Diameter, Standard .062" Pin and Socket Crimp Terminal, Female, with Tin (Sn) Plated Brass Contact, 18-24 AWG, Reel,
 published: true 
 series: 1625

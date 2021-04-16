@@ -4,7 +4,7 @@ title: lighting connectors, LED for 2068 Wire to Wire, 2 Circuits
 #permalink: 
 date: 2020-01-01 15:21:37
 categories: housing-terminal
-tags: 快接端子 2.54mm Pitch(.10")
+tags: 快接端子 2.54mm(.10")
 summary: lighting connectors, LED for 2068 Wire to Wire, 2 Circuits,Cutting 6mm for use to easy
 published: true 
 series: 

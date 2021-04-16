@@ -3,7 +3,7 @@ layout: post
 title: Crimp Style Connectors,12Pin,1.25 mm,0.7A (AWG#26),50V
 #permalink: 
 date: 2020-04-12 23:50:31
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: SZN Crimp Style Connectors,12Pin,1.5 mm,0.7A (AWG#26),50V
 published: true 

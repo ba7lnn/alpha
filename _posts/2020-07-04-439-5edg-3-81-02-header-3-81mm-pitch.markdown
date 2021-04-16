@@ -4,7 +4,7 @@ title: 5EDG-3.81-02,Header,3.81mm pitch
 #permalink: 
 date: 2020-07-04 13:03:20
 categories: housing-terminal
-tags:  3.81mm Pitch(.15")
+tags:  3.81mm(.15")
 summary: 5EDG-3.81-02,Header,3.81mm pitch
 published: true 
 series: EDG

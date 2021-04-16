@@ -3,7 +3,7 @@ layout: post
 title: Molex 50579008  2.54mm Pitch, 8 circuits,SL Crimp Housing, Single Row, 
 #permalink: 
 date: 2020-06-28 16:57:57
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: SL Crimp Housing, Single Row, Version A, Non-polarized, 8 Circuits, Black
 published: true 

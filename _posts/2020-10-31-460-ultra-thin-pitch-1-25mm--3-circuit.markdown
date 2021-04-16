@@ -3,7 +3,7 @@ layout: post
 title: Ultra-thin pitch 1.25mm, 3 circuit
 #permalink: 
 date: 2020-10-31 10:33:31
-categories: housing-terminal
+categories: 
 tags:  
 summary: Ultra-thin pitch 1.25mm, 3 circuit
 published: true 

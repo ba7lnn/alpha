@@ -4,7 +4,7 @@ title: 15EDG-3.5,UL, VDE, 6 Circuits,Screw
 #permalink: 
 date: 2020-07-04 12:57:32
 categories: housing-terminal
-tags:  3.5mm Pitch(.137")
+tags:  3.5mm(.137")
 summary: 15EDG-3.5,UL, VDE, 6 Circuits,Screw
 published: true 
 series: EDG

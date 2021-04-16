@@ -4,7 +4,7 @@ title: 905841310  PF-50 IDT Receptacle,Board-in
 #permalink: 
 date: 2020-06-13 19:11:24
 categories: housing-terminal
-tags:  1.5mm Pitch(.059")
+tags:  1.5mm(.059")
 summary: 1.27mm Pitch Picoflex PF-50 IDT Receptacle, Low Profile, Board-in, 10 Circuits, Picoflex Ribbon-Cable Connectors
 published: true 
 series: IDT

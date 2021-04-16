@@ -3,7 +3,7 @@ layout: post
 title: Faston, Type O, 24AWG-22AWG Wire Harness
 #permalink: 
 date: 2019-12-31 21:43:16
-categories: wireharness
+categories: wire-harness
 tags: 地环端子 Wire Harness
 summary: Faston, Type O, 24AWG-22AWG Wire Harness
 published: true 

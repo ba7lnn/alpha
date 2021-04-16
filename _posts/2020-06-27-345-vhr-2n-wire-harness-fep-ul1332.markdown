@@ -3,7 +3,7 @@ layout: post
 title: VHR-2N Wire harness Fep UL1332
 #permalink: 
 date: 2020-06-27 08:19:04
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: JST,VHR-2N, Wire harness, Fep UL1332, length 100mm
 published: true 

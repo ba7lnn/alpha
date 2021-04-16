@@ -4,7 +4,7 @@ title: MX3.0 436450300 Housing
 #permalink: 
 date: 2020-06-26 08:16:09
 categories: housing-terminal
-tags:  3.0mm Pitch (.118")
+tags:  3.0mm(.118")
 summary: Micro-Fit 3.0 Receptacle Housing, Single Row, 2 Circuits, UL 94V-0, Low-Halogen, Black
 published: true 
 series: MX30

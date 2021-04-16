@@ -3,7 +3,7 @@ layout: post
 title: SH With protrusions, Wire Harness
 #permalink: 
 date: 2020-10-31 10:40:17
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: SH With protrusions, Wire Harness
 published: true 

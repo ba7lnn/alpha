@@ -4,7 +4,7 @@ title: Crimp Style Connectors,12Pin,1.25 mm
 #permalink: 
 date: 2020-10-31 08:01:10
 categories: housing-terminal
-tags:  1.25mm Pitch(.049")
+tags:  1.25mm(.049")
 summary: Pitch, 125, SZN Style
 published: true 
 series: FN125

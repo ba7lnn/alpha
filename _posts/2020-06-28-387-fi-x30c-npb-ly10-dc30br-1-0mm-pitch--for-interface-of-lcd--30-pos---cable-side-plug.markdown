@@ -3,7 +3,7 @@ layout: post
 title: FI-X30C-NPB,LY10-DC30BR,1.0mm pitch, for interface of LCD, 30 pos., Cable side plug
 #permalink: 
 date: 2020-06-28 17:00:08
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: 1.0mm pitch, for interface of LCD, 30 pos., Cable side plug,LY Series (2.0 mm Pitch 2 Row Crimp Connector)
 published: true 

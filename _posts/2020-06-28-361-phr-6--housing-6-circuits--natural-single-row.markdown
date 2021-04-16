@@ -4,7 +4,7 @@ title: PHR-6, Housing,6 Circuits, Natural,Single Row
 #permalink: 
 date: 2020-06-28 14:52:55
 categories: housing-terminal
-tags:  2.0mm Pitch(.079")
+tags:  2.0mm(.079")
 summary: PHR-6, Housing,6 Circuits, Natural,Single Row
 published: true 
 series: 

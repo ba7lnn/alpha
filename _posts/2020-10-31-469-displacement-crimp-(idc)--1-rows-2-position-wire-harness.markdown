@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Displacement Crimp (IDC), 1 Rows,2 Position Wire Harness
+is_home: true
 #permalink: 
 date: 2020-10-31 15:48:09
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: 
 published: true 

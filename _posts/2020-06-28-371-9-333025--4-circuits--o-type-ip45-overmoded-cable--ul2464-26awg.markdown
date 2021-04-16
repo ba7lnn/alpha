@@ -3,7 +3,7 @@ layout: post
 title: 9-333025, 4 Circuits, O type IP45 Overmoded Cable, UL2464 26AWG
 #permalink: 
 date: 2020-06-28 15:28:26
-categories: overmolded 
+categories: wire-harness
 tags:  Overmolded Assembly
 summary: 9-333025, 4 Circuits, O type IP45 Overmoded Cable, UL2464 26AWG
 published: true 

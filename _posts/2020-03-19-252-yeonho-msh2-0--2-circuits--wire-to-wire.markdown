@@ -3,7 +3,7 @@ layout: post
 title: Yeonho MSH2.0， 2 Circuits, Wire to Wire
 #permalink: 
 date: 2020-03-19 19:52:39
-categories: wireharness
+categories: wire-harness
 tags: 空中对接，端子线 Wire Harness
 summary: Yeonho MSH2.0， 2 Circuits, Wire to Wire
 published: true 

@@ -3,7 +3,7 @@ layout: post
 title: Pitch:1.0, Mini Spacker, Wireharness
 #permalink: 
 date: 2020-03-25 09:29:45
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: 
 published: true 

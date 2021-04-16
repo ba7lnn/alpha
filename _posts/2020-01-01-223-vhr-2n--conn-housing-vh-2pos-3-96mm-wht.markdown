@@ -4,7 +4,7 @@ title: VHR-2N, CONN HOUSING VH 2POS 3.96MM WHT
 #permalink: 
 date: 2020-01-01 14:08:25
 categories: housing-terminal
-tags: VH3.96 3.96mm Pitch(.156")
+tags: VH3.96 3.96mm(.156")
 summary: VHR-2N,Pitch3.96,CONN HOUSING VH 2POS 3.96MM WHT,,Female Socket
 published: true 
 series: VH

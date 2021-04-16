@@ -3,7 +3,7 @@ layout: post
 title: 187TAB Pre-Wire 1007 22AWG
 #permalink: 
 date: 2020-11-02 18:57:40
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: 
 published: true 

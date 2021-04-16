@@ -4,7 +4,7 @@ title: CyClone 50579404 SL Crimp Housing, Single Row, Version G, Positive Latch,
 #permalink: 
 date: 2020-06-28 14:42:11
 categories: housing-terminal
-tags:  2.54mm Pitch(.10")
+tags:  2.54mm(.10")
 summary: SL Crimp Housing, Single Row, Version G, Positive Latch, 4 Circuits, Black
 published: true 
 series: 

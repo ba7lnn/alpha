@@ -1,9 +1,10 @@
 ---
 layout: post
 title: SHR-06V-S-B, 1.0mm Pitch Receptacle Crimp Housing, Single Row, 6 Circuits
+is_home: true
 #permalink: 
 date: 2020-06-28 16:30:49
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: SHR-06V-S-B, 1.0mm Pitch Receptacle Crimp Housing, Single Row, 6 Circuits
 published: true 

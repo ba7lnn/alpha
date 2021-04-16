@@ -4,7 +4,7 @@ title: S8B-XH-SM4-TB,SMT Type shrouded header,2.5 pitch
 #permalink: 
 date: 2020-06-28 15:23:13
 categories: housing-terminal
-tags:  2.54mm Pitch(.10")
+tags:  2.54mm(.10")
 summary: SMT Type shrouded header,2.5 pitch
 published: true 
 series: 

@@ -4,7 +4,7 @@ title: XH,Pitch 2.5,4P, Side Wafer
 #permalink: 
 date: 2019-12-31 21:06:52
 categories: housing-terminal
-tags: 2.5间距 2.54mm Pitch(.10")
+tags: 2.5间距 2.54mm(.10")
 summary: XH,Pitch 2.5,4P, Side Wafer
 published: true 
 series: WN

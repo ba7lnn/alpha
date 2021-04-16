@@ -3,7 +3,7 @@ layout: post
 title: XT110, Power for battery, 3 Circuits
 #permalink: 
 date: 2020-06-28 15:26:19
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: XT110, Power for battery,3 Circuits
 published: true 

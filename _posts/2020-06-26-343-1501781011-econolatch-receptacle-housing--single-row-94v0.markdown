@@ -4,7 +4,7 @@ title: 1501781011,EconoLatch Receptacle Housing, Single Row,94V0
 #permalink: 
 date: 2020-06-26 16:28:24
 categories: housing-terminal
-tags:  1.57mm Pitch(.062")
+tags:  1.57mm(.062")
 summary: EconoLatch Receptacle Housing, Single Row, 1 Circuits,UL-94V0
 published: true 
 series: 1625

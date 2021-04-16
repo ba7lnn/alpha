@@ -3,7 +3,7 @@ layout: post
 title: 10KR-6H-P,Disconnectable type, IDC style, Low-profile type,1.0A (AWG#26),Top entry, Side entry
 #permalink: 
 date: 2020-06-28 16:22:08
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: Disconnectable type, IDC style, Low-profile type
 published: true 

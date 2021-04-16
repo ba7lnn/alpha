@@ -4,7 +4,7 @@ title: PCB Pin 3.96 Pitch, Barss
 #permalink: 
 date: 2020-01-01 13:49:59
 categories: housing-terminal
-tags: 基板端子 3.96mm Pitch(.156")
+tags: 基板端子 3.96mm(.156")
 summary: PCB Pin 3.96 Pitch, Barss
 published: true 
 series: 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: VH3.96, Pitch3.96, 1332 18AWG
+is_home: true
 #permalink: 
 date: 2020-11-03 10:23:37
 categories: wire-harness

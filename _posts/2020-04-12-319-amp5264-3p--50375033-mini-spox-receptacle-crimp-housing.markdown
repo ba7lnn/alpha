@@ -4,7 +4,7 @@ title: AMP5264 3P  50375033 Mini-SPOX Receptacle Crimp Housing
 #permalink: 
 date: 2020-04-12 23:47:42
 categories: housing-terminal
-tags:  2.54mm Pitch(.10")
+tags:  2.54mm(.10")
 summary: 2.50mm Pitch, Mini-SPOX Receptacle Crimp Housing, Single Row, Friction Lock, 3 Circuits, Natural,AMP,3P
 published: true 
 series: 5264

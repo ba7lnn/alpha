@@ -4,7 +4,7 @@ title: 1501761012,EconoLatch Plug Housing, Single Row, 1P,94V0
 #permalink: 
 date: 2020-06-26 16:40:09
 categories: housing-terminal
-tags:  1.57mm Pitch(.062")
+tags:  1.57mm(.062")
 summary: EconoLatch Plug Housing, Single Row, without Panel Mount Latch, 1 Circuit,UL940V
 published: true 
 series: 1625

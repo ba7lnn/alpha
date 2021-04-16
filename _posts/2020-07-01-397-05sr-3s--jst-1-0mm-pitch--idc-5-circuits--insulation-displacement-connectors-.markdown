@@ -3,7 +3,7 @@ layout: post
 title: 05SR-3S, JST,1.0mm pitch, IDC,5 Circuits ,Insulation Displacement Connectors 
 #permalink: 
 date: 2020-07-01 18:51:43
-categories: wireharness
+categories: wire-harness
 tags: 05SR-3S Wire Harness
 summary: 05SR-3S, JST,1.0mm pitch, IDC,5 Circuits ,Disconnectable type, IDC style, Compact type
 published: true 

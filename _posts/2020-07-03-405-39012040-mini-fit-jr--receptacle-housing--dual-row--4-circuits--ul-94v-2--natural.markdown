@@ -3,7 +3,7 @@ layout: post
 title: 39012040,Mini-Fit Jr. Receptacle Housing, Dual Row, 4 Circuits, UL 94V-2, Natural
 #permalink: 
 date: 2020-07-03 13:19:42
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: Mini-Fit Jr. Receptacle Housing, Dual Row, 4 Circuits, UL 94V-2, Natural
 published: true 

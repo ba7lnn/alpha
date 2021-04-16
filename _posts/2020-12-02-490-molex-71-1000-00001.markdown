@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Molex
+title: Molex 71-1000-00001
+is_home: true
 #permalink: 
 date: 2020-12-02 19:34:21
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: 
 published: true 

@@ -3,7 +3,7 @@ layout: post
 title: cdrom
 #permalink: 
 date: 2020-06-28 14:40:30
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: cdrom254
 published: true 

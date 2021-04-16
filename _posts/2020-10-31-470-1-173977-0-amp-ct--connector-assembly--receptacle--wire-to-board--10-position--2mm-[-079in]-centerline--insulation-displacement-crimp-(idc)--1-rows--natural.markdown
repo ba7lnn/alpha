@@ -4,7 +4,7 @@ title: 1-173977-0,AMP CT, Connector Assembly, Receptacle, Wire-to-Board, 10 Posi
 #permalink: 
 date: 2020-10-31 15:50:29
 categories: housing-terminal
-tags:  2.0mm Pitch(.079")
+tags:  2.0mm(.079")
 summary: AMP CT, Connector Assembly, Receptacle, Wire-to-Board, 10 Position, 2mm [.079in] Centerline, Insulation Displacement Crimp (IDC), 1 Rows, Natural, 28-26AWG
 published: true 
 series: MT

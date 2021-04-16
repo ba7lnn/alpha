@@ -3,7 +3,7 @@ layout: post
 title: 510210200 PicoBlade Receptacle,2Pin,Wire harness, Length 100mm
 #permalink: 
 date: 2020-06-28 14:08:54
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: 510210200 PicoBlade Receptacle,2Pin,Wire harness, Length 100mm,1.25mm Pitch, Single Row, Friction Lock, 2 Circuits, Natural
 published: true 

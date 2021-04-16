@@ -4,7 +4,7 @@ title: MX3.0 430300001 Micro-Fit 3.0 Crimp Terminal, Female
 #permalink: 
 date: 2020-06-26 08:19:07
 categories: housing-terminal
-tags:  3.0mm Pitch (.118")
+tags:  3.0mm(.118")
 summary: Micro-Fit 3.0 Crimp Terminal, Female, with Tin (Sn) Plated Phosphor Bronze Contact, 20-24 AWG, Reel
 published: true 
 series: MX30

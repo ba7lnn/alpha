@@ -4,7 +4,7 @@ title: Pitch2.54 H2.5mm SMT 1x6P
 #permalink: 
 date: 2020-01-01 11:59:42
 categories: housing-terminal
-tags: 排针 2.54mm Pitch(.10")
+tags: 排针 2.54mm(.10")
 summary: Pitch2.54 H2.5mm SMT 1x6P
 published: true 
 series: 

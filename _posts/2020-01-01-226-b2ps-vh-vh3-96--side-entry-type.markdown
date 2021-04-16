@@ -4,7 +4,7 @@ title: B2PS-VH,VH3.96, Side entry type
 #permalink: 
 date: 2020-01-01 14:36:11
 categories: housing-terminal
-tags: VH3.96 3.96mm Pitch(.156")
+tags: VH3.96 3.96mm(.156")
 summary: This small, field-proven connector for PC boards is reliable and has a large current carrying capacity. It can be used with a wide variety of signal, power supply, and output circuits that appear in consumer electronic products.
 published: true 
 series: VH

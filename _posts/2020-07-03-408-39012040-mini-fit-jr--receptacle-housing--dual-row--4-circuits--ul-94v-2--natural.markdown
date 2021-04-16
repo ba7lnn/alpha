@@ -4,7 +4,7 @@ title: 39012040,Mini-Fit Jr. Receptacle Housing, Dual Row, 4 Circuits, UL 94V-2,
 #permalink: 
 date: 2020-07-03 13:47:59
 categories: housing-terminal
-tags:  4.2mm Pitch(.165")
+tags:  4.2mm(.165")
 summary: 39012040,Mini-Fit Jr. Receptacle Housing, Dual Row, 4 Circuits, UL 94V-2, Natural
 published: true 
 series: 5557

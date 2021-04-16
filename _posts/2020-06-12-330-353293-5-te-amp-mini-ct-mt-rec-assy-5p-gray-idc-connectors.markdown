@@ -4,7 +4,7 @@ title: 353293-5 TE AMP MINI CT MT REC ASSY 5P GRAY,IDC connectors
 #permalink: 
 date: 2020-06-12 08:49:24
 categories: housing-terminal
-tags:  1.5mm Pitch(.059")
+tags:  1.5mm(.059")
 summary: MINI CT MT REC ASSY 5P GRAY
 published: true 
 series: MT

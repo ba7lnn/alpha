@@ -4,7 +4,7 @@ title: BM05B-SURS-TF
 #permalink: 
 date: 2020-10-31 14:00:22
 categories: wire-cable
-tags:  0.8mm Pitch (.031")
+tags:  0.8mm(.031")
 summary: 
 published: true 
 series: IDC

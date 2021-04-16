@@ -4,7 +4,7 @@ title: PHR-6S, Wire to Wire, Single Row, Natural,Single Row
 #permalink: 
 date: 2020-06-28 14:55:18
 categories: housing-terminal
-tags:  2.0mm Pitch(.079")
+tags:  2.0mm(.079")
 summary: PHR-6, Wire to Wire, Single Row, Natural,Single Row
 published: true 
 series: 

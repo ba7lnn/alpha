@@ -4,7 +4,7 @@ title: XSR, 04XSR-36S, 0.6Pitch 4Pin, Insulation displacement connectors(WTB)
 #permalink: 
 date: 2020-07-03 20:09:30
 categories: housing-terminal
-tags:  0.6mm Pitch (.024")
+tags:  0.6mm(.024")
 summary: 0.6mm Pitch XSR,10XSR-36S, 8 circuits Insulation Displacement Connectors (Wire-to-Board type)
 published: true 
 series: IDC

@@ -3,7 +3,7 @@ layout: post
 title: MX 0781720003, 1.20mm Pitch Pico-EZmate Receptacle Crimp Housing, Single Row, Friction Lock, 3 Circuits, Black
 #permalink: 
 date: 2020-06-28 16:27:59
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: MX 0781720003, 1.20mm Pitch Pico-EZmate Receptacle Crimp Housing, Single Row, Friction Lock, 3 Circuits, Black
 published: true 

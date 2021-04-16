@@ -3,7 +3,7 @@ layout: post
 title: TE 1-968700-1 Female Housing, 3 Circuits, WireHarness for BMW
 #permalink: 
 date: 2020-06-28 15:03:50
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: TE 1-9887001-1 Female Housing, 3 Circuits, WireHarness for BMW
 published: true 

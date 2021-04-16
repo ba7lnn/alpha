@@ -3,7 +3,7 @@ layout: post
 title: DF57H-2S-1.2C 32AWG Mini 2P Wire Hanress, battey lead wire
 #permalink: 
 date: 2020-04-12 23:48:57
-categories: wireharness
+categories: wire-harness
 tags:  Wire Harness
 summary: DF57 series, DF57H-2S-1.2C, Red,Black 2P, battey lead wire
 published: true 

@@ -4,7 +4,7 @@ title: OJ606,High-Current,Terminal Blocks,24awg-16awg,lighting connectors
 #permalink: 
 date: 2020-01-01 14:49:41
 categories: housing-terminal
-tags: OJ606,快接端子 4.14mm Pitch(.163")
+tags: OJ606,快接端子 4.14mm(.163")
 summary: High-Current,Terminal Blocks,24awg-16awg
 published: true 
 series: 
