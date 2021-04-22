@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: EDG"
-tag: EDG
+serie: EDG
 robots: noindex
 ---

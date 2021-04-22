@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: FFC"
-tag: FFC
+serie: FFC
 robots: noindex
 ---

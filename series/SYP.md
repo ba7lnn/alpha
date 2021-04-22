@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: SYP"
-tag: SYP
+serie: SYP
 robots: noindex
 ---

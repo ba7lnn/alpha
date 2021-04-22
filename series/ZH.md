@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: ZH"
-tag: ZH
+serie: ZH
 robots: noindex
 ---

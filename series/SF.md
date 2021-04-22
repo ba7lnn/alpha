@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: SF"
-tag: SF
+serie: SF
 robots: noindex
 ---

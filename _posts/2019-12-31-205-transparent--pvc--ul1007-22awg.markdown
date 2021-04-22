@@ -7,7 +7,7 @@ categories: wire-cable
 tags: UL1007 Hookup-Wire(UL)
 summary: Transparent, PVC, UL1007 22AWG
 published: true 
-series: 
+series: FN10
 part_number: A01007.22.008
 mfg_part_number: 
 mfg_part_number2: 

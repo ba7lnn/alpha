@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: JASO"
-tag: JASO
+serie: JASO
 robots: noindex
 ---

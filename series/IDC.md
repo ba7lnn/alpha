@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: IDC"
-tag: IDC
+serie: IDC
 robots: noindex
 ---

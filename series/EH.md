@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: EH"
-tag: EH
+serie: EH
 robots: noindex
 ---

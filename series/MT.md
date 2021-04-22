@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: MT"
-tag: MT
+serie: MT
 robots: noindex
 ---

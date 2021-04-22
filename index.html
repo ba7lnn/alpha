@@ -1,0 +1,69 @@
+---
+layout: default
+title: HINGTAK LLC., Wire&Cable,Connectors,Wire Harness
+---
+
+					<!-- Main -->
+					<!-- This loops through the paginated posts -->
+					{% if paginator.page == 1 %}
+										<div id="main">
+						{% for post in site.posts %}
+						{% if post.is_home %}
+						<article class="thumb">
+							<a href="{{ site.url }}/{{ post.small_img }}" class="image"><img src="{{ site.url }}/{{ post.small_img }}" alt="" /></a>
+							<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+							<p>{{ post.summary }}</p><p> {{ post.description }}</p>
+						</article>
+						{% endif %}
+						{% endfor %}
+					</div>
+					{% endif %}
+					{% if paginator.page > 1%}
+					<div id="main">
+					{% for post in paginator.posts %}
+						<article class="thumb">
+							<a href="{{ site.url }}/{{ post.small_img }}" class="image"><img src="{{ site.url }}/{{ post.small_img }}" alt=""/></a>
+							<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+							<p>{{ post.summary }}</p><p> {{ post.description }}</p>
+							<!-- Tags: {{ post.tags | join: ", " }} -->
+						</article> 
+					{% endfor %}
+					{% endif %}
+
+
+<style>
+.pagination
+{
+	padding: 20px;
+}
+</style>
+
+					<!-- Pagination links -->
+					{% if paginator.total_pages > 1 %}
+					<div class="pagination">
+					  {% if paginator.previous_page %}
+						<a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+					  {% else %}
+						<span>&laquo; Prev</span>
+					  {% endif %}
+
+					  {% for page in (1..paginator.total_pages) %}
+						{% if page == paginator.page %}
+						  <em>{{ page }}</em>
+						{% elsif page == 1 %}
+						  <a href="{{ '/' | relative_url }}">{{ page }}</a>
+						{% else %}
+						  <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+						{% endif %}
+					  {% endfor %}
+
+					  {% if paginator.next_page %}
+						<a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+					  {% else %}
+						<span>Next &raquo;</span>
+					  {% endif %}
+					</div>
+					{% endif %}
+
+
+					</div>

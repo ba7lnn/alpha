@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: WN"
-tag: WN
+serie: WN
 robots: noindex
 ---

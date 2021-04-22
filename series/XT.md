@@ -1,6 +1,6 @@
 ---
 layout: series
 title: "Series: XT"
-tag: XT
+serie: XT
 robots: noindex
 ---
