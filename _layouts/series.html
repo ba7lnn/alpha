@@ -5,6 +5,8 @@
 								<h1>Series: {{ page.title }}</h1>		
 							</header>
 
+							-->{{page.series}}
+
 						{% for post in site.series[page.serie] %}
 						<article class="thumb">
 							<a href="{{ site.url }}/{{ post.small_img }}" class="image"><img src="{{ site.url }}/{{ post.small_img }}" alt=""/></a>

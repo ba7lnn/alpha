@@ -1,19 +1,15 @@
----
-layout: post
+﻿---
+layout: post 
 title: 187 Terminal, D Type
-#permalink: 
-date: 2020-06-30 09:06:34
+tags: 
 categories: housing-terminal
-tags:  Faston Terminal (DIN)
-summary: 187 Terminal, D Type
-published: true 
+overview: 187 Terminal, D Type
 series: faston
 part_number: ST1870802-30C
-mfg_part_number: 
-mfg_part_number2: 
-price: 0.00
 thumb_img: static/202006/393-thumb-20200630090747.jpg
 small_img: static/202006/393-20200630090747.jpg
+date: 2020/6/30 1:06:34
 ---
+
 
 

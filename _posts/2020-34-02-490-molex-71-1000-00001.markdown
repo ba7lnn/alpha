@@ -1,0 +1,16 @@
+﻿---
+layout: post 
+title: Molex 71-1000-00001
+is_home: true
+tags: 
+categories: wire-harness
+overview: 
+series: M30
+part_number: 71-1000-00001
+thumb_img: static/202012/490-thumb-20201202193906.jpg
+small_img: static/202012/490-20201202193906.jpg
+date: 2020/12/2 11:34:21
+---
+
+
+
