@@ -2,7 +2,7 @@
 layout: post 
 title: VHR-2N, CONN HOUSING VH 2POS 3.96MM WHT
 tags: VH3.96
-categories: wire-cable
+categories: housing-terminal
 overview: VHR-2N,Pitch3.96(.156"),CONN HOUSING VH 2POS 3.96MM WHT,,Female Socket
 series: VH
 part_number: VHR-2N

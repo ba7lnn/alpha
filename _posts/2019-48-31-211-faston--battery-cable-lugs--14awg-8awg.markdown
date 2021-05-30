@@ -2,7 +2,7 @@
 layout: post 
 title: Faston, Battery Cable Lugs, 14AWG-8AWG
 tags: O-type
-categories: wire-cable
+categories: housing-terminal
 overview: Battery Cable Lugs offer seamless performance connecting cables, electrical appliances and other power mechanisms, for harsh-duty environments
 series: Faston
 part_number: AJ1408

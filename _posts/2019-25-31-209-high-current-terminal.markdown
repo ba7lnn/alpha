@@ -2,7 +2,7 @@
 layout: post 
 title: High-Current Terminal
 tags: Lug
-categories: wire-cable
+categories: housing-terminal
 overview: High Current Terminal
 series: Faston
 part_number: AJ8AWG-01

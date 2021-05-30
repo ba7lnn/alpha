@@ -2,7 +2,7 @@
 layout: post 
 title: SVH-21T-P1.1 VH3.96, Pitch3.96 250V,10A DC/AC 16AWG
 tags: VH3.96
-categories: wire-cable
+categories: housing-terminal
 overview: VH3.96,10A,AWG 22#-16#
 series: VH
 part_number: SVH-21T-P1.1

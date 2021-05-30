@@ -2,7 +2,7 @@
 layout: post 
 title: Faston, 125 Tab,22AWG-16AWG
 tags: 125
-categories: wire-cable
+categories: housing-terminal
 overview: Faston, 125 Tab,22AWG-16AWG
 series: Faston
 part_number: AJ125R2216

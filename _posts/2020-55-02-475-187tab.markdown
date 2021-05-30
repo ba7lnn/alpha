@@ -2,7 +2,7 @@
 layout: post 
 title: 187TAB
 tags: 
-categories: wire-cable
+categories: housing-terminal
 overview: 
 series: FASTON
 part_number: 3-187-0001

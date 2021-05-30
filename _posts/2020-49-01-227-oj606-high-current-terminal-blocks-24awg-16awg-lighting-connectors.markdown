@@ -2,7 +2,7 @@
 layout: post 
 title: OJ606,High-Current,Terminal Blocks,24awg-16awg,lighting connectors
 tags: OJ606
-categories: wire-cable
+categories: housing-terminal
 overview: High-Current,Terminal Blocks,24awg-16awg
 series: F3
 part_number: OJ606

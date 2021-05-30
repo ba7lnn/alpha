@@ -2,7 +2,7 @@
 layout: post 
 title: VH3.96 SMT,3.96mm Pitch
 tags: VH3.96,WF
-categories: wire-cable
+categories: housing-terminal
 overview: This small, field-proven connector for PC boards is reliable and has a large current carrying capacity. It can be used with a wide variety of signal, power supply, and output circuits that appear in consumer electronic products.
 series: VH
 part_number: S2B-VH

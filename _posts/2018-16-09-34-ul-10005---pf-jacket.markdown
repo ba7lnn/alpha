@@ -4,7 +4,7 @@ title: UL 10005 , PF jacket
 tags: RF
 categories: wire-cable
 overview: ltra flexible high strand count bare copper conductor insulated with a 3.5 mil wall of non-hygroscopic fluoropolymer (FEP). 
-series: RF
+series: FN50
 part_number: 11-10005-2
 thumb_img: 
 small_img: 

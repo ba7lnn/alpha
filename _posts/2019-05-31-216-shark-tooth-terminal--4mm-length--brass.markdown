@@ -2,7 +2,7 @@
 layout: post 
 title: Shark tooth terminal, 4mm Length, Brass
 tags: Sharktooth
-categories: wire-cable
+categories: housing-terminal
 overview: Shark tooth terminal, 4mm Length, Brass
 series: Faston
 part_number: qw09

@@ -2,7 +2,7 @@
 layout: post 
 title: 110, ST1100812-25C
 tags: 
-categories: wire-cable
+categories: housing-terminal
 overview: 
 series: FASTON
 part_number: ST1100812-25C

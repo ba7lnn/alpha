@@ -2,7 +2,7 @@
 layout: post 
 title: JST SYR-02T/ SYP- 02T-1, LED
 tags: SYP
-categories: wire-cable
+categories: housing-terminal
 overview: JST SYR-02T/ SYP- 02T-1, LED,2.5mm,3A,250V,28~22AWG
 series: SYP
 part_number: 312-0200

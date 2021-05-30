@@ -2,7 +2,7 @@
 layout: post 
 title: Pitch2.54 H2.5mm SMT 1x6P
 tags: LED
-categories: wire-cable
+categories: housing-terminal
 overview: Pitch2.54 H2.5mm SMT 1x6P
 series: WF
 part_number: ST254H25001006002

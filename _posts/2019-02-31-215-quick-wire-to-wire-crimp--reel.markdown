@@ -2,7 +2,7 @@
 layout: post 
 title: Quick Wire to Wire crimp, Reel
 tags: u-type
-categories: wire-cable
+categories: housing-terminal
 overview: 
 series: Faston
 part_number: qw08

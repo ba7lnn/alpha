@@ -2,7 +2,7 @@
 layout: post 
 title: JST SYP-02TV-1/ SYP- 02T-1, LED, Red, Female and Male
 tags: SYP
-categories: wire-cable
+categories: housing-terminal
 overview: JST SYR-02T/ SYP- 02T-1 LED,2.5mm,3A,250V,28~22AWGJST SYR-02T/ SYP- 02T-1, LED, RED
 
 series: SYP

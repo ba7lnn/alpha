@@ -2,7 +2,7 @@
 layout: post 
 title: 532610471,1.25mm Pitch, PicoBlade PCB Header, Single Row, Right-Angle, Surface Mount, Tin (Sn) Plating, Friction Lock, 4 Circuits, Tape and Reel
 tags: 2.0,90WF
-categories: wire-cable
+categories: housing-terminal
 overview: 1.25mm Pitch, PicoBlade PCB Header, Single Row, Right-Angle, Surface Mount, Tin (Sn) Plating, Friction Lock, 4 Circuits, Tape and Reel
 series: WF
 part_number: 532610471

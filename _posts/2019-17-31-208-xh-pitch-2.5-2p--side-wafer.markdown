@@ -2,7 +2,7 @@
 layout: post 
 title: XH,Pitch 2.5,2P, Side Wafer
 tags: 2.54,WF
-categories: wire-cable
+categories: housing-terminal
 overview: XH,Pitch 2.5,2P, Side Wafer
 series: XH
 part_number: A2501WVR-2PCJT

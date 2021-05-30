@@ -2,7 +2,7 @@
 layout: post 
 title: Faston, Type O, Crimp Terminal, 22-16AWG, 6# Screw
 tags: lug
-categories: wire-cable
+categories: housing-terminal
 overview: Faston, Type O, Crimp Terminal, 22-16AWG, 6# Screw
 series: Faston
 part_number: AJ2224

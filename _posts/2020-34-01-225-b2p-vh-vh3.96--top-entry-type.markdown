@@ -2,7 +2,7 @@
 layout: post 
 title: B2P-VH,VH3.96, Top entry type
 tags: VH3.96
-categories: wire-cable
+categories: housing-terminal
 overview: B2P-VH,VH3.96, Top entry type
 series: VH
 part_number: B2P-VH
