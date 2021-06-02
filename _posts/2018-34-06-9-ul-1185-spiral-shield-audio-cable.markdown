@@ -40,8 +40,6 @@ __Application:__
 
 * For internal wiring of electronic and electrical equipment and power adaptor for portable pc. 
 
-![UL 1185]({{site.url}}/assets/images/ul1185.jpg)
-
 AWG | stranding  | I.D. | Spiral | O.D. | Ω
 :-: | :-: |  :-: |  :-: |  :-: |  :-: 
 30 | 7*0.10  | 1.46 | 47/0.10 | 2.42 | 376.96

@@ -30,7 +30,7 @@ date: 2021/4/16 0:49:10
   1.25GHz ≤50<br />
   2.5GHz ≤7.5<br />
   7.5GHz ≤25</p>
-<p><img src="public/images/ul20276-36-30awg-mini-usb30.jpg" alt="UL20276 36-30awg Mini USB3.0 Cable"  class="img-responsive"/></p>
+
 <div class="table-responsive">
 <table  class="table table-bordered table-hover table-condensed">
   <tr>

@@ -35,8 +35,6 @@ __Next:__
 * 2.5GHz ≤7.5
 * 7.5GHz ≤25
 
-![USB3.0 UL20276]({{ site.url }}/assets/images/ul20276-36-30awg-mini-usb30.jpg)
-
 
 <table  class="table table-bordered table-hover table-condensed">
   <tr>

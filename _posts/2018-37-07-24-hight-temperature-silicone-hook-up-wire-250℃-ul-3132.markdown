@@ -7,7 +7,7 @@ overview: HookUp-Wire,Silicone,Hight Temperature Silicone Hook-up Wire 250℃
 series: FN10
 part_number: 10-3132-0
 thumb_img: 
-small_img: assets/images/single-conductor.jpg
+small_img: 
 date: 2018/5/7 1:37:36
 ---
 

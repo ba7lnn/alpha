@@ -36,8 +36,6 @@ _Insulation:_
 * Voltage-withstand Test: 500V for 1 min 
 * Marking: NO MARKING
 
-![UL 10064]({{ site.url }}/assets/images/10064.gif)
-
 * The Environmental Statement: 
 * All the parts, materials and products conform to RoHS. Cd<5ppm, Pb<100ppm
 

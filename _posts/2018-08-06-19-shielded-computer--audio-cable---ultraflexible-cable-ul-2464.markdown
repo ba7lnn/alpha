@@ -41,8 +41,6 @@ __Application:__
 * For general pupose internal wiring of electronic and electrical equipment. 
 * Cash register, timg_recording machines, Electronic and medical equiment.
 
-![UL 2464]({{ site.url}}/assets/images/ul2464.jpg)
-
 Audio and Data shielded pairs-solid conductor #22AWG
 
 AWG | Stranded | Cores | Sheild | OD

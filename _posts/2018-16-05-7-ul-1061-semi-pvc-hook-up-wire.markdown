@@ -7,7 +7,7 @@ overview:
 series: FN10
 part_number: 10-1061-0
 thumb_img: 
-small_img: assets/images/single-conductor.jpg
+small_img: 
 date: 2018/5/5 7:16:05
 ---
 
@@ -33,10 +33,6 @@ __Description:__
 __Application:__
 
 * For general pupose internal wiring of electronic and electrical equipment.
-
-
-![UL 1061]({{ site.url }}/assets/images/single-conductor.jpg)
-
 
 AWG | Stranded | OD | Resistance at 20℃ Ω/Km
 :-: | :-: |  :-: |  :-: |  :-: 

@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: UL 1617  (105℃ 600V)
+title: doube insulato, Enhancement type hook-up wire UL 1617  (105℃ 600V)
 tags: pvc,Hookup-Wire
 categories: wire-cable
 overview: 
@@ -24,13 +24,10 @@ __Description:__
 * Uniform thickness of wire to ensure easy stripping and cutting.
 * Passes UL VW-1&amp;Cul FT1 vertical flame test.
 * Reference Standard:UL758, UL1581,CSA22.2 
-    
  
 __Application:__
 
 * For general pupose internal wiring of electronic and electrical equipment. 
-
-![UL 1672]({{ site.url }}/assets/images/ul1617-1672.jpg)
 
 AWG | Stranded | Insulation OD | Jacket OD | Resistance at 20℃ Ω/Km
 :-: | :-: |  :-: |  :-: |  :-: |  :-: 

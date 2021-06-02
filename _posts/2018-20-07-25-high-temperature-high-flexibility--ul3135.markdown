@@ -7,7 +7,7 @@ overview: high temperature resistance,sealed cooking, lighting ,computers, elect
 series: FN10
 part_number: 10-3135-0
 thumb_img: 
-small_img: assets/images/single-conductor.jpg
+small_img: 
 date: 2018/5/7 9:20:45
 ---
 
@@ -29,8 +29,6 @@ __Reference Standard:__
 __Application:__
 
 * For general pupose internal wiring of electronic and electrical equipment. 
-
-![UL 3135]({{ site.url }}/assets/images/single.gif)
 
 AWG | Stranding(mm) | Wall| OD
 :-: | :-: | :-: | :-:  

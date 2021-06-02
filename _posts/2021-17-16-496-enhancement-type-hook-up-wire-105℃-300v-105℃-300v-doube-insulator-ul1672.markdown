@@ -30,8 +30,6 @@ __Application:__
 
 * For general pupose internal wiring of electronic and electrical equipment. 
 
-![UL 1672]({{ site.url }}/assets/images/ul1617-1672.jpg)
-
 AWG | Stranded | Insulation OD | Jacket OD | Resistance at 20℃ Ω/Km
 :-: | :-: |  :-: |  :-: |  :-: |  :-: 
 28 | 7/0.127 | 1.2 | 2.1 | 239.00

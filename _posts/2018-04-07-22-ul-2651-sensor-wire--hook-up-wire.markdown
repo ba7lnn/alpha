@@ -25,8 +25,6 @@ __Description:__
 __Application:__
 
 * For general pupose internal wiring of electronic and electrical equipment.
-  
-![UL2651]({{site.url}}/assets/images/ul2468.jpg)
 
 AWM | Stranded | Cores | Pitch/mm | O.D.
 :-: | :-: | :-: | :-: | :-:

@@ -7,7 +7,7 @@ overview: One conductor stranded annealed tinned copper, PVC insulation. Resista
 series: FN10
 part_number: 10-1015-0
 thumb_img: 
-small_img: assets/images/single-conductor.jpg
+small_img: 
 date: 2018/5/5 7:12:09
 ---
 
@@ -41,9 +41,6 @@ __Application:__
 
 * For general pupose internal wiring of electronic and electrical equipment. 
 * Cash register, timg_recording machines, Electronic and medical equiment. 
-
-
-![UL 1015]({{ site.url }}/assets/images/single.gif)
 
 AWG | stranding(mm) | OD | Resistance at 20℃ Ω/Km
 :-: | :-: | :-:  | :-: 

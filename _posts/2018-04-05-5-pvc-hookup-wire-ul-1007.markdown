@@ -7,7 +7,7 @@ overview: PVC,1C WIRE, 28AWG,16AWG, TIN-PLANT
 series: FN10
 part_number: 10-1007-0
 thumb_img: 
-small_img: assets/images/single-conductor.jpg
+small_img: 
 date: 2018/5/5 7:04:11
 ---
 
@@ -30,8 +30,6 @@ date: 2018/5/5 7:04:11
 __Application:__
 
 * For general pupose internal wiring of electronic and electrical equipment. 
-
-![UL 1007]({{ site.url }}/assets/images/single-conductor.jpg)
 
 all wire Insulation Thickness(mm):0.41mm
 

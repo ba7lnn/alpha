@@ -32,8 +32,6 @@ __Description:__
 
  * For general pupose internal wiring of electronic and electrical equipment. 
 
-![UL 1571]({{ site.url }}/assets/images/single-conductor.jpg)  
-
 AWG | Stranded | OD | Resistance at 20℃ Ω/Km
 :-: | :-: |  :-: |  :-: |  :-: 
 34 | 7/0.06 | 0.50 | 966

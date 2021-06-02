@@ -7,7 +7,7 @@ overview: For general pupose internal wiring of electronic and electrical equipm
 series: FN10
 part_number: 10-3239-0
 thumb_img: 
-small_img: assets/images/single-conductor.jpg
+small_img: 
 date: 2018/5/7 9:24:41
 ---
 

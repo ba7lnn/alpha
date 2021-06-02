@@ -7,7 +7,7 @@ overview: FEP Fluorinated Ethylene Propylene Wire, Single Conductor
 series: HN10
 part_number: 10-1330-0
 thumb_img: 
-small_img: assets/images/single-conductor.jpg
+small_img: 
 date: 2018/5/6 5:37:31
 ---
 

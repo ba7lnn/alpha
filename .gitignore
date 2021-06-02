@@ -3,3 +3,4 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+# [get the PDF]({{ "/assets/mydoc.pdf" | absolute_url }}) 

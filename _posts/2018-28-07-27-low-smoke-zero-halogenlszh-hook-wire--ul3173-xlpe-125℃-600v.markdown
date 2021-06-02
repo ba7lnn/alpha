@@ -7,7 +7,7 @@ overview: Cash register, timg_recording machines, Electronic and medical equimen
 series: FN10
 part_number: 10-3171-0
 thumb_img: 
-small_img: assets/images/single-conductor.jpg
+small_img: 
 date: 2018/5/7 9:28:12
 ---
 

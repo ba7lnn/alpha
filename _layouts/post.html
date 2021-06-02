@@ -14,7 +14,10 @@
 							</ul>
 							</section>
 
+							{% if page.small_img != "" %}
 							<span class="image main"><img src="{{ site.url }}/{{ page.small_img }}" alt="{{ page.title }}" /></span>
+							{% endif %}
+
 
 							 {{ content }}
 

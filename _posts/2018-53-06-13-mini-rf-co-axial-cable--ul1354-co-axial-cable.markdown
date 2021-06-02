@@ -12,9 +12,6 @@ date: 2018/5/6 5:53:10
 ---
 
 
-
-<p><img src="{{site.url}}/assets/images/1354-2.jpg" alt="UL154-2" class="img-responsive" /></p>
-<p>&nbsp;</p>
 <div class="table-responsive">
 <table  class="table table-bordered table-hover table-responsive">
   <tr>

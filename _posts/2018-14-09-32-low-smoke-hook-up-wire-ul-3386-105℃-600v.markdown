@@ -7,7 +7,7 @@ overview: Low smoke Hook-up wire,UL 3386
 series: FN10
 part_number: 10-3386-0
 thumb_img: 
-small_img: assets/images/single-conductor.jpg
+small_img: 
 date: 2018/5/9 0:14:26
 ---
 
@@ -23,8 +23,6 @@ __Description:__
 
 __Application:__
 * They are same with the inner fixed wires for home appliance,headlamp,mechanical etc.
-
-![UL 3386]({{ site.url }}/assets/images/single-conductor.jpg)
 
 AWG | Stranded |Overall Dimeter | Resistance at 20℃ Ω/Km
 :-: | :-: |  :-: |  :-: |  :-: 

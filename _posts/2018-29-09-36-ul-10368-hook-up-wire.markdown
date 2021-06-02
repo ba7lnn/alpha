@@ -37,7 +37,7 @@ date: 2018/5/9 2:29:47
   This series is RoHS compliant</p>
 <p>Application:<br />
 * For general purpose internal wiring of electronic and electrical equipment. </p>
-<p><img src="/assets/images/single-conductor.jpg" alt="UL 10368"  class="img-responsive"/></p>
+
 <div class="table-responsive">
 <table  class="table table-bordered table-hover table-condensed">
   <tr>

@@ -7,7 +7,7 @@ overview: UL1095,1Wire,PVC,80℃,300V
 series: FN10
 part_number: 10-1095-0
 thumb_img: 
-small_img: assets/images/single-conductor.jpg
+small_img: 
 date: 2018/5/6 5:32:12
 ---
 
@@ -27,9 +27,7 @@ date: 2018/5/6 5:32:12
 * For general pupose internal wiring of electronic and electrical equipment. <br />
 * Cash register, timg_recording machines, Electronic and medical equiment.
 </p>
-<p>
-	<img src="public/goods/single-conductor.jpg" alt="UL 1095" class="img-responsive" /> 
-</p>
+
 <div class="table-responsive">
 	<table class="table table-bordered table-hover table-condensed">
 		<tbody>

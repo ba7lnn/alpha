@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: Enhancement type hook-up wire 105℃ 300V (105℃ 300V doube insulator) UL 1617
+title: Enhancement type hook-up wire 105℃ 300V (105℃ 300V doube insulator) UL 1672
 tags: Hookup-Wire
 categories: wire-cable
 overview: For general pupose internal wiring of electronic and electrical equipment.
