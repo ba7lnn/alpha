@@ -7,7 +7,7 @@ overview: FEP Fluorinated Ethylene Propylene Wire
 series: HN10
 part_number: 10-1331-0
 thumb_img: 
-small_img: 
+small_img: static/202105/11-20210603.jpg
 date: 2018/5/6 5:40:27
 ---
 

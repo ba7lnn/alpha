@@ -7,7 +7,7 @@ overview: Ultra flexible high strand count bare copper conductor insulated with 
 series: FX10
 part_number: 11-10005-1
 thumb_img: 
-small_img: 
+small_img: static/202105/446-20210603.jpg
 date: 2020/9/28 10:24:47
 ---
 

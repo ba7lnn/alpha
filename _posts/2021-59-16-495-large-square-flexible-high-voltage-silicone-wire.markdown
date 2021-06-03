@@ -7,7 +7,7 @@ overview:
 series: FN10
 part_number: 10-1000
 thumb_img: 
-small_img: 
+small_img: static/202105/495-20210603.jpg
 date: 2021/4/16 0:59:42
 ---
 

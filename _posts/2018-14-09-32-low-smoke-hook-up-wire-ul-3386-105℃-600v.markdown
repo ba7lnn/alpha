@@ -7,7 +7,7 @@ overview: Low smoke Hook-up wire,UL 3386
 series: FN10
 part_number: 10-3386-0
 thumb_img: 
-small_img: 
+small_img: static/202105/32-20210603.jpg
 date: 2018/5/9 0:14:26
 ---
 

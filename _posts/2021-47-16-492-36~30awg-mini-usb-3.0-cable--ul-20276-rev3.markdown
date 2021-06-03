@@ -7,7 +7,7 @@ overview:
 series: U30
 part_number: 6-20276-01
 thumb_img: 
-small_img: 
+small_img: static/202105/492-20210603.jpg
 date: 2021/4/16 0:47:26
 ---
 
