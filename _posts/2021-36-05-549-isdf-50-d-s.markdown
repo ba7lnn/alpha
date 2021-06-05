@@ -4,7 +4,7 @@ title: ISDF-50-D-S
 tags: 
 categories: wire-harness
 overview: 
-myseries: ISDF
+series: ISDF
 part_number: 0549-1
 thumb_img: 
 small_img: static/202106/549-20210605.jpg

@@ -1,8 +1,9 @@
 ﻿---
 layout: post 
 title: MTA 156,3-643193-2, 02P MTA156 CONN ASSY H/F 22AWG
+is_home: true
 tags: 
-categories: housing-terminal
+categories: wire-cable
 overview: TE,AMP,MTA 156,3-643193-2, 02P MTA156 CONN ASSY H/F 22AWG
 series: MTA156
 part_number: 3-643193-2
