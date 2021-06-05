@@ -1,4 +1,8 @@
 _site
+dbcfg
+MySql.Data.dll
+WebAdmin.exe
+hingtak.sql
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
