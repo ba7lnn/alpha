@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: PH2.0 With protrusions Wire Harness
+title: PHB2.0 With protrusions Wire Harness
 tags: 
 categories: wire-harness
 overview: 
