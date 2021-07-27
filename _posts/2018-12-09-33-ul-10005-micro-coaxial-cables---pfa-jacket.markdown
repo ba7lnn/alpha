@@ -4,7 +4,6 @@ title: UL 10005 Micro coaxial cables - PFA Jacket
 tags: PFA
 categories: wire-cable
 overview: 
-series: FN50
 part_number: 11-10005-0
 thumb_img: 
 small_img: static/202105/33-20210603.jpg

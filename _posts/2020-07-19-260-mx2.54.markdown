@@ -4,7 +4,6 @@ title: MX2.54
 tags: MX2.54
 categories: wire-harness
 overview: MX2.54
-series: 
 part_number: 
 thumb_img: static/202003/260-thumb-20200319200822.jpg
 small_img: static/202003/260-20200319200822.jpg

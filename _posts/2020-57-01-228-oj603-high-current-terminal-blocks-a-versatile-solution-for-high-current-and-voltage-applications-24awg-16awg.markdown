@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: OJ603,High-Current,Terminal Blocks,a versatile solution for high current and voltage applications,24awg-16awg
-tags: OJ603
+tags: F3 OJ603
 categories: housing-terminal
 overview: OJ603,lighting-connectors, Wire to Wire,High-Current,Terminal Blocks,a versatile solution for high current and voltage applications,24awg-16awg
-series: F3
 part_number: OJ603
 thumb_img: static/202006/228-thumb-20200626142507.jpg
 small_img: static/202006/228-20200626142507.jpg

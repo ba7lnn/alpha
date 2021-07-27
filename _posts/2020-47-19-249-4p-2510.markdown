@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: 4P 2510
-tags: 
+tags: 2510
 categories: wire-harness
 overview: 
-series: 
 part_number: 
 thumb_img: static/202003/249-thumb-20200319194900.jpg
 small_img: static/202003/249-20200319194900.jpg

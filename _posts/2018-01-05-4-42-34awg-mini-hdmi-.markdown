@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: 42-34AWG Mini HDMI 
-tags: hdmi,Teflon
+tags: HDMI FN10
 categories: wire-cable
 overview: 
-series: FN10
 part_number: 10-0000-1
 thumb_img: 
 small_img: static/202105/4-20210603.jpg

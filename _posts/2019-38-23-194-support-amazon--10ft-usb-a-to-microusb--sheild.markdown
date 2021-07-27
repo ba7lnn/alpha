@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: Support Amazon, 10FT USB A to MicroUSB, Sheild
-tags: 10ft, 
+tags: T10 U30
 categories: wire-harness
 overview: 
-series: U30
 part_number: 621-215-212
 thumb_img: 
 small_img: 

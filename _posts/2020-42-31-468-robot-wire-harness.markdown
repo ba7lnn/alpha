@@ -2,10 +2,9 @@
 layout: post 
 title: ROBOT wire harness
 is_home: true
-tags: 
+tags: RB
 categories: wire-harness
 overview: ROBOT wire harness
-series: RB
 part_number: 9-1000
 thumb_img: static/202010/468-thumb-20201031154354.jpg
 small_img: static/202010/468-20201031154354.jpg

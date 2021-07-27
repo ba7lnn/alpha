@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: DR187-35
-tags: DR187
+tags: FA 187 SEL
 categories: housing-terminal
 overview: sleveet,180,PVC
-series: DF
 part_number: 0499-1
 thumb_img: 
 small_img: static/202105/499-20210529.jpg

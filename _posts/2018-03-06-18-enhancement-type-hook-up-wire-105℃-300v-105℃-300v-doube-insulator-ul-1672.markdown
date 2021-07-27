@@ -4,7 +4,6 @@ title: Enhancement type hook-up wire 105℃ 300V (105℃ 300V doube insulator) U
 tags: Hookup-Wire
 categories: wire-cable
 overview: For general pupose internal wiring of electronic and electrical equipment.
-series: FN10
 part_number: 10-1617-0
 thumb_img: static/202003/18-thumb-20200327145849.jpg
 small_img: static/202003/18-20200327145849.jpg

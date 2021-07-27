@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: 9-333025, 4 Circuits, O type IP45 Overmoded Cable, UL2464 26AWG
-tags: 
+tags: SF
 categories: wire-harness
 overview: 9-333025, 4 Circuits, O type IP45 Overmoded Cable, UL2464 26AWG
-series: SF
 part_number: 9-333025
 thumb_img: static/202006/371-thumb-20200628152944.jpg
 small_img: static/202006/371-20200628152944.jpg

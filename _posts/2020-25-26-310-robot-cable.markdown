@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: ROBOT cable
-tags: 
+tags: FX20
 categories: wire-cable
 overview: 
-series: FN20
 part_number: FN-20276-0
 thumb_img: static/202003/310-thumb-20200326102554.jpg
 small_img: static/202003/310-20200326102554.jpg

@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: UL 1061 Semi-PVC Hook-up wire
-tags: SRPVC,Hookup-Wire
+tags: SRPVC FN10
 categories: wire-cable
 overview: 
-series: FN10
 part_number: 10-1061-0
 thumb_img: 
 small_img: static/202105/7-20210603.jpg

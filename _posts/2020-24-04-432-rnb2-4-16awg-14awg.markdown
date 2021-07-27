@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: RNB2-4,16AWG-14AWG
-tags: 
-categories: housing-terminal
+tags: RNB
+categories: wire-cable
 overview: RNB2-4,16AWG-14AWG
-series: KT
 part_number: RNB2-4
 thumb_img: static/202007/432-thumb-20200704112600.jpg
 small_img: static/202007/432-20200704112600.jpg

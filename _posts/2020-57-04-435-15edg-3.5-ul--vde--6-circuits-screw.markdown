@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: 15EDG-3.5,UL, VDE, 6 Circuits,Screw
-tags: 
+tags: EDG
 categories: housing-terminal
 overview: 15EDG-3.5,UL, VDE, 6 Circuits,Screw
-series: EDG
 part_number: 15EDG-3.5-06
 thumb_img: static/202007/435-thumb-20200704125925.jpg
 small_img: static/202007/435-20200704125925.jpg

@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: JWPF
-tags: 
+tags: JWPF
 categories: housing-terminal
 overview: 
-series: JWPF
 part_number: 0538-1
 thumb_img: 
 small_img: static/202106/538-20210605.jpg

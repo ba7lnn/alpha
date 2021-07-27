@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: SH With protrusions 1.0
-tags: 
-categories: housing-terminal
+tags: SH
+categories: wire-cable
 overview: 
-series: SH
 part_number: 2-100-03
 thumb_img: static/202011/483-thumb-20201103152751.jpg
 small_img: static/202011/483-20201103152751.jpg

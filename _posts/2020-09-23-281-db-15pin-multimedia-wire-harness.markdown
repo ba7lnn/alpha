@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: DB 15PIN Multimedia wire harness
-tags: 
+tags: DB15
 categories: wire-harness
 overview: DB 15PIN
-series: 
 part_number: KR15
 thumb_img: static/202003/281-thumb-20200323175716.jpg
 small_img: static/202003/281-20200323175716.jpg

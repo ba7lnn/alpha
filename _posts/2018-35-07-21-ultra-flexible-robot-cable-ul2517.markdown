@@ -4,7 +4,6 @@ title: Ultra Flexible ROBOT Cable UL2517
 tags: UltraFlexible,Cable
 categories: wire-cable
 overview: Cable,ROBOT Cable,TPEE,Ultra Flexible ROBOT Cable
-series: FN20
 part_number: 20-2517-0
 thumb_img: 
 small_img: static/202105/21-20210603.jpg

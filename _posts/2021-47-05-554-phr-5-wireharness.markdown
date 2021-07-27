@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: PHR-5 Wireharness
-tags: 
+tags: PH S20
 categories: wire-harness
 overview: 
-series: PH
 part_number: 0554-1
 thumb_img: 
 small_img: static/202106/554-20210605.jpg

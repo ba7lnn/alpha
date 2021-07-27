@@ -4,7 +4,6 @@ title: Shielded,Computer & Audio Cable , UltraFlexible Cable,UL 2464
 tags: UltraFlexible
 categories: wire-cable
 overview: 
-series: FN20
 part_number: 20-2464-0
 thumb_img: static/202003/19-thumb-20200327145350.jpg
 small_img: static/202003/19-20200327145350.jpg

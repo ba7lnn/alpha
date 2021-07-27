@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: KR02 USB RJ45
-tags: 
+tags: RJ45
 categories: wire-harness
 overview: 
-series: 
 part_number: KR02
 thumb_img: static/202003/267-thumb-20200323155301.jpg
 small_img: static/202003/267-20200323155301.jpg

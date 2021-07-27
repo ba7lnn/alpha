@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: Automation Wireharness
-tags: 
+tags: HNS AVSS
 categories: wire-harness
 overview: 
-series: 
 part_number: 0561-1
 thumb_img: 
 small_img: static/202106/561-20210606.jpg

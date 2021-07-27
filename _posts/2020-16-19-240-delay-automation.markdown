@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: delay automation
-tags: 
+tags: CDELAY
 categories: wire-harness
 overview: 
-series: 
 part_number: 
 thumb_img: static/202003/240-thumb-20200319191745.jpg
 small_img: static/202003/240-20200319191745.jpg

@@ -4,7 +4,6 @@ title: LED 51005
 tags: 51005
 categories: wire-harness
 overview: 
-series: 51146
 part_number: 511460500
 thumb_img: static/201912/201-thumb-20191229163934.jpg
 small_img: static/201912/201-20191229163934.jpg

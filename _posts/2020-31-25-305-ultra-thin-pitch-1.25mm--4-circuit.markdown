@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: Ultra-thin pitch 1.25mm, 4 circuit
-tags: 
+tags: FN125
 categories: wire-harness
 overview: Ultra-thin pitch 1.25mm, 4 circuit
-series: FN125
 part_number: JK125/06
 thumb_img: static/202003/305-thumb-20200325093311.jpg
 small_img: static/202003/305-20200325093311.jpg

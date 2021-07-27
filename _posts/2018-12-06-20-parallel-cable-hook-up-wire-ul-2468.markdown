@@ -4,7 +4,6 @@ title: Parallel cable,Hook-up wire,UL 2468
 tags: hookup-wire
 categories: wire-cable
 overview: 
-series: FN20
 part_number: 20-2468-0
 thumb_img: static/202001/20-thumb-20200101113212.jpg
 small_img: static/202001/20-20200101113212.jpg

@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: 1 to 2 computer power
-tags: 
+tags: MX40
 categories: wire-harness
 overview: 
-series: 
 part_number: KR31
 thumb_img: static/202003/297-thumb-20200323181839.jpg
 small_img: static/202003/297-20200323181839.jpg

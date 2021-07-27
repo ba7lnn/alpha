@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: 187 Terminal , Flag type
-tags: 
-categories: housing-terminal
+tags: FA 187
+categories: wire-cable
 overview: 187
-series: 
 part_number: STO-41-187N
 thumb_img: static/202006/316-thumb-20200630083504.jpg
 small_img: static/202006/316-20200630083504.jpg

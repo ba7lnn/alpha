@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: 1501781011,EconoLatch Receptacle Housing, Single Row,94V0
-tags: 
-categories: housing-terminal
+tags: 1625
+categories: wire-cable
 overview: EconoLatch Receptacle Housing, Single Row, 1 Circuits,UL-94V0
-series: 1625
 part_number: 1501781011
 thumb_img: static/202006/343-thumb-20200626163023.jpg
 small_img: static/202006/343-20200626163023.jpg

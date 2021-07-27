@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: MX1.5 87439
-tags: 
+tags: MX 87439
 categories: housing-terminal
 overview: 
-series: 87439
 part_number: 0539-1
 thumb_img: 
 small_img: static/202106/539-20210605.jpg

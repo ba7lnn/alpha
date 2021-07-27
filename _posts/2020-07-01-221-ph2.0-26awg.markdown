@@ -4,7 +4,6 @@ title: PH2.0 26AWG
 tags: PH
 categories: wire-harness
 overview: PH2.0 26AWG
-series: 
 part_number: 
 thumb_img: static/202001/221-thumb-20200101131411.jpg
 small_img: static/202001/221-20200101131411.jpg

@@ -2,10 +2,9 @@
 layout: post 
 title: UL20276 36-30awg mini displayport cable
 is_home: true
-tags: ultrafliex,cable
+tags: U30
 categories: wire-cable
 overview: 
-series: U30
 part_number: 6-20276-02
 thumb_img: 
 small_img: static/202105/493-20210603.jpg

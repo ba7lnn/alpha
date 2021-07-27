@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: S8B-XH-SM4-TB,SMT Type shrouded header,2.5 pitch
-tags: 
-categories: housing-terminal
+tags: XH
+categories: wire-cable
 overview: SMT Type shrouded header,2.5 pitch
-series: 
 part_number: S8B-XH-SM4-TB
 thumb_img: static/202006/369-thumb-20200628152530.jpg
 small_img: static/202006/369-20200628152530.jpg

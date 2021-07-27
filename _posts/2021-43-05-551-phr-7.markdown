@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: PHR-7
-tags: 
+tags: PH
 categories: housing-terminal
 overview: 
-series: PH
 part_number: 0551-1
 thumb_img: 
 small_img: static/202106/551-20210605.jpg

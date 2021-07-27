@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: 110 Terminal, D Type
-tags: 
-categories: housing-terminal
+tags: FA 110
+categories: wire-cable
 overview: 110 Terminal, D Type
-series: faston
 part_number: ST1100802-25C
 thumb_img: static/202006/394-thumb-20200630091051.jpg
 small_img: static/202006/394-20200630091051.jpg

@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: T1.76 PCB Terminal
-tags: 
+tags: GRE DIN
 categories: housing-terminal
 overview: 
-series: 
 part_number: 0588-1
 thumb_img: 
 small_img: static/202107/588-20210720.jpg

@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: EN1508, Terminal
-tags: 
-categories: housing-terminal
+tags: FA EN
+categories: wire-cable
 overview: EN1508, Terminal
-series: KT
 part_number: EN1508
 thumb_img: static/202007/430-thumb-20200704112243.jpg
 small_img: static/202007/430-20200704112243.jpg

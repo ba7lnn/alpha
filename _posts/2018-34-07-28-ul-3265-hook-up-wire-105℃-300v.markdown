@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: UL 3265 Hook-up Wire (105℃ 300V)
-tags: XLPE,hookup-wrie
+tags: XLPE FN10
 categories: wire-cable
 overview: HookUp-Wire,XLPE
-series: FN10
 part_number: 10-3265-0
 thumb_img: 
 small_img: static/202105/28-20210603.jpg

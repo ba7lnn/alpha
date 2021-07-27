@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: RF0.81 Micro Co-Axial ,Shield, UL1354,UL1745
-tags: RF0.81
+tags: FN50 RF081
 categories: wire-cable
 overview: High strand count very flexible bare copper inner conductor with 005" to .008" natural polypropylene insulation for very good dielectric properties.  A 36 AWG braided tinned copper shield with 90% minimum coverage.  A .010" to .012” white FEP jacket overa
-series: FN50
 part_number: 114-0236-000
 thumb_img: static/202003/308-thumb-20200325140011.jpg
 small_img: static/202003/308-20200325140011.jpg

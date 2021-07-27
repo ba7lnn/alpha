@@ -4,7 +4,6 @@ title: Hook-up wire, PVC,UL 1571
 tags: pvc,Hookup-Wire
 categories: wire-cable
 overview: PVC, SRPVC, foamed PVC, foamed SRPVC, XLPVC, XLSRPVC, foamed XLPVC or foamed XLSRPVC, 2 mils minimum thickness at any point, 100 mils maximum thickness.
-series: FN10
 part_number: 10-1571-0
 thumb_img: static/202003/16-thumb-20200327153422.jpg
 small_img: static/202003/16-20200327153422.jpg

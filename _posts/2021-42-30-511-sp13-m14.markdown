@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: SP13,M14
-tags: 
+tags: SP13
 categories: wire-harness
 overview: M14
-series: 
 part_number: 0511-1
 thumb_img: 
 small_img: static/202105/511-20210530.jpg

@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: Molex1.5 IDC
-tags: 
-categories: housing-terminal
+tags: NTA
+categories: wire-cable
 overview: Molex1.5 MTA
-series: MTA
 part_number: MX15/06
 thumb_img: static/202003/306-thumb-20200325093455.jpg
 small_img: static/202003/306-20200325093455.jpg

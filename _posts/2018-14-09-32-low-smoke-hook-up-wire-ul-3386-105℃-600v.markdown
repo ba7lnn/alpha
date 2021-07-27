@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: Low smoke Hook-up wire,UL 3386 105℃ 600V
-tags: XLPE,hookup-wrie
+tags: XLPE FN10
 categories: wire-cable
 overview: Low smoke Hook-up wire,UL 3386
-series: FN10
 part_number: 10-3386-0
 thumb_img: 
 small_img: static/202105/32-20210603.jpg

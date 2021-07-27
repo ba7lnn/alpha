@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: lighting connectors, LED for 2068 Wire to Wire, 2 Circuits
-tags: Faston
+tags: FA
 categories: housing-terminal
 overview: lighting connectors, LED for 2068 Wire to Wire, 2 Circuits,Cutting 6mm for use to easy
-series: F3
 part_number: LC2068
 thumb_img: static/202006/229-thumb-20200626091936.jpg
 small_img: static/202006/229-20200626091936.jpg

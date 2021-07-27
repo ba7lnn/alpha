@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: SM-5
-tags: 
+tags: SM
 categories: wire-harness
 overview: 
-series: SM
 part_number: 7-SM5-001
 thumb_img: static/202011/482-thumb-20201103105451.jpg
 small_img: static/202011/482-20201103105451.jpg

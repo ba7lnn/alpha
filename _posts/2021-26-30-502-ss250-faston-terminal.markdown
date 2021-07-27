@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: SS250,Faston terminal
-tags: 
+tags: FA 250
 categories: housing-terminal
 overview: SS250, Faston Terminal
-series: FA
 part_number: 0502-1
 thumb_img: 
 small_img: static/202105/502-20210530.jpg

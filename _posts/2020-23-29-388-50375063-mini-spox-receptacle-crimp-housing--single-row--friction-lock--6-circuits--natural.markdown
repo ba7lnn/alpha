@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: 50375063 Mini-SPOX Receptacle Crimp Housing, Single Row, Friction Lock, 6 Circuits, Natural
-tags: 
-categories: housing-terminal
+tags: 5264
+categories: wire-cable
 overview: 2.50mm Pitch, Mini-SPOX Receptacle Crimp Housing, Single Row, Friction Lock, 6 Circuits, Natural
-series: 5264
 part_number: 50375063
 thumb_img: static/202006/388-thumb-20200629082441.jpg
 small_img: static/202006/388-20200629082441.jpg

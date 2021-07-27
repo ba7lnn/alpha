@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: Power Switch Connect
-tags: 
+tags: SW
 categories: housing-terminal
 overview: 
-series: SW
 part_number: 0560-1
 thumb_img: 
 small_img: static/202106/560-20210605.JPG

@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: Low-smoke Zero Halogen(LSZH) hook-wire, UL3173 XLPE 125℃ 600V
-tags: XLPE,hookup-wrie
+tags: XLPE FN10
 categories: wire-cable
 overview: Cash register, timg_recording machines, Electronic and medical equiment.
-series: FN10
 part_number: 10-3171-0
 thumb_img: 
 small_img: static/202105/27-20210603.jpg

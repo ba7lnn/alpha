@@ -4,7 +4,6 @@ title: Hight temperature FEP wire, UL 1330
 tags: hookup-wire, fep
 categories: wire-cable
 overview: FEP Fluorinated Ethylene Propylene Wire, Single Conductor
-series: HN10
 part_number: 10-1330-0
 thumb_img: 
 small_img: static/202105/10-20210603.jpg

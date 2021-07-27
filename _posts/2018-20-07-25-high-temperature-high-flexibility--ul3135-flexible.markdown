@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
-title: high temperature,high flexibility, UL3135
-tags: Flexible
+title: high temperature,high flexibility, UL3135,Flexible
+tags: FN10 FS
 categories: wire-cable
 overview: high temperature resistance,sealed cooking, lighting ,computers, electronic, switch lead
-series: FN10
 part_number: 10-3135-0
 thumb_img: 
 small_img: static/202105/25-20210603.jpg

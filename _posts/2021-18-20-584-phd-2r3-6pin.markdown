@@ -2,10 +2,9 @@
 layout: post 
 title: PHD 2R3 6Pin
 is_home: true
-tags: 
+tags: PHD WW
 categories: housing-terminal
 overview: 
-series: 
 part_number: 
 thumb_img: 
 small_img: static/202107/584-20210720.jpg

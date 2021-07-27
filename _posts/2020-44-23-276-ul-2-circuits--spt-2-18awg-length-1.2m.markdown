@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: UL 2 Circuits, SPT-2 18AWG Length 1.2m
-tags: 
+tags: PDS
 categories: wire-harness
 overview: UL 2 Circuits, SPT-2 18AWG Length 1.2m
-series: 
 part_number: KR10
 thumb_img: static/202003/276-thumb-20200323164547.jpg
 small_img: static/202003/276-20200323164547.jpg

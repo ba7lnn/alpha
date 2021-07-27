@@ -2,10 +2,9 @@
 layout: post 
 title: 39014030,Mini-Fit Jr. Receptacle Housing, Single Row, 3 Circuits, UL 94V-2, Natural
 is_home: true
-tags: 
-categories: housing-terminal
+tags: 5557
+categories: wire-cable
 overview: Mini-Fit Jr. Receptacle Housing, Single Row, 3 Circuits, UL 94V-2, Natural
-series: 5557
 part_number: 39014030
 thumb_img: static/202007/410-thumb-20200703135836.jpg
 small_img: static/202007/410-20200703135836.jpg

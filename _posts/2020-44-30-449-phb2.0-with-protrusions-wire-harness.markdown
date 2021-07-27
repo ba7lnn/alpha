@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: PHB2.0 With protrusions Wire Harness
-tags: 
+tags: SMH200
 categories: wire-harness
 overview: 
-series: PH
 part_number: 7-20-33TW
 thumb_img: static/202010/449-thumb-20201030194613.jpg
 small_img: static/202010/449-20201030194613.jpg

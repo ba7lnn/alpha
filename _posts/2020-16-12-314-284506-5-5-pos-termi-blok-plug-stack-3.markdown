@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: 284506-5,5 POS TERMI-BLOK PLUG STACK 3
-tags: 
+tags: LUG
 categories: wire-harness
 overview: PCB Terminal Blocks, Plug, Wire-to-Board, 5 Position, 3.5mm [.138in] Centerline, 1 Row, Side Wire Entry Angle, 30 – 14 AWG, .05 – 2 mm²
-series: 
 part_number: 284506-5
 thumb_img: static/202004/314-thumb-20200412171702.jpg
 small_img: static/202004/314-20200412171702.jpg

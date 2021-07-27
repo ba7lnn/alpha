@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: UL10005 Micro coaxial cables - PET Taped Jacket
-tags: 
+tags: FX10
 categories: wire-cable
 overview: Ultra flexible high strand count bare copper conductor insulated with a 3.5 mil wall of non-hygroscopic fluoropolymer
-series: FX10
 part_number: 11-10005-1
 thumb_img: 
 small_img: static/202105/446-20210603.jpg

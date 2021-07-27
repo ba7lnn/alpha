@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: hight temperature FEP wire, UL 1332
-tags: hookup-wire,fep
+tags: FN10
 categories: wire-cable
 overview: 
-series: FN100
 part_number: 10-1332-01
 thumb_img: 
 small_img: static/202105/497-20210603.jpg

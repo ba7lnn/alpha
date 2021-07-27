@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: Low-smoke Zero Halogen(LSZH) hook-wire, UL3173 XLPE 125℃ 600V
-tags: hookup-wire
+tags: FN10
 categories: wire-cable
 overview: 
-series: FN10
 part_number: 10-3171-01
 thumb_img: 
 small_img: static/202105/494-20210603.jpg

@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: BM05B-SURS-TF
-tags: 
+tags: IDC
 categories: housing-terminal
 overview: 
-series: IDC
 part_number: 5-08000-000
 thumb_img: static/202010/464-thumb-20201031140054.jpg
 small_img: static/202010/464-20201031140054.jpg

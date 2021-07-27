@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: dupont-2.54
-tags: 
-categories: housing-terminal
+tags: D25
+categories: wire-cable
 overview: dupont-2.54
-series: 
 part_number: dupont-2.54
 thumb_img: static/202006/373-thumb-20200628162003.jpg
 small_img: static/202006/373-20200628162003.jpg

@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: P20 Termainl
-tags: 
+tags: P20
 categories: housing-terminal
 overview: 
-series: P20
 part_number: 0540-1
 thumb_img: 
 small_img: static/202106/540-20210605.jpg

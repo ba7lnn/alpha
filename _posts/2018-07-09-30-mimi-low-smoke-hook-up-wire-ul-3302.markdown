@@ -1,10 +1,9 @@
 ﻿---
 layout: post 
 title: Mimi Low smoke Hook-up wire,UL 3302
-tags: XLPE,hookup-wrie
+tags: XLPE FN10
 categories: wire-cable
 overview: UL Mimi Low smoke Hook-up wire
-series: FN10
 part_number: 10-3302-0
 thumb_img: static/202003/30-thumb-20200325145057.jpg
 small_img: static/202003/30-20200325145057.jpg
