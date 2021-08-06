@@ -2,7 +2,7 @@
 layout: post 
 title: TE 1-968700-1 Male Housing, 3 Circuits
 tags: TE
-categories: wire-cable
+categories: housing-terminal
 overview: TE 1-968700-1 Male Housing
 part_number: TE 1-968700-1
 thumb_img: static/202006/363-thumb-20200628145945.jpg

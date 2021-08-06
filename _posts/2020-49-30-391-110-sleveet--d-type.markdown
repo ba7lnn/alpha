@@ -2,7 +2,7 @@
 layout: post 
 title: 110 Sleveet, D Type
 tags: FA 110 SEL
-categories: wire-cable
+categories: housing-terminal
 overview: 110 Sleveet, D Type
 part_number: DR110-25
 thumb_img: static/202006/391-thumb-20200630085017.jpg

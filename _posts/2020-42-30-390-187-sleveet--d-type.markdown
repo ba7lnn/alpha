@@ -2,7 +2,7 @@
 layout: post 
 title: 187 Sleveet, D Type
 tags: FA 187 SEL
-categories: wire-cable
+categories: housing-terminal
 overview: 187 Sleveet, D Type
 part_number: DR187-30
 thumb_img: static/202006/390-thumb-20200630084255.jpg

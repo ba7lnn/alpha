@@ -2,7 +2,7 @@
 layout: post 
 title: PHR,W2W
 tags: PH
-categories: wire-cable
+categories: housing-terminal
 overview: 
 part_number: 3-PH-2W
 thumb_img: static/202011/478-thumb-20201103100057.jpg

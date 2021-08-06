@@ -2,7 +2,7 @@
 layout: post 
 title: DJ7026,Power Terminal and housing
 tags: DJ
-categories: wire-cable
+categories: housing-terminal
 overview: DJ7026, Power Terminal and housing
 part_number: DJ7026
 thumb_img: static/202006/372-thumb-20200628161920.jpg

@@ -2,7 +2,7 @@
 layout: post 
 title: SV2-4S,16-14AWG
 tags: SV
-categories: wire-cable
+categories: housing-terminal
 overview: SV2-4S,16-14AWG
 part_number: SV2-4S
 thumb_img: static/202007/434-thumb-20200704112913.jpg

@@ -2,7 +2,7 @@
 layout: post 
 title: Right-Angle 187 Tab-on flag type
 tags: FA 187
-categories: wire-cable
+categories: housing-terminal
 overview: Right-Angle 187 Tab-on flag type
 part_number: 187-202
 thumb_img: static/202004/318-thumb-20200412232837.jpg

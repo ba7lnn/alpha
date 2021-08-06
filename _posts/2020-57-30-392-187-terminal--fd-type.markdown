@@ -2,7 +2,7 @@
 layout: post 
 title: 187 Terminal, FD Type
 tags: FA 187
-categories: wire-cable
+categories: housing-terminal
 overview: 187 Terminal, FD Type
 part_number: FD1870202-35C
 thumb_img: static/202006/392-thumb-20200630085857.jpg

@@ -2,7 +2,7 @@
 layout: post 
 title: 1501761011,EconoLatch Plug Housing, Single Row, without Pane
 tags: 1625
-categories: wire-cable
+categories: housing-terminal
 overview: EconoLatch Plug Housing, Single Row, without Panel Mount Latch, 1 Circuit
 part_number: 1501761011
 thumb_img: static/202006/342-thumb-20200626162518.jpg

@@ -2,7 +2,7 @@
 layout: post 
 title: RV2-4S,16-14AWG
 tags: RV
-categories: wire-cable
+categories: housing-terminal
 overview: RV2-4S,16-14AWG
 part_number: RV2-4S
 thumb_img: static/202007/433-thumb-20200704112809.jpg

@@ -2,7 +2,7 @@
 layout: post 
 title: 39000038 Mini-Fit Female Crimp Terminal, Tin (Sn) over Copper (Cu) Plated Brass, 18-24 AWG, Reel
 tags: 5557
-categories: wire-cable
+categories: housing-terminal
 overview: Mini-Fit Female Crimp Terminal, Tin (Sn) over Copper (Cu) Plated Brass, 18-24 AWG, Reel
 part_number: 39000038
 thumb_img: static/202007/403-thumb-20200703131827.jpg

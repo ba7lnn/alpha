@@ -2,7 +2,7 @@
 layout: post 
 title: 03062023,1.57mm, Pin Housing, 2Circuits, without Mounting  Ears, Natural
 tags: 1625
-categories: wire-cable
+categories: housing-terminal
 overview: 1.57mm Diameter Standard .062" Pin and Socket Plug Housing, 2 Circuits, without Mounting Ears, Natural
 part_number: 03062023
 thumb_img: static/202006/340-thumb-20200626161805.jpg

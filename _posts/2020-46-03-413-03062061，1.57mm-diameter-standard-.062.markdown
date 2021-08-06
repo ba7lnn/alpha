@@ -2,7 +2,7 @@
 layout: post 
 title: 03062061，1.57mm Diameter Standard .062
 tags: 1625
-categories: wire-cable
+categories: housing-terminal
 overview: 1.57mm Diameter Standard .062" Pin and Socket Plug Housing, 6 Circuits, without Mounting Ears, Natural
 part_number: 03062061
 thumb_img: static/202007/413-thumb-20200703144728.jpg

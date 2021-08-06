@@ -2,7 +2,7 @@
 layout: post 
 title: MX3.0 436450300 Housing
 tags: MX30
-categories: wire-cable
+categories: housing-terminal
 overview: Micro-Fit 3.0 Receptacle Housing, Single Row, 2 Circuits, UL 94V-0, Low-Halogen, Black
 part_number: 436450300
 thumb_img: static/202006/333-thumb-20200626081735.jpg

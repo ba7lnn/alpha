@@ -2,7 +2,7 @@
 layout: post 
 title: HXH3065, 2Pin
 tags: SLP
-categories: wire-cable
+categories: housing-terminal
 overview: 
 part_number: 3-3065-2
 thumb_img: static/202010/454-thumb-20201031083050.jpg

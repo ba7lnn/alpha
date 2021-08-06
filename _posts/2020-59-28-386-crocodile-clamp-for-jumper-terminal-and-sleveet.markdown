@@ -2,7 +2,7 @@
 layout: post 
 title: Crocodile Clamp for Jumper Terminal and Sleveet
 tags: CC
-categories: wire-cable
+categories: housing-terminal
 overview: 
 part_number: CC002
 thumb_img: static/202006/386-thumb-20200628165959.jpg

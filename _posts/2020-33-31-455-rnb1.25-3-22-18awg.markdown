@@ -2,7 +2,7 @@
 layout: post 
 title: RNB1.25-3,22-18AWG
 tags: FA RNB
-categories: wire-cable
+categories: housing-terminal
 overview: 22-18AWG, FASTON Terminal
 part_number: RNB125-3
 thumb_img: static/202010/455-thumb-20201031083456.jpg

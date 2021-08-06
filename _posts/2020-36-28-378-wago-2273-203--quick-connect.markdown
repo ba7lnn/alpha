@@ -2,7 +2,7 @@
 layout: post 
 title: wago 2273-203, Quick connect
 tags: WAGO
-categories: wire-cable
+categories: housing-terminal
 overview: wago 2273-203
 part_number: 2273-203
 thumb_img: static/202006/378-thumb-20200628163751.jpg

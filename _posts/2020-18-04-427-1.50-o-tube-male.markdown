@@ -2,7 +2,7 @@
 layout: post 
 title: 1.50 O Tube,Male
 tags: FA
-categories: wire-cable
+categories: housing-terminal
 overview: 1.50 O Tube,Male
 part_number: FA-W150-25U1822B0
 thumb_img: static/202007/427-thumb-20200704081913.jpg

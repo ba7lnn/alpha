@@ -2,7 +2,7 @@
 layout: post 
 title: 110 Terminal, D Type
 tags: FA 110
-categories: wire-cable
+categories: housing-terminal
 overview: 110 Terminal, D Type
 part_number: ST1100802-25C
 thumb_img: static/202006/394-thumb-20200630091051.jpg

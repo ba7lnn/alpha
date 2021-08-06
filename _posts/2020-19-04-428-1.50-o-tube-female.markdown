@@ -2,7 +2,7 @@
 layout: post 
 title: 1.50 O Tube,Female
 tags: FA
-categories: wire-cable
+categories: housing-terminal
 overview: 1.50 O Tube,Female
 part_number: FA-M150-25U1824B6
 thumb_img: static/202007/428-thumb-20200704082005.jpg
