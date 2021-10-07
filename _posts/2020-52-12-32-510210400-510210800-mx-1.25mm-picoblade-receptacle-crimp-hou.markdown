@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: 510210400 510210800 MX 1.25mm PicoBlade Receptacle Crimp Hou
+tags: 51021
+categories: housing-terminal
+overview: 1.25mm Pitch, PicoBlade Receptacle Crimp Housing, Single Row, Friction Lock, 4 Circuits, Natural
+series: 
+part_number: 510210400
+thumb_img: static/202004/322-thumb-20200412235245.jpg
+small_img: static/202004/322-20200412235245.jpg
+date: 2020/4/12 15:52:09
+---
+
+
+

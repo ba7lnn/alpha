@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: 03067023, 1.57mm, Pin Housing, 2Circuits, without Mounting  Ears, Black
+tags: 1625
+categories: housing-terminal
+overview: 1.57mm Diameter Standard .062" Pin and Socket Plug Housing, 2 Circuits, without Mounting Ears, Black
+series: 1625
+part_number: 03067023
+thumb_img: static/202007/444-thumb-20200708195744.jpg
+small_img: static/202007/444-20200708195744.jpg
+date: 2020/7/8 11:57:12
+---
+
+
+
