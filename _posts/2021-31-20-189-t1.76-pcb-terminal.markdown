@@ -1,6 +1,7 @@
 ﻿---
 layout: post 
 title: T1.76 PCB Terminal
+is_home: true
 tags: GRE DIN
 categories: housing-terminal
 overview: 

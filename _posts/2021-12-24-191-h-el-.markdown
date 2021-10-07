@@ -1,6 +1,7 @@
 ﻿---
 layout: post 
 title: H-EL 
+is_home: true
 tags: GRE 1301
 categories: housing-terminal
 overview: 
