@@ -1,55 +1,29 @@
-<!DOCTYPE HTML>
-<!--
-	Phantom by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
 	<head>
-		<title>{{ page.title }}</title>
+		  <title>
+			{% if page.title %}
+			  {{ page.title }} &middot; {{ site.title }}
+			{% else %}
+			  {{ site.title }} &middot; {{ site.tagline }}
+			{% endif %}
+		  </title>
+
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="{{ site.url }}/assets/css/main.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+		<link rel="stylesheet" href="{{ site.url }}/assets/css/reset.css" />
+		<link rel="stylesheet" href="{{ site.url }}/assets/css/row.css" />
+		<link rel="stylesheet" href="{{ site.url }}/assets/css/main2.css" />
 		<noscript><link rel="stylesheet" href="{{ site.url }}/assets/css/noscript.css" /></noscript>
+
+	 {% if site.google_analytics and jekyll.environment == 'production' %}
+	  <!-- Google analytics -->
+	  {% include analytics.html %}
+	  {% endif %}
+
+	  {% seo %}
+
+	  {% if site.tags == "" %}
+		{% include collecttags.html %}
+	  {% endif %}
+
+	  {% if page.robots %} <meta name="robots" content="{{page.robots}}" />{% endif %}
 	</head>
-	<body class="is-preload">
-		<!-- Wrapper -->
-			<div id="wrapper">
-
-				<!-- Header -->
-					<header id="header">
-						<div class="inner">
-
-							<!-- Logo -->
-								<a href="{{ site.url }}/index.html" class="logo">
-									<span class="symbol"><img src="{{ site.url }}/images/logo.svg" alt="" /></span><span class="title">Hingtak</span>
-								</a>
-
-							<!-- Nav -->
-								<nav>
-									<ul>
-										<li><a href="#menu">Menu</a></li>
-									</ul>
-								</nav>
-
-						</div>
-					</header>
-
-				<!-- Menu -->
-					<nav id="menu">
-						<h2>Menu</h2>
-						<ul>
-							<li><a href="{{ site.url }}/index.html">Home</a></li>							
-							<li><a href="{{ site.url }}/index.html">Housing & Terminal</a></li>
-							{% assign pages_list = site.pages %}
-							  {% for node in pages_list %}
-								{% if node.title != null %}
-								  {% if node.layout == "page" %}
-									<li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-									  <a href="{{ node.url }}">{{ node.title }}</a>
-									</li>
-								  {% endif %}
-								{% endif %}
-							  {% endfor %}
-						</ul>
-					</nav>

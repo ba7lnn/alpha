@@ -1,5 +1,18 @@
-{% include header.html %}
-				
-					{{ content }}
-					
+<!DOCTYPE HTML>
+<html>	
+	{% include header.html %}
+<body class="is-preload">
+
+<div class="container">
+	<h1><a href="/"><img src="{{ site.url }}/images/logo.gif" alt="" /></a></h1>
+	
+</div>
+
+<div class="container">
+	{{ content }}
+</div>
+
 {% include footer.html %}
+
+</body>
+</html>
