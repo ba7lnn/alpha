@@ -2,8 +2,6 @@
 layout: post 
 title: Lumberg 3515 10K05S03V102 RAST2.5
 is_home: true
-tags: 3515 LUB
-categories: housing-terminal
 overview: 
 series: 3515
 part_number: 0582-1

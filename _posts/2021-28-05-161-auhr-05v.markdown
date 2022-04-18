@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: AUHR-05V
-tags: AUH
-categories: housing-terminal
 overview: 
 series: AUHR
 part_number: 0547-1

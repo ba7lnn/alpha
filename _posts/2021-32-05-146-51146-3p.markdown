@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: 51146 3P
-tags: MX 51146
-categories: housing-terminal
 overview: 
 series: 
 part_number: 0529-1

@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: 353293-5 TE AMP MINI CT MT REC ASSY 5P GRAY,IDC connectors
-tags: MTA06
-categories: housing-terminal
 overview: MINI CT MT REC ASSY 5P GRAY
 series: MT
 part_number: 353293-5

@@ -2,8 +2,6 @@
 layout: post 
 title: WIRE to WIRE Terminal
 is_home: true
-tags: WW HW
-categories: housing-terminal
 overview: 
 series: WW
 part_number: 0586-1

@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: EH
-tags: EH
-categories: housing-terminal
 overview: Crimp style 2.0mm pitch connector
 series: EH
 part_number: 0520-1

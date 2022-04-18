@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: CyClone 50579404 SL Crimp Housing, Single Row, Version G, Positive Latch, 4 Circuits, Black
-tags: 50579404
-categories: housing-terminal
 overview: SL Crimp Housing, Single Row, Version G, Positive Latch, 4 Circuits, Black
 series: 
 part_number: 50579404

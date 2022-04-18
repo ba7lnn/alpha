@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: STI-51-250N STAB ON IN 250 sleeve, blue
-tags: FA SEL
-categories: housing-terminal
 overview: STAB ON IN 250 sleeve, blue,
 series: 
 part_number: STI-51-250N

@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: DF250-40 blue
-tags: FA 250 SEL
-categories: housing-terminal
 overview: Sleveet angle 90
 series: DF
 part_number: 0498-1

@@ -12,5 +12,5 @@ DRIVEN BY THE NEEDS OF OUR CUSTOMERS. For over 2 years, Hingtak has been committ
 
 
 * Mobile: (+86)137-2586-0789
-* E-mail: sale@hingtak.com
+* E-mail: sales@hingtak.com
 

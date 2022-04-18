@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: 1-173977-0, 2.0mm,Connector Assembly, Receptacle, Wire-to-Board, 10 Position
-tags: MTA100
-categories: housing-terminal
 overview: AMP CT, Connector Assembly, Receptacle, Wire-to-Board, 10 Position, 2mm
 series: MT
 part_number: 1-173977-0

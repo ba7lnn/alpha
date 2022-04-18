@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: PHR-7
-tags: PH
-categories: housing-terminal
 overview: 
 series: PH
 part_number: 0551-1

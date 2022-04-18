@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: DF33A
-tags: HR DF33
-categories: housing-terminal
 overview: 
 series: 
 part_number: 0506-1

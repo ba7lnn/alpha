@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: 250,Faston terminal
-tags: FA 250
-categories: housing-terminal
 overview: 
 series: FA
 part_number: 0503-1

@@ -2,8 +2,6 @@
 layout: post 
 title: DF33C HIROSE DF33-2S-3.3C
 is_home: true
-tags: DF33 HR
-categories: housing-terminal
 overview: 
 series: DF33
 part_number: 0587-1

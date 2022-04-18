@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: PHB
-tags: PHB
-categories: housing-terminal
 overview: 
 series: PHB
 part_number: 0542-1

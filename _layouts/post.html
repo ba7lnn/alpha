@@ -8,14 +8,7 @@ layout: default
 							<h1>{{ page.title }}</h1>
 							<section>
 							<ul>
-								<li>Part Number:<h3> {{ page.part_number }}</h3></li>
-								<li>Category:  <code class="highligher-rouge"><a href="{{site.url}}/category/{{ page.categories }}">{{ page.categories }}</a></code></li>
-								<li>Series: {% for tag in page.tags %}
-								  {% capture tag_name %}{{ tag }}{% endcapture %}
-								  <code class="highligher-rouge"><a class="no-underline" href="/tag/{{ tag_name }}">{{ tag_name }}</a></code>
-								{% endfor %}</li>
-
-								<li>Overview: {{ page.summary }}</li>
+								<li><h3>Part Number: &nbsp; {{ page.part_number }}</h3></li>
 							</ul>
 							</section>
 

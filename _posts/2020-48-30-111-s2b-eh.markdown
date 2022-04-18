@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: S2B-EH
-tags: EH
-categories: housing-terminal
 overview: 
 series: EH
 part_number: 6-S2B-EH

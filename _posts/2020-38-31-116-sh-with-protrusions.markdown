@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: SH With protrusions
-tags: SH
-categories: housing-terminal
 overview: JST SH, Pitch 1.0, With protrusions
 series: SH
 part_number: 2-1000-000

@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: EN0508
-tags: DIN EN
-categories: housing-terminal
 overview: 
 series: 
 part_number: EN0508

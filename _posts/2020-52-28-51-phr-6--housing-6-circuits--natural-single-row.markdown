@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: PHR-6, Housing,6 Circuits, Natural,Single Row
-tags: PH
-categories: housing-terminal
 overview: PHR-6, Housing,6 Circuits, Natural,Single Row
 series: 
 part_number: PHR-6

@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: anderson-power-mini-powerpole
-tags: APMP ANDERSON
-categories: housing-terminal
 overview: REF 522 anderson power mini powerpole Wire Harness
 series: APMP
 part_number: 0585-1

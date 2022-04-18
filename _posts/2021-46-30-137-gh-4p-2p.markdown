@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: GH,4P,2P
-tags: GH
-categories: housing-terminal
 overview: 
 series: 
 part_number: 0514-1

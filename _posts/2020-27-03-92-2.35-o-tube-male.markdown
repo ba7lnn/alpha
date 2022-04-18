@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: 2.35 O Tube,Male
-tags: FA
-categories: housing-terminal
 overview: 2.35 O Tube,Male
 series: FA
 part_number: FA-M235-30U1822B0

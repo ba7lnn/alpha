@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: PHDR-6
-tags: PHD
-categories: housing-terminal
 overview: 
 series: 
 part_number: 0569-1

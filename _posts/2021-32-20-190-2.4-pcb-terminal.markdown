@@ -2,8 +2,6 @@
 layout: post 
 title: 2.4 PCB Terminal
 is_home: true
-tags: GRE DIN
-categories: housing-terminal
 overview: 
 series: 
 part_number: 0589-1

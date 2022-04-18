@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: SV1.25-5S
-tags: SV
-categories: housing-terminal
 overview: 
 series: 
 part_number: 0518-1

@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: JST EHR, 2.0mm Pitch
-tags: EH
-categories: housing-terminal
 overview: JST EHR, 2.0mm Pitch
 series: EH
 part_number: 4-200-000

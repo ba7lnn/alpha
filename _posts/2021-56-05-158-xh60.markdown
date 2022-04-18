@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: XH60
-tags: XT
-categories: housing-terminal
 overview: 
 series: XT
 part_number: 0544-1

@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: E0506
-tags: DIN EN
-categories: housing-terminal
 overview: 
 series: 
 part_number: 0515-1

@@ -1,8 +1,6 @@
 ﻿---
 layout: post 
 title: JST SYR-02T/ SYP- 02T-1, LED, Black, Female and Male
-tags: SYP
-categories: housing-terminal
 overview: 
 series: SYP
 part_number: SYR-02T
