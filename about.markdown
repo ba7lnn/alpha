@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 #permalink: /about
-my-image: images/pic13.jpg
+my-image: images/about.jpg
 ---
 
 
