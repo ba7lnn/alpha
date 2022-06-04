@@ -17,5 +17,5 @@ plugins:
   - jekyll-paginate
 
 
-paginate: 12
-paginate_path: "/page/:num"
+# paginate: 12
+# paginate_path: "/page/:num"
