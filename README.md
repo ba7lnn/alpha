@@ -1,2 +1,0 @@
-# alpha
-hingtak main website
