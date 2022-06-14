@@ -1,0 +1,29 @@
+{% include header.html %}
+					<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>{{ page.title }}</h1>
+							<section>
+							<ul>
+								<li>Part Number:<h3> {{ page.part_number }}</h3></li>
+								<li>Category:  <code class="highligher-rouge"><a href="{{site.url}}/category/{{ page.categories }}">{{ page.categories }}</a></code></li>
+								<li>Series: {% for tag in page.tags %}
+								  {% capture tag_name %}{{ tag }}{% endcapture %}
+								  <code class="highligher-rouge"><a class="no-underline" href="/tag/{{ tag_name }}">{{ tag_name }}</a></code>
+								{% endfor %}</li>
+
+								<li>Overview: {{ page.summary }}</li>
+							</ul>
+							</section>
+
+							{% if page.small_img != "" %}
+							<span class="image main"><img src="{{ site.url }}/{{ page.small_img }}" alt="{{ page.title }}" /></span>
+							{% endif %}
+
+							 {{ content }}
+
+
+						</div>
+					</div>
+					<!-- //Main -->
+{% include footer.html %}

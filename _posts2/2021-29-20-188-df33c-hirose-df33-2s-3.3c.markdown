@@ -1,0 +1,14 @@
+﻿---
+layout: post 
+title: DF33C HIROSE DF33-2S-3.3C
+is_home: true
+overview: 
+series: DF33
+part_number: 0587-1
+thumb_img: 
+small_img: static/202107/587-20210720.jpg
+date: 2021/7/20 8:29:42
+---
+
+
+

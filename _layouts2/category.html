@@ -1,0 +1,35 @@
+{% include header.html %}
+
+        <!-- Call to Action-->
+        <section class="call-to-action text-white text-center">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-9 mx-auto"><h2 class="mb-4">{{page.title}}</h2></div>
+                    <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
+                        <h3>{{page.except}}</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        
+       
+        <!-- Image Showcases-->
+        <section class="showcase bg-light">
+            <div class="container-fluid">
+				{% for post in site.posts %}
+                <div class="row">
+                    <div class="col-lg-6"> 						
+                            <h5><img src="{{post.small_img}}" width="200px" height="200px"/>{{post.title}}</h5>
+					</div>
+                    <div class="col-lg-6">
+                       {{post.except}}
+                    </div>
+                </div>
+				{% endfor %}
+            </div>
+        </section>
+
+
+{% include footer.html %}
