@@ -4,6 +4,7 @@ title: XLPE Hook_Up Wire (105℃ 300V),UL 3266
 tags: XLPE FN10
 categories: wire-cable
 overview: UL Mimi Low smoke Hook-up wire
+series: FN10
 part_number: 10-3266-0
 thumb_img: static/202003/29-thumb-20200325145309.jpg
 small_img: static/202003/29-20200325145309.jpg

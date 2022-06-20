@@ -4,6 +4,7 @@ title: 22012027, Molex 2510 Wire to Wire
 tags: 22012027
 categories: wire-harness
 overview: KK 254 Crimp Housing, Friction Ramp, 2 Circuits, Natural,Crimp Housings,Series 2695
+series: 2695
 part_number: 22012027
 thumb_img: static/202003/250-thumb-20200319195102.jpg
 small_img: static/202003/250-20200319195102.jpg

@@ -4,6 +4,7 @@ title: PHR, 2464 24AWG  SR3*5, Length 1500mm
 tags: PH DA
 categories: wire-harness
 overview: PHR, 2464 24AWG  SR:3*5, Length 1500mm
+series: DA
 part_number: 7-246424-003
 thumb_img: static/202010/466-thumb-20201031140629.jpg
 small_img: static/202010/466-20201031140629.jpg

@@ -4,6 +4,7 @@ title: ACES 1.5
 tags: ACES
 categories: wire-harness
 overview: 
+series: 
 part_number: 0532-1
 thumb_img: 
 small_img: static/202106/532-20210605.jpg

@@ -4,6 +4,7 @@ title: 08SUR WF 5P
 tags: SUR 008
 categories: housing-terminal
 overview: 
+series: 
 part_number: 0568-1
 thumb_img: 
 small_img: static/202106/568-20210606.jpg

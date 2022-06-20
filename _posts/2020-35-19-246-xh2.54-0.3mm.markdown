@@ -4,6 +4,7 @@ title: XH2.54 0.3mm
 tags: XH
 categories: wire-harness
 overview: 
+series: 
 part_number: 
 thumb_img: static/202003/246-thumb-20200319193634.jpg
 small_img: static/202003/246-20200319193634.jpg

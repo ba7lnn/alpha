@@ -4,6 +4,7 @@ title: Pitch 1.25mm
 tags: 51021
 categories: wire-harness
 overview: 
+series: 
 part_number: 
 thumb_img: static/202003/242-thumb-20200319192012.jpg
 small_img: static/202003/242-20200319192012.jpg

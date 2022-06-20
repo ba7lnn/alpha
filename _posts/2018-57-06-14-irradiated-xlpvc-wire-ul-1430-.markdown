@@ -4,6 +4,7 @@ title: Irradiated XLPVC wire,UL 1430
 tags: XLPVC,Hookup-Wire
 categories: wire-cable
 overview: Irradiated XLPVC wire,UL 1430 
+series: FN10
 part_number: 10-1430-0
 thumb_img: 
 small_img: static/202105/14-20210603.jpg

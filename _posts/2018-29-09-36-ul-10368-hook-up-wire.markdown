@@ -4,6 +4,7 @@ title: UL 10368 Hook-up wire
 tags: UL10368
 categories: wire-cable
 overview: Cross-Linked Polyethylene (XLPE) Wire exhibits the following characteristics
+series: FN10
 part_number: 10-10368-0
 thumb_img: static/202003/36-thumb-20200325144551.jpg
 small_img: static/202003/36-20200325144551.jpg

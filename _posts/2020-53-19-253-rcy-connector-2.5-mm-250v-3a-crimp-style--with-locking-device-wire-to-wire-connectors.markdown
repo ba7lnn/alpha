@@ -4,6 +4,7 @@ title: RCY connector,2.5 mm,250V,3A,Crimp style, With locking device,Wire-to-Wir
 tags: SYP
 categories: wire-harness
 overview: RCY connector,2.5 mm,250V,3A,Crimp style, With locking device,Wire-to-Wire Connectors
+series: SYP
 part_number: SYR-02T,SYP-02T-1
 thumb_img: static/202003/253-thumb-20200319195409.jpg
 small_img: static/202003/253-20200319195409.jpg

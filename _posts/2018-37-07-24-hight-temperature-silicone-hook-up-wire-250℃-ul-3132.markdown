@@ -4,6 +4,7 @@ title: Hight Temperature Silicone Hook-up Wire 250℃,UL 3132
 tags: FN10 FS
 categories: wire-cable
 overview: HookUp-Wire,Silicone,Hight Temperature Silicone Hook-up Wire 250℃
+series: FN10
 part_number: 10-3132-0
 thumb_img: 
 small_img: static/202105/24-20210603.jpg

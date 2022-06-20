@@ -4,6 +4,7 @@ title: MX3.0 overmold 2.54 lock cable
 tags: MX30
 categories: wire-harness
 overview: MX3.0 MOLD
+series: 
 part_number: KR13
 thumb_img: static/202003/280-thumb-20200323165909.jpg
 small_img: static/202003/280-20200323165909.jpg

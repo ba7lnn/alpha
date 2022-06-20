@@ -4,6 +4,7 @@ title: 110 Terminal, D Type, Pre-crimp, UL1007 18AWG, Length 500mm
 tags: FA 110
 categories: wire-harness
 overview: 110 Terminal, D Type, Pre-crimp, UL1007 18AWG, Length 500mm
+series: faston
 part_number: ST1100802-25C
 thumb_img: static/202007/398-thumb-20200702081317.jpg
 small_img: static/202007/398-20200702081317.jpg

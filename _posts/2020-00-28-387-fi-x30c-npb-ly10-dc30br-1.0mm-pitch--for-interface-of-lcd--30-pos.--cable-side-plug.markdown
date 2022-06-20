@@ -4,6 +4,7 @@ title: FI-X30C-NPB,LY10-DC30BR,1.0mm pitch, for interface of LCD, 30 pos., Cable
 tags: FI
 categories: wire-harness
 overview: 1.0mm pitch, for interface of LCD, 30 pos., Cable side plug,LY Series (2.0 mm Pitch 2 Row Crimp Connector)
+series: 
 part_number: FI-X30C-NPB,LY10-DC30BR
 thumb_img: static/202006/387-thumb-20200628170040.jpg
 small_img: static/202006/387-20200628170040.jpg

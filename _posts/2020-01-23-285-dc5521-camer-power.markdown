@@ -4,6 +4,7 @@ title: DC5521 camer power
 tags: DC5521
 categories: wire-harness
 overview: 
+series: 
 part_number: KR20
 thumb_img: static/202003/285-thumb-20200323180245.jpg
 small_img: static/202003/285-20200323180245.jpg

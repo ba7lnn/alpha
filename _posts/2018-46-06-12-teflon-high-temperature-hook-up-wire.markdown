@@ -4,6 +4,7 @@ title: Teflon,high-temperature Hook-up wire
 tags: hookup-wire, fep
 categories: wire-cable
 overview: Fluorinated Ethylene Propylene (FEP) wire achieves high voltage protection due to the excellent dielectric properties of FEP and therefore has smaller diameters than other high voltage wires.  FEP also has a high stress crack resistance and retains its to
+series: HN10
 part_number: 10-1332-0
 thumb_img: 
 small_img: static/202105/12-20210603.jpg

@@ -4,6 +4,7 @@ title: EL4.14
 tags: EL
 categories: wire-harness
 overview: 
+series: 
 part_number: 
 thumb_img: static/202003/261-thumb-20200319200952.jpg
 small_img: static/202003/261-20200319200952.jpg

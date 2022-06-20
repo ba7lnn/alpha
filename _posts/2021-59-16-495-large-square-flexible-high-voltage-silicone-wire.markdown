@@ -4,6 +4,7 @@ title: Large Square Flexible High Voltage Silicone Wire
 tags: FN90
 categories: wire-cable
 overview: 
+series: FN10
 part_number: 10-1000
 thumb_img: 
 small_img: static/202105/495-20210603.jpg

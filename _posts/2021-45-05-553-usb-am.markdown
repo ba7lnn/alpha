@@ -4,6 +4,7 @@ title: USB A/M
 tags: U20 AM
 categories: housing-terminal
 overview: 
+series: USB
 part_number: 0553-1
 thumb_img: 
 small_img: static/202106/553-20210605.jpg

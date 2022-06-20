@@ -4,6 +4,7 @@ title: 187TAB Pre-Wire 1007 22AWG
 tags: FA 187
 categories: wire-harness
 overview: 
+series: FASTON
 part_number: 5-187-0002
 thumb_img: static/202011/476-thumb-20201102185831.jpg
 small_img: static/202011/476-20201102185831.jpg

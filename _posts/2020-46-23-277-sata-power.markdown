@@ -4,6 +4,7 @@ title: SATA power
 tags: SATA
 categories: wire-harness
 overview: 
+series: 
 part_number: KR11
 thumb_img: static/202003/277-thumb-20200323164752.jpg
 small_img: static/202003/277-20200323164752.jpg

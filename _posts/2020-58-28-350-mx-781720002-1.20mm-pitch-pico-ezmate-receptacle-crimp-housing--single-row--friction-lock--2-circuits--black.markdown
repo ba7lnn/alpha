@@ -4,6 +4,7 @@ title: MX 781720002 1.20mm Pitch Pico-EZmate Receptacle Crimp Housing, Single Ro
 tags: 78172
 categories: wire-harness
 overview: 1.20mm Pitch Pico-EZmate Receptacle Crimp Housing, Single Row, Friction Lock, 2 Circuits, Black
+series: 
 part_number: 781720002 
 thumb_img: static/202006/350-thumb-20200628135911.jpg
 small_img: static/202006/350-20200628135911.jpg

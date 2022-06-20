@@ -4,6 +4,7 @@ title: FI51
 tags: FI
 categories: wire-harness
 overview: 
+series: 
 part_number: KR34
 thumb_img: static/202003/300-thumb-20200323182216.jpg
 small_img: static/202003/300-20200323182216.jpg

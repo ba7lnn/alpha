@@ -4,6 +4,7 @@ title: MX4.2
 tags: MX42
 categories: wire-harness
 overview: 
+series: 5557
 part_number: 
 thumb_img: static/202003/263-thumb-20200319201213.jpg
 small_img: static/202003/263-20200319201213.jpg

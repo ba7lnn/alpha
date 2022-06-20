@@ -4,6 +4,7 @@ title: 36~30AWG Mini USB 3.0 cable, UL 20276,REV3
 tags: U30
 categories: wire-cable
 overview: 
+series: U30
 part_number: 6-20276-01
 thumb_img: 
 small_img: static/202105/492-20210603.jpg

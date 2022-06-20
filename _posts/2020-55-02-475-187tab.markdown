@@ -4,6 +4,7 @@ title: 187TAB
 tags: FA 187
 categories: housing-terminal
 overview: 
+series: FASTON
 part_number: 3-187-0001
 thumb_img: static/202011/475-thumb-20201102185711.jpg
 small_img: static/202011/475-20201102185711.jpg

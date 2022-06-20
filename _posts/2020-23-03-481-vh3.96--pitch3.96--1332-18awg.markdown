@@ -5,6 +5,7 @@ is_home: true
 tags: VH
 categories: wire-harness
 overview: 
+series: VH
 part_number: 7-VH2N-133218-000
 thumb_img: static/202011/481-thumb-20201103102455.jpg
 small_img: static/202011/481-20201103102455.jpg

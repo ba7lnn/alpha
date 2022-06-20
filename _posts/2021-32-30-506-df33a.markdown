@@ -4,6 +4,7 @@ title: DF33A
 tags: HR DF33
 categories: housing-terminal
 overview: 
+series: 
 part_number: 0506-1
 thumb_img: 
 small_img: static/202105/506-20210530.jpg

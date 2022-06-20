@@ -5,6 +5,7 @@ is_home: true
 tags: PHD WW
 categories: housing-terminal
 overview: 
+series: 
 part_number: 
 thumb_img: 
 small_img: static/202107/584-20210720.jpg

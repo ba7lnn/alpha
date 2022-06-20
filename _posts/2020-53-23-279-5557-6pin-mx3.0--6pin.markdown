@@ -4,6 +4,7 @@ title: 5557 6PIN MX3.0  6PIN
 tags: 5557
 categories: wire-harness
 overview: 
+series: 
 part_number: KR12/06
 thumb_img: static/202003/279-thumb-20200323165455.jpg
 small_img: static/202003/279-20200323165455.jpg

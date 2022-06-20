@@ -4,6 +4,7 @@ title: Computer power,audio
 tags: ADO
 categories: wire-harness
 overview: 
+series: 
 part_number: KR25
 thumb_img: static/202003/291-thumb-20200323181233.jpg
 small_img: static/202003/291-20200323181233.jpg

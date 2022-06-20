@@ -5,6 +5,7 @@ is_home: true
 tags: U30
 categories: wire-cable
 overview: 
+series: U30
 part_number: 6-20276-02
 thumb_img: 
 small_img: static/202105/493-20210603.jpg

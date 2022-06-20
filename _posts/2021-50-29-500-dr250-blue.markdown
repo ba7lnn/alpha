@@ -4,6 +4,7 @@ title: DR250 blue
 tags: FA 250 SEL
 categories: housing-terminal
 overview: Sleveet,180,PVC
+series: DF
 part_number: 0500-1
 thumb_img: 
 small_img: static/202105/500-20210529.jpg

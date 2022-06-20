@@ -4,6 +4,7 @@ title: RJ45, UTP, XH2.54
 tags: RJ45
 categories: wire-harness
 overview: RJ45, UTP, XH2.54
+series: 
 part_number: KR08
 thumb_img: static/202003/274-thumb-20200323164308.jpg
 small_img: static/202003/274-20200323164308.jpg

@@ -4,6 +4,7 @@ title: Power Switch
 tags: SW
 categories: housing-terminal
 overview: 
+series: SW
 part_number: 0556-1
 thumb_img: 
 small_img: static/202106/556-20210605.JPG

@@ -4,6 +4,7 @@ title: 10Pin SCN
 tags: FN125
 categories: wire-harness
 overview: 
+series: 
 part_number: KR27
 thumb_img: static/202003/293-thumb-20200323181423.jpg
 small_img: static/202003/293-20200323181423.jpg

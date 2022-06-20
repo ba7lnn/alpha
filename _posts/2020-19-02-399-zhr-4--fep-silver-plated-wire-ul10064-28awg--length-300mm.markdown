@@ -4,6 +4,7 @@ title: ZHR-4, FEP Silver-plated wire,UL10064 28AWG, Length 300mm
 tags: ZH
 categories: wire-harness
 overview: ZHR-4, FEP Silver-plated wire,UL10064 28AWG, Length 300mm
+series: ZH
 part_number: ZHR-4
 thumb_img: static/202007/399-thumb-20200702082043.jpg
 small_img: static/202007/399-20200702082043.jpg

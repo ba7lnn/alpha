@@ -4,6 +4,7 @@ title: DSUB 15PIN
 tags: DB15
 categories: wire-harness
 overview: 
+series: 
 part_number: KR09
 thumb_img: static/202003/275-thumb-20200323164415.jpg
 small_img: static/202003/275-20200323164415.jpg

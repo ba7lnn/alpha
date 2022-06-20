@@ -4,6 +4,7 @@ title: computer HardDisk SATA
 tags: ADO
 categories: wire-harness
 overview: 
+series: 
 part_number: KR24
 thumb_img: static/202003/290-thumb-20200323181057.jpg
 small_img: static/202003/290-20200323181057.jpg

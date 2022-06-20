@@ -4,6 +4,7 @@ title: M12
 tags: M12
 categories: wire-harness
 overview: 
+series: 
 part_number: 0513-1
 thumb_img: 
 small_img: static/202105/513-20210530.jpg

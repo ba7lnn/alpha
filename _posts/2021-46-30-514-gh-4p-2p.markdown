@@ -4,6 +4,7 @@ title: GH,4P,2P
 tags: GH
 categories: housing-terminal
 overview: 
+series: 
 part_number: 0514-1
 thumb_img: 
 small_img: static/202105/514-20210530.jpg

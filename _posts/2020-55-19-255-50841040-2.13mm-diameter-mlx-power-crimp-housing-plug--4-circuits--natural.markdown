@@ -4,6 +4,7 @@ title: 50841040 2.13mm Diameter MLX Power Crimp Housing Plug, 4 Circuits, Natura
 tags: 50841040
 categories: wire-harness
 overview: 2.13mm Diameter MLX Power Crimp Housing Plug, 4 Circuits, Natural
+series: 
 part_number: 50841040
 thumb_img: static/202003/255-thumb-20200319195625.jpg
 small_img: static/202003/255-20200319195625.jpg

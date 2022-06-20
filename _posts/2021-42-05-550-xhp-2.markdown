@@ -4,6 +4,7 @@ title: XHP-2
 tags: XH
 categories: housing-terminal
 overview: 
+series: XH
 part_number: 0550-1
 thumb_img: 
 small_img: static/202106/550-20210605.jpg

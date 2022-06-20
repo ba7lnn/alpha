@@ -4,6 +4,7 @@ title: UL 3385 Hook-up wire
 tags: XLPE FN10
 categories: wire-cable
 overview: UL Mimi Low smoke Hook-up wire UL3385
+series: FN10
 part_number: 10-3385-0
 thumb_img: 
 small_img: static/202105/31-20210603.jpg

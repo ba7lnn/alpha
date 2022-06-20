@@ -4,6 +4,7 @@ title: 2510 2P
 tags: 2510
 categories: wire-harness
 overview: 
+series: 
 part_number: KR30
 thumb_img: static/202003/296-thumb-20200323181753.jpg
 small_img: static/202003/296-20200323181753.jpg

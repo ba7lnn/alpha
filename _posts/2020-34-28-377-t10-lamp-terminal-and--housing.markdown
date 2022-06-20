@@ -4,6 +4,7 @@ title: T10,lamp terminal and  housing
 tags: T10
 categories: housing-terminal
 overview: T10,lamp terminal and  housing
+series: 
 part_number: T10
 thumb_img: static/202006/377-thumb-20200628163704.jpg
 small_img: static/202006/377-20200628163704.jpg

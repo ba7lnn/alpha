@@ -4,6 +4,7 @@ title: DC5521 Male and Femail
 tags: ADO
 categories: wire-harness
 overview: 
+series: 
 part_number: KR22
 thumb_img: static/202003/287-thumb-20200323180624.jpg
 small_img: static/202003/287-20200323180624.jpg

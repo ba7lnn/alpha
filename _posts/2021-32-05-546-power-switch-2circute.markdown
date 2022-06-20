@@ -4,6 +4,7 @@ title: Power Switch 2circute
 tags: SW
 categories: housing-terminal
 overview: 
+series: SW
 part_number: 0546-1
 thumb_img: 
 small_img: static/202106/546-20210605.JPG

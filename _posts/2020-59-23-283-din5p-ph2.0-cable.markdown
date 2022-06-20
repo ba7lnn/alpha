@@ -4,6 +4,7 @@ title: DIN5P PH2.0 CABLE
 tags: HARNESS
 categories: wire-harness
 overview: DIN5P PH2.0 CABLE
+series: 
 part_number: KR18
 thumb_img: static/202003/283-thumb-20200323180022.jpg
 small_img: static/202003/283-20200323180022.jpg

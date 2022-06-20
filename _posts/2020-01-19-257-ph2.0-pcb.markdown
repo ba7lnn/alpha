@@ -4,6 +4,7 @@ title: PH2.0 PCB
 tags: PH
 categories: wire-harness
 overview: 
+series: 
 part_number: 
 thumb_img: static/202003/257-thumb-20200319200225.jpg
 small_img: static/202003/257-20200319200225.jpg

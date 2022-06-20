@@ -4,6 +4,7 @@ title: 797580003, SL pre-crimp wire, 1332 24AWG Length 30mm
 tags: SL
 categories: wire-harness
 overview: Pre-Crimped Lead SL Female-to-SL Female, Tin (Sn) Plating, 150.00mm Length, 22 AWG, Black
+series: SL
 part_number: 6-797580003
 thumb_img: static/202011/488-thumb-20201103194200.jpg
 small_img: static/202011/488-20201103194200.jpg

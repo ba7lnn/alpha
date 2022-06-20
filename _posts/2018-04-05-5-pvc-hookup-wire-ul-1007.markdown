@@ -4,6 +4,7 @@ title: PVC Hookup,Wire UL 1007
 tags: FN10
 categories: wire-cable
 overview: PVC,1C WIRE, 28AWG,16AWG, TIN-PLANT
+series: FN10
 part_number: 10-1007-0
 thumb_img: 
 small_img: static/202105/5-20210603.jpg

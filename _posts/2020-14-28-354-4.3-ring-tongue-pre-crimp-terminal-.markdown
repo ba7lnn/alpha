@@ -4,6 +4,7 @@ title: 4.3 Ring tongue pre-crimp terminal
 tags: FA
 categories: wire-harness
 overview: 4.3 Ring tongue pre-crimp terminal 
+series: 
 part_number: RT4701701-3
 thumb_img: static/202006/354-thumb-20200628141726.jpg
 small_img: static/202006/354-20200628141726.jpg

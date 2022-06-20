@@ -4,6 +4,7 @@ title: BS1 Series Waterproof connector overmolded with Cable IP67
 tags: BS1
 categories: wire-harness
 overview: 
+series: 
 part_number: BS1-02-02-F-04
 thumb_img: static/202003/264-thumb-20200320100204.jpg
 small_img: static/202003/264-20200320100204.jpg

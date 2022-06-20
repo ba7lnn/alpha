@@ -4,6 +4,7 @@ title: Led fast terminal
 tags: LUG ES
 categories: housing-terminal
 overview: 
+series: 
 part_number: 0562-1
 thumb_img: 
 small_img: static/202106/562-20210606.jpg

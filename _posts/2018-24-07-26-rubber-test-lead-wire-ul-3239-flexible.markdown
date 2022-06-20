@@ -4,6 +4,7 @@ title: Rubber Test Lead Wire,UL 3239,Flexible
 tags: FN15 FS
 categories: wire-cable
 overview: For general pupose internal wiring of electronic and electrical equipment.
+series: FN10
 part_number: 10-3239-0
 thumb_img: 
 small_img: static/202105/26-20210603.jpg

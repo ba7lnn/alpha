@@ -5,6 +5,7 @@ is_home: true
 tags: DF33 HR
 categories: housing-terminal
 overview: 
+series: DF33
 part_number: 0587-1
 thumb_img: 
 small_img: static/202107/587-20210720.jpg

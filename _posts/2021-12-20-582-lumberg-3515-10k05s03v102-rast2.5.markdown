@@ -5,6 +5,7 @@ is_home: true
 tags: 3515 LUB
 categories: housing-terminal
 overview: 
+series: 3515
 part_number: 0582-1
 thumb_img: 
 small_img: static/202107/582-20210720.jpg

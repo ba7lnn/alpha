@@ -4,6 +4,7 @@ title: FFC, 20624
 tags: FFC
 categories: wire-harness
 overview: 
+series: FFC
 part_number: 8-20624-000
 thumb_img: static/202011/474-thumb-20201102172559.jpg
 small_img: static/202011/474-20201102172559.jpg

@@ -4,6 +4,7 @@ title: SLR2.5
 tags: SLR
 categories: wire-harness
 overview: 
+series: 
 part_number: 
 thumb_img: static/202003/247-thumb-20200319194223.jpg
 small_img: static/202003/247-20200319194223.jpg
