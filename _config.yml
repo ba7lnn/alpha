@@ -1,4 +1,4 @@
-title: HINGTAK LLC., Wire&Cable,Connectors,Wire Harness
+title: HINGTAK Products LLC.
 email: sales@hingtak.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wire&Cable,Connectors,Wire Harness
@@ -11,9 +11,16 @@ show_excerpts: true
 
 gem 'jekyll-paginate', group: :jekyll_plugins
 
+#group :jekyll_plugins do
+#  gem "jekyll-feed", "~> 0.12"
+#  gem "jekyll-paginate"
+#end
+
 permalink: pretty
 plugins:
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
 #  - jekyll-sitemap
 #  - jekyll/tagging
 
