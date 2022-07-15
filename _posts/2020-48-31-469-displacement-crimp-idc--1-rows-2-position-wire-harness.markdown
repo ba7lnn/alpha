@@ -8,7 +8,7 @@ overview:
 series: MT
 part_number: 7-173977-2
 thumb_img: static/202010/469-thumb-20201031154915.jpg
-small_img: static/202010/469-20201031154915.jpg
+image: static/202010/469-20201031154915.jpg
 date: 2020/10/31 7:48:09
 ---
 

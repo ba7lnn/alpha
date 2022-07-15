@@ -7,7 +7,7 @@ overview:
 series: FN40
 part_number: JK02/05
 thumb_img: static/202003/304-thumb-20200325093139.jpg
-small_img: static/202003/304-20200325093139.jpg
+image: static/202003/304-20200325093139.jpg
 date: 2020/3/25 1:29:45
 ---
 

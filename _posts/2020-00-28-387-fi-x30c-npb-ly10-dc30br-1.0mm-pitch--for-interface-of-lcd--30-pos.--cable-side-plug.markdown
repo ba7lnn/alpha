@@ -7,7 +7,7 @@ overview: 1.0mm pitch, for interface of LCD, 30 pos., Cable side plug,LY Series 
 series: 
 part_number: FI-X30C-NPB,LY10-DC30BR
 thumb_img: static/202006/387-thumb-20200628170040.jpg
-small_img: static/202006/387-20200628170040.jpg
+image: static/202006/387-20200628170040.jpg
 date: 2020/6/28 9:00:08
 ---
 

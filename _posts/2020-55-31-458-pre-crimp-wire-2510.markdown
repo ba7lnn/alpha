@@ -7,7 +7,7 @@ overview:
 series: 2510
 part_number: 4-2510-000
 thumb_img: static/202010/458-thumb-20201031090227.jpg
-small_img: static/202010/458-20201031090227.jpg
+image: static/202010/458-20201031090227.jpg
 date: 2020/10/31 0:55:20
 ---
 

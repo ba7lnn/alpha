@@ -7,7 +7,7 @@ overview:
 series: 
 part_number: KR37
 thumb_img: static/202003/302-thumb-20200323182438.jpg
-small_img: static/202003/302-20200323182438.jpg
+image: static/202003/302-20200323182438.jpg
 date: 2020/3/23 10:23:56
 ---
 

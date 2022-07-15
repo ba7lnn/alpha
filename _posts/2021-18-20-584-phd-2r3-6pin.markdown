@@ -8,7 +8,7 @@ overview:
 series: 
 part_number: 
 thumb_img: 
-small_img: static/202107/584-20210720.jpg
+image: static/202107/584-20210720.jpg
 date: 2021/7/20 8:18:44
 ---
 

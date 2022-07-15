@@ -7,7 +7,7 @@ overview: Pre-Crimped 1.57mm,Pin&Socket Crimp Terminal,Male, 18AWG
 series: 
 part_number: 02062101
 thumb_img: static/202006/346-thumb-20200627083409.jpg
-small_img: static/202006/346-20200627083409.jpg
+image: static/202006/346-20200627083409.jpg
 date: 2020/6/27 0:29:13
 ---
 

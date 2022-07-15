@@ -7,7 +7,7 @@ overview:
 series: 5557
 part_number: 
 thumb_img: static/202003/263-thumb-20200319201213.jpg
-small_img: static/202003/263-20200319201213.jpg
+image: static/202003/263-20200319201213.jpg
 date: 2020/3/19 12:11:16
 ---
 

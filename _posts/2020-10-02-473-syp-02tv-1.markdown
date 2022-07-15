@@ -7,7 +7,7 @@ overview:
 series: SYP
 part_number: 7-SYP-02-22
 thumb_img: static/202011/473-thumb-20201102171117.jpg
-small_img: static/202011/473-20201102171117.jpg
+image: static/202011/473-20201102171117.jpg
 date: 2020/11/2 9:10:21
 ---
 

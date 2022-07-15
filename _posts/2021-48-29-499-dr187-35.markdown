@@ -7,7 +7,7 @@ overview: sleveet,180,PVC
 series: DF
 part_number: 0499-1
 thumb_img: 
-small_img: static/202105/499-20210529.jpg
+image: static/202105/499-20210529.jpg
 date: 2021/5/29 8:48:17
 ---
 

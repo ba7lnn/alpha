@@ -7,7 +7,7 @@ overview: Reference P/N 0490-1
 series: 
 part_number: 0574-1
 thumb_img: 
-small_img: static/202106/574-20210607.jpg
+image: static/202106/574-20210607.jpg
 date: 2021/6/7 8:00:28
 ---
 

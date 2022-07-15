@@ -8,7 +8,7 @@ overview: JST SYR-02T/ SYP- 02T-1 LED,2.5mm,3A,250V,28~22AWGJST SYR-02T/ SYP- 02
 series: SYP
 part_number: SYR-02T
 thumb_img: static/202006/219-thumb-20200629075224.jpg
-small_img: static/202006/219-20200629075224.jpg
+image: static/202006/219-20200629075224.jpg
 date: 2020/1/1 3:17:47
 ---
 

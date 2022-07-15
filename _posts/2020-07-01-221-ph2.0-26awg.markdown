@@ -7,7 +7,7 @@ overview: PH2.0 26AWG
 series: 
 part_number: 
 thumb_img: static/202001/221-thumb-20200101131411.jpg
-small_img: static/202001/221-20200101131411.jpg
+image: static/202001/221-20200101131411.jpg
 date: 2020/1/1 5:07:58
 ---
 

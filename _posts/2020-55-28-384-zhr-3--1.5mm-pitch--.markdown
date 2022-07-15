@@ -7,7 +7,7 @@ overview: The dimple at the center of the contact ensures positive contact and l
 series: ZH
 part_number: ZHR-3
 thumb_img: static/202006/384-thumb-20200628165606.jpg
-small_img: static/202006/384-20200628165606.jpg
+image: static/202006/384-20200628165606.jpg
 date: 2020/6/28 8:55:24
 ---
 

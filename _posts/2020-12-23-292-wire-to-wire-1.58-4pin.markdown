@@ -7,7 +7,7 @@ overview:
 series: 
 part_number: KR26
 thumb_img: static/202003/292-thumb-20200323181322.jpg
-small_img: static/202003/292-20200323181322.jpg
+image: static/202003/292-20200323181322.jpg
 date: 2020/3/23 10:12:35
 ---
 

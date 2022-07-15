@@ -7,7 +7,7 @@ overview: 28AWG/1P, 26AWG/2C, AL,64 Barid, POS Machine, Timer, Electicon
 series: U20
 part_number: A02725.USB2.0003
 thumb_img: static/202006/203-thumb-20200629085510.jpg
-small_img: static/202006/203-20200629085510.jpg
+image: static/202006/203-20200629085510.jpg
 date: 2019/12/31 12:10:24
 ---
 

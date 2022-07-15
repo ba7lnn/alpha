@@ -7,7 +7,7 @@ overview: 1.27mm(0.05") Pitch,Hight-reliability contacts,28-30AWG,Screw Down Opt
 series: ST
 part_number: CC03R-2832-01-G
 thumb_img: static/202007/441-thumb-20200706072637.jpg
-small_img: static/202007/441-20200706072637.jpg
+image: static/202007/441-20200706072637.jpg
 date: 2020/7/5 23:23:16
 ---
 

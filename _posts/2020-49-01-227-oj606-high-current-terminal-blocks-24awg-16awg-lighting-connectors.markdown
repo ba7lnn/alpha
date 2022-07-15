@@ -7,7 +7,7 @@ overview: High-Current,Terminal Blocks,24awg-16awg
 series: F3
 part_number: OJ606
 thumb_img: static/202006/227-thumb-20200626092512.jpg
-small_img: static/202006/227-20200626092512.jpg
+image: static/202006/227-20200626092512.jpg
 date: 2020/1/1 6:49:41
 ---
 

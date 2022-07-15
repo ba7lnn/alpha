@@ -7,7 +7,7 @@ overview:
 series: 
 part_number: BS1-02-02-F-04
 thumb_img: static/202003/264-thumb-20200320100204.jpg
-small_img: static/202003/264-20200320100204.jpg
+image: static/202003/264-20200320100204.jpg
 date: 2020/3/20 1:44:35
 ---
 

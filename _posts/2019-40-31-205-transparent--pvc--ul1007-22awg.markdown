@@ -7,7 +7,7 @@ overview: Transparent, PVC, UL1007 22AWG
 series: FN10
 part_number: A01007.22.008
 thumb_img: static/202006/205-thumb-20200629083131.jpg
-small_img: static/202006/205-20200629083131.jpg
+image: static/202006/205-20200629083131.jpg
 date: 2019/12/31 12:40:29
 ---
 

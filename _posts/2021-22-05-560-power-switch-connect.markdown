@@ -7,7 +7,7 @@ overview:
 series: SW
 part_number: 0560-1
 thumb_img: 
-small_img: static/202106/560-20210605.JPG
+image: static/202106/560-20210605.JPG
 date: 2021/6/5 15:22:05
 ---
 

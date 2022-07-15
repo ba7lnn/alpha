@@ -7,7 +7,7 @@ overview: MX3.0 MOLD
 series: 
 part_number: KR13
 thumb_img: static/202003/280-thumb-20200323165909.jpg
-small_img: static/202003/280-20200323165909.jpg
+image: static/202003/280-20200323165909.jpg
 date: 2020/3/23 8:55:23
 ---
 

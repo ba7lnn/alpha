@@ -7,7 +7,7 @@ overview:
 series: FA
 part_number: FA-P150-25U1824B6
 thumb_img: static/202007/429-thumb-20200704083327.jpg
-small_img: static/202007/429-20200704083327.jpg
+image: static/202007/429-20200704083327.jpg
 date: 2020/7/4 0:32:20
 ---
 

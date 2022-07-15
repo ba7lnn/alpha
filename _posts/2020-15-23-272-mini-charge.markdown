@@ -7,7 +7,7 @@ overview: MINI Charge
 series: 
 part_number: KR06
 thumb_img: static/202003/272-thumb-20200323161625.jpg
-small_img: static/202003/272-20200323161625.jpg
+image: static/202003/272-20200323161625.jpg
 date: 2020/3/23 8:15:53
 ---
 

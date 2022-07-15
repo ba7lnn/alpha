@@ -7,7 +7,7 @@ overview:
 series: PH
 part_number: PHR
 thumb_img: static/202011/477-thumb-20201103095958.jpg
-small_img: static/202011/477-20201103095958.jpg
+image: static/202011/477-20201103095958.jpg
 date: 2020/11/3 1:58:53
 ---
 

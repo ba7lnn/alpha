@@ -8,7 +8,7 @@ overview: Reference P/N 0574-1
 series: M30
 part_number: 0490-1
 thumb_img: static/202012/490-thumb-20201202193906.jpg
-small_img: static/202012/490-20201202193906.jpg
+image: static/202012/490-20201202193906.jpg
 date: 2020/12/2 11:34:21
 ---
 

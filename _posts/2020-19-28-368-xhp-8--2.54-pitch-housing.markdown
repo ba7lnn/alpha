@@ -7,7 +7,7 @@ overview: This connector was developed based on the high reliability
 series: 
 part_number: XHP-8
 thumb_img: static/202006/368-thumb-20200628152111.jpg
-small_img: static/202006/368-20200628152111.jpg
+image: static/202006/368-20200628152111.jpg
 date: 2020/6/28 7:19:08
 ---
 

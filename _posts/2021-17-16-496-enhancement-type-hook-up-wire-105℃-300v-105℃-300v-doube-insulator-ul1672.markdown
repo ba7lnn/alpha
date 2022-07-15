@@ -7,7 +7,7 @@ overview:
 series: FN10
 part_number: 10-1672-01
 thumb_img: 
-small_img: static/202105/496-20210603.jpg
+image: static/202105/496-20210603.jpg
 date: 2021/4/16 1:17:51
 ---
 

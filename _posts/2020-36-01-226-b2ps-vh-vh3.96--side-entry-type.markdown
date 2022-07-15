@@ -7,7 +7,7 @@ overview: This small, field-proven connector for PC boards is reliable and has a
 series: VH
 part_number: B2PS-VH
 thumb_img: static/202006/226-thumb-20200626145126.jpg
-small_img: static/202006/226-20200626145126.jpg
+image: static/202006/226-20200626145126.jpg
 date: 2020/1/1 6:36:11
 ---
 

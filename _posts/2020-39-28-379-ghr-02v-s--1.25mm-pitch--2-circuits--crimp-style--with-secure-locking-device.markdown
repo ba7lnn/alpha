@@ -7,7 +7,7 @@ overview: Crimp style, With secure locking device,With secure locking device, Pi
 series: 
 part_number: GHR-02V-S
 thumb_img: static/202006/379-thumb-20200628164232.jpg
-small_img: static/202006/379-20200628164232.jpg
+image: static/202006/379-20200628164232.jpg
 date: 2020/6/28 8:39:39
 ---
 

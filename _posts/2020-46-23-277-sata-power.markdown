@@ -7,7 +7,7 @@ overview:
 series: 
 part_number: KR11
 thumb_img: static/202003/277-thumb-20200323164752.jpg
-small_img: static/202003/277-20200323164752.jpg
+image: static/202003/277-20200323164752.jpg
 date: 2020/3/23 8:46:53
 ---
 

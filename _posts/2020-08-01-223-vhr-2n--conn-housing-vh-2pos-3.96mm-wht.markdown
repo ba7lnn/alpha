@@ -7,7 +7,7 @@ overview: VHR-2N,Pitch3.96(.156"),CONN HOUSING VH 2POS 3.96MM WHT,,Female Socket
 series: VH
 part_number: VHR-2N
 thumb_img: static/202006/223-thumb-20200620152058.jpg
-small_img: static/202006/223-20200620152058.jpg
+image: static/202006/223-20200620152058.jpg
 date: 2020/1/1 6:08:25
 ---
 

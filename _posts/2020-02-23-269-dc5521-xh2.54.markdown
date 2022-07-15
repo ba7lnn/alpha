@@ -7,7 +7,7 @@ overview:
 series: DC5521
 part_number: 
 thumb_img: static/202003/269-thumb-20200323160325.jpg
-small_img: static/202003/269-20200323160325.jpg
+image: static/202003/269-20200323160325.jpg
 date: 2020/3/23 8:02:16
 ---
 

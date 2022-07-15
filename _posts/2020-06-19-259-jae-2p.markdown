@@ -7,7 +7,7 @@ overview:
 series: 
 part_number: 
 thumb_img: static/202003/259-thumb-20200319200721.jpg
-small_img: static/202003/259-20200319200721.jpg
+image: static/202003/259-20200319200721.jpg
 date: 2020/3/19 12:06:38
 ---
 

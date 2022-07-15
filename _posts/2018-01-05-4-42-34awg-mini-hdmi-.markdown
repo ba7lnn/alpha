@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: 42-34AWG Mini HDMI 
+title: HDMI 42-34AWG Mini HDMI 
 tags: HDMI FN10
 categories: wire-cable
 overview: 

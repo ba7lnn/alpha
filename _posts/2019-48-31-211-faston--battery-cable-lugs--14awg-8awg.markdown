@@ -7,7 +7,7 @@ overview: Battery Cable Lugs offer seamless performance connecting cables, elect
 series: Faston
 part_number: AJ1408
 thumb_img: static/202006/211-thumb-20200629081145.jpg
-small_img: static/202006/211-20200629081145.jpg
+image: static/202006/211-20200629081145.jpg
 date: 2019/12/31 13:48:57
 ---
 

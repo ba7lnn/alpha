@@ -7,7 +7,7 @@ overview:
 series: 
 part_number: KR29
 thumb_img: static/202003/295-thumb-20200323181636.jpg
-small_img: static/202003/295-20200323181636.jpg
+image: static/202003/295-20200323181636.jpg
 date: 2020/3/23 10:16:00
 ---
 

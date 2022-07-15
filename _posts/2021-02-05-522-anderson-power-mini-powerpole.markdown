@@ -8,7 +8,7 @@ overview: MiniPowerpole pin & socket series connector, designed as ground termin
 series: APMP
 part_number: 0522-1
 thumb_img: 
-small_img: static/202106/522-20210605.jpg
+image: static/202106/522-20210605.jpg
 date: 2021/6/5 8:02:39
 ---
 

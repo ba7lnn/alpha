@@ -7,7 +7,7 @@ overview:
 series: U30
 part_number: 621-215-212
 thumb_img: 
-small_img: 
+image: 
 date: 2019/5/23 15:38:42
 ---
 

@@ -7,7 +7,7 @@ overview: OJ603,lighting-connectors, Wire to Wire,High-Current,Terminal Blocks,a
 series: F3
 part_number: OJ603
 thumb_img: static/202006/228-thumb-20200626142507.jpg
-small_img: static/202006/228-20200626142507.jpg
+image: static/202006/228-20200626142507.jpg
 date: 2020/1/1 6:57:46
 ---
 

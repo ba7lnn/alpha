@@ -7,7 +7,7 @@ overview: OD 1.5 male terminal tube
 series: FA
 part_number: FA-P235-30U1822B0
 thumb_img: static/202006/351-thumb-20200628140616.jpg
-small_img: static/202006/351-20200628140616.jpg
+image: static/202006/351-20200628140616.jpg
 date: 2020/6/28 6:05:03
 ---
 

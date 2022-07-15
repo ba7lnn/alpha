@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: 36~30AWG Mini USB 3.0 cable, UL 20276,REV3
+title: AWG36~30 Mini USB 3.0 cable, UL 20276,REV3
 tags: U30
 categories: wire-cable
 overview: 

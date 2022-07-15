@@ -7,7 +7,7 @@ overview: lighting connectors, LED for 2068 Wire to Wire, 2 Circuits,Cutting 6mm
 series: F3
 part_number: LC2068
 thumb_img: static/202006/229-thumb-20200626091936.jpg
-small_img: static/202006/229-20200626091936.jpg
+image: static/202006/229-20200626091936.jpg
 date: 2020/1/1 7:21:37
 ---
 

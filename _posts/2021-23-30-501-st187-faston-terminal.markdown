@@ -7,7 +7,7 @@ overview: ST187 faston terminal
 series: FA
 part_number: 0501-1
 thumb_img: 
-small_img: static/202105/501-20210530.jpg
+image: static/202105/501-20210530.jpg
 date: 2021/5/30 8:23:54
 ---
 

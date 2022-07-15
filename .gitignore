@@ -1,10 +1,5 @@
 _site
-dbcfg
-MySql.Data.dll
-WebAdmin.exe
-hingtak.sql
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
-# [get the PDF]({{ "/assets/mydoc.pdf" | absolute_url }}) 

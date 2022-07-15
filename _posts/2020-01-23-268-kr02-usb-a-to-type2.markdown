@@ -7,7 +7,7 @@ overview:
 series: 
 part_number: KR02/2
 thumb_img: static/202003/268-thumb-20200323160206.jpg
-small_img: static/202003/268-20200323160206.jpg
+image: static/202003/268-20200323160206.jpg
 date: 2020/3/23 8:01:17
 ---
 
