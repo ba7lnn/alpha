@@ -7,7 +7,7 @@ overview:
 series: FN10
 part_number: 10-1617-0
 thumb_img: static/202003/17-thumb-20200326095042.jpg
-small_img: static/202003/17-20200326095042.jpg
+image: static/202003/17-20200326095042.jpg
 date: 2018/5/6 7:00:19
 ---
 

@@ -1,0 +1,114 @@
+/* reset */
+html, body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+   /* font-size: 100%;
+    font: inherit;  */
+	vertical-align: baseline;
+	font-size: 62.5%;
+	/* font-size: 16px; */
+	font-family: 'microsoft yahei',Arial, Helvetica, sans-serif;	
+}
+
+body,dd,dl,h1,h2,h3,h4,h5
+{
+	margin: 0;
+}
+
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body { line-height: 1.5;}
+
+/* ol, ul { list-style: none;}*/
+
+blockquote, q {quotes: none;}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {border-collapse: collapse;border-spacing: 0;}
+em{font-style:normal}
+/* li{list-style:none} */
+img{border:0;vertical-align:middle}
+p{word-wrap:break-word}
+
+/* style */
+.container
+{
+	width: 98%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+a,a:link,a:visited {
+	color: #0066FF;
+}
+
+a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.site-footer
+{
+	font-size: 1rem;
+	color: #666666;
+}
+.site-footer a,.site-footer a:visited
+{
+	color: #666666;
+}
+
+.site-header
+{
+	padding-top: 5px;
+	margin-top: 5px;
+	border-bottom: 1px solid #ccc;
+	font-size:1.4rem;
+}
+
+.footer-card
+{
+	padding-top: 5px;
+	margin-top: 5px;
+	border-top: 1px solid #ccc;
+	color: #999999;
+}
+
+.row
+{
+	padding-top: 5px;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+.post
+{
+	font-size: 1.5rem;
+	padding: 10px 0;
+}
+
+.post .post-meta, .dt-published
+{
+	font-size: 1.2rem;
+	color: #ccc;
+}
+
+h1
+{
+	font-size: 3rem;
+}
+h2
+{
+	font-size: 2rem;
+}

@@ -7,7 +7,7 @@ overview:
 series: FN50
 part_number: 11-10005-0
 thumb_img: 
-small_img: static/202105/33-20210603.jpg
+image: static/202105/33-20210603.jpg
 date: 2018/5/9 2:12:42
 ---
 

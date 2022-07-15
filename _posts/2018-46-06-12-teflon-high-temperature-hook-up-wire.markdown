@@ -7,7 +7,7 @@ overview: Fluorinated Ethylene Propylene (FEP) wire achieves high voltage protec
 series: HN10
 part_number: 10-1332-0
 thumb_img: 
-small_img: static/202105/12-20210603.jpg
+image: static/202105/12-20210603.jpg
 date: 2018/5/6 5:46:49
 ---
 

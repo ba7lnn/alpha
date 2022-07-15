@@ -7,7 +7,7 @@ overview: Cross-Linked Polyethylene (XLPE) Wire exhibits the following character
 series: FN10
 part_number: 10-10368-0
 thumb_img: static/202003/36-thumb-20200325144551.jpg
-small_img: static/202003/36-20200325144551.jpg
+image: static/202003/36-20200325144551.jpg
 date: 2018/5/9 2:29:47
 ---
 

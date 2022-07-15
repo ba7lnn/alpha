@@ -7,7 +7,7 @@ overview: For general pupose internal wiring of electronic and electrical equipm
 series: FN10
 part_number: 10-1617-0
 thumb_img: static/202003/18-thumb-20200327145849.jpg
-small_img: static/202003/18-20200327145849.jpg
+image: static/202003/18-20200327145849.jpg
 date: 2018/5/6 7:03:15
 ---
 

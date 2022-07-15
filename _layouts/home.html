@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+
+    {%- if page_paths -%}
+      <nav class="site-nav">
+        <div class="trigger">
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      </nav>
+    {%- endif -%}
+  </div>
+</header>
+
+
+
+	<div class="home">
+	  {%- if page.title -%}
+		<h1 class="page-heading">{{ page.title }}</h1>
+	  {%- endif -%}
+
+	  {{ content }}
+
+	  {%- if site.posts.size > 0 -%}
+		<div class="post-list">
+		  {%- for post in site.posts -%}
+		  <div class="post">
+			{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+			<span class="post-meta">{{ post.date | date: date_format }}</span>
+			<h3>
+			  <a class="post-link" href="{{ post.url | relative_url }}">
+				{{ post.title | escape }}
+			  </a>
+			</h3>
+			{%- if site.show_excerpts -%}
+			  {{ post.excerpt }}
+			{%- endif -%}
+		  </div>
+		  {%- endfor -%}
+		</div>
+	  {%- endif -%}
+	</div>
+
+	  

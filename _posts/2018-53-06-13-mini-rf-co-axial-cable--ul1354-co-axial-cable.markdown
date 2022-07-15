@@ -7,7 +7,7 @@ overview: Mini RF Co-axial Cable, UL1354 Co-Axial Cable
 series: FN50
 part_number: 20-1354-0
 thumb_img: static/202001/13-thumb-20200101132220.jpg
-small_img: static/202001/13-20200101132220.jpg
+image: static/202001/13-20200101132220.jpg
 date: 2018/5/6 5:53:10
 ---
 

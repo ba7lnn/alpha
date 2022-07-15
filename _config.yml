@@ -13,11 +13,41 @@ github_username:  ba7lnn
 #elative_permailinks: true
 
 # Build settings
-theme: minima
+#theme: minima
+#plugins:
+#  - jekyll-feed
+#  - jekyll-paginate
+
+show_excerpts: true
+
+gem 'jekyll-paginate', group: :jekyll_plugins
+
+permalink: pretty
 plugins:
-  - jekyll-feed
   - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll/tagging
 
-
-paginate: 12
+paginate: 5
 paginate_path: "/page/:num"
+
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed

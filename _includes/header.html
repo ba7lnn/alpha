@@ -1,57 +1,54 @@
-<!DOCTYPE HTML>
-<!--
-	Phantom by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>{{ page.title }}</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="{{ site.url }}/assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="{{ site.url }}/assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
-		<!-- Wrapper -->
-			<div id="wrapper">
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <!-- begin header -->
+      <header class="header">
 
-				<!-- Header -->
-					<header id="header">
-						<div class="inner">
+        <div class="logo">
+          <a class="logo__link" href="{{site.baseurl}}/">
+          {%if site.data.settings.logo %}
+            <img class="logo__image" src="{{ site.baseurl }}/assets/{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
+          {% else %}
+            {{ site.data.settings.title }}
+          {% endif %}
+          </a>
+        </div>
 
-							<!-- Logo -->
-								<a href="{{ site.url }}/index.html" class="logo">
-									<span class="symbol"><img src="{{ site.url }}/images/logo.svg" alt="" /></span><span class="title">Hingtak</span>
-								</a>
+        <nav class="main-nav">
 
-							<!-- Nav -->
-								<nav>
-									<ul>
-										<li><a href="#menu">Menu</a></li>
-									</ul>
-								</nav>
+          <div class="main-nav__box">
+            <div class="nav-icon__close">
+              <i class="ion ion-ios-close-circle-outline"></i>
+            </div>
 
-						</div>
-					</header>
+            <div class="nav__title">Menu</div>
 
-				<!-- Menu -->
-					<nav id="menu">
-						<h2>Menu</h2>
-						<ul>
-							<li><a href="{{ site.url }}/index.html">Home</a></li>
-							<li><a href="{{ site.url }}/category/wire-cable.html">Wire & Cable</a></li>
-							<li><a href="{{ site.url }}/category/housing-terminal.html">Housing & Terminal</a></li>
-							<li><a href="{{ site.url }}/category/wire-harness.html">Wire harness</a></li>
-							{% assign pages_list = site.pages %}
-							  {% for node in pages_list %}
-								{% if node.title != null %}
-								  {% if node.layout == "page" %}
-									<li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-									  <a href="{{ node.url }}">{{ node.title }}</a>
-									</li>
-								  {% endif %}
-								{% endif %}
-							  {% endfor %}
-						</ul>
-					</nav>
+            <ul class="nav__list list-reset">
+              <li class="nav__item">
+                <a href="{{site.baseurl}}/" class="nav__link">Home</a>
+              </li>
+              {% for page in site.pages %}
+                {% unless page.name == 'tags.html' or page.name == '404.html' %}
+              {% if page.title %}
+              <li class="nav__item">
+                <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+              </li>
+              {% endif %}
+                {% endunless %}
+              {% endfor %}
+            </ul>
+
+          </div>
+        </nav>
+
+        <div class="nav-buttons">
+          <i class="nav__icon nav__icon-menu ion ion-md-menu" aria-label="Menu Icon"></i>
+          <i class="nav__icon nav__icon-search ion ion-md-search" aria-label="Search Icon"></i>
+        </div>
+
+        <div class="header__overlay"></div>
+      </header>
+      <!-- end header -->
+    </div>
+  </div>
+</div>

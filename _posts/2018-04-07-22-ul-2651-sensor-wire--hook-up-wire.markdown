@@ -7,7 +7,7 @@ overview: For general pupose internal wiring of electronic and electrical equipm
 series: FN20
 part_number: 20-2651-0
 thumb_img: static/202003/22-thumb-20200325135454.jpg
-small_img: static/202003/22-20200325135454.jpg
+image: static/202003/22-20200325135454.jpg
 date: 2018/5/7 1:04:09
 ---
 

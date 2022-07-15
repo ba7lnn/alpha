@@ -7,7 +7,7 @@ overview: PVC, SRPVC, foamed PVC, foamed SRPVC, XLPVC, XLSRPVC, foamed XLPVC or 
 series: FN10
 part_number: 10-1571-0
 thumb_img: static/202003/16-thumb-20200327153422.jpg
-small_img: static/202003/16-20200327153422.jpg
+image: static/202003/16-20200327153422.jpg
 date: 2018/5/6 6:53:11
 ---
 

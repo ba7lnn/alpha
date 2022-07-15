@@ -7,7 +7,7 @@ overview:
 series: FN20
 part_number: 20-2464-0
 thumb_img: static/202003/19-thumb-20200327145350.jpg
-small_img: static/202003/19-20200327145350.jpg
+image: static/202003/19-20200327145350.jpg
 date: 2018/5/6 7:08:24
 ---
 

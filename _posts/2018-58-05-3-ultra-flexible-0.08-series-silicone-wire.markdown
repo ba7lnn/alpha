@@ -7,7 +7,7 @@ overview: Ultra flexible,Silicon 0.08 series
 series: FN10
 part_number: 10-0008-0
 thumb_img: static/202003/3-thumb-20200325145910.jpg
-small_img: static/202003/3-20200325145910.jpg
+image: static/202003/3-20200325145910.jpg
 date: 2018/5/5 6:58:24
 ---
 

@@ -7,7 +7,7 @@ overview: PVC,1C WIRE, 28AWG,16AWG, TIN-PLANT
 series: FN10
 part_number: 10-1007-0
 thumb_img: 
-small_img: static/202105/5-20210603.jpg
+image: static/202105/5-20210603.jpg
 date: 2018/5/5 7:04:11
 ---
 

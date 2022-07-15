@@ -7,7 +7,7 @@ overview:
 series: FN10
 part_number: 10-1061-0
 thumb_img: 
-small_img: static/202105/7-20210603.jpg
+image: static/202105/7-20210603.jpg
 date: 2018/5/5 7:16:05
 ---
 

@@ -7,7 +7,7 @@ overview: high temperature resistance,sealed cooking, lighting ,computers, elect
 series: FN10
 part_number: 10-3135-0
 thumb_img: 
-small_img: static/202105/25-20210603.jpg
+image: static/202105/25-20210603.jpg
 date: 2018/5/7 9:20:45
 ---
 

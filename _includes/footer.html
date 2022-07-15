@@ -1,23 +1,18 @@
+<!-- begin footer -->
+<footer class="footer">
+  <div class="container">
 
-				<!-- Footer -->
-					<footer id="footer">
-						<div class="inner">
-							<ul class="copyright">
-								<li>Tel:(+86)137-2586-0789</li>
-								<li>Email: sales@hingtak.com</li>
-								<li>&copy; {{ site.time | date: '%Y' }} HINGTAK PRODUCTS LLC. All rights reserved</li>
-							</ul>
-						</div>
-					</footer>
+    {% if site.data.settings.mailchimp %}
+    {% include subscribe.html %}
+    {% else %} {% endif %}
 
-			</div>
+    {% if site.data.settings.instagram %}
+    {% include instagram.html %}
+    {% else %} {% endif %}
 
-		<!-- Scripts -->
-			<script src="{{ site.url }}/assets/js/jquery.min.js"></script>
-			<script src="{{ site.url }}/assets/js/browser.min.js"></script>
-			<script src="{{ site.url }}/assets/js/breakpoints.min.js"></script>
-			<script src="{{ site.url }}/assets/js/util.js"></script>
-			<script src="{{ site.url }}/assets/js/main.js"></script>
+    {% include contact-link.html %}
 
-	</body>
-</html>
+    <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/">{{ site.data.settings.title }}</a><br/> Tel:(+86)137-2586-0789 Email: sales@hingtak.com  <br/> All right Reserved. Powered by <a href="https://jekyllrb.com/">Jekyll</a>. Subscribe: via RSS</div>
+</div>
+</footer>
+<!-- end footer -->
