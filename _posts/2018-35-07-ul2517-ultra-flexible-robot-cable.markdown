@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: Ultra Flexible ROBOT Cable UL2517
+title: UL2517 Ultra Flexible ROBOT Cable
 tags: UltraFlexible,Cable
 categories: wire-cable
 overview: Cable,ROBOT Cable,TPEE,Ultra Flexible ROBOT Cable

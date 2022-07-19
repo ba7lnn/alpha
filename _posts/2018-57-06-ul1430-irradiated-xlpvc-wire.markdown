@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: UL 1430 Irradiated XLPVC wire
+title: UL1430 Irradiated XLPVC wire 105°C 300 Vac
 tags: XLPVC,Hookup-Wire
 categories: wire-cable
 overview: Irradiated XLPVC wire,UL 1430 
@@ -13,7 +13,7 @@ permalink: /wire-cable/ul1430-irradiated-xlpvc-hookupwire.html
 ---
 
 
-* Rating: 105 deg C, 300 Vac, Horizontal Flame.
+* Rating: 105°C, 300 Vac, Horizontal Flame.
 * Conductor: 30 AWG - 16 AWG, Solid or Stranded Round.
 * Insulation: Extruded XLPVC, 15 mils minimum average, 13 mils minimum at any point.
 

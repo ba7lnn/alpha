@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: UL 3265 Hook-up Wire (125℃ 150V, Horizontal flame)
+title: UL3265 Hook-up Wire (125℃ 150V, Horizontal flame)
 tags: XLPE FN10
 categories: wire-cable
 overview: HookUp-Wire,XLPE
