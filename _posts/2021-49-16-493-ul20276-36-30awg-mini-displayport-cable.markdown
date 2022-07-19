@@ -10,29 +10,36 @@ part_number: 6-20276-02
 thumb_img: 
 image: static/202105/493-20210603.jpg
 date: 2021/4/16 0:49:10
+permalink: /wire-cable/ul20276-36awg-30awg-mini-displayport-cable.html
 ---
 
 
-  <h2>UL 20276 36~30AWG Mini USB 3.0 cable </h2>
-  <p><strong>Descriptions:</strong></p>
-  <p>* Rated temperature: 80℃<br />
-    * Rated voltage: 30V<br />
-    * Reference standard: UL758, UL1581, USB3.0 specification<br />
-    * Stranded bare or tinned copper conductor<br />
-    * FEP or foam PE insulation<br />
-    * Shielded with AL-Myar and braiding<br />
-    * Lead-free PVC or FRPE jacket<br />
-    * Flammability grade: UL VW-1 & CSA FT1 vertical flame test </p>
-  <p><strong>Electrical Characteristics: </strong></p>
-<p>Differential Impedance（20℃）：90±10<br />
-  Propagation delay skew: within a pair: ≤15ps/m</p>
-<p>Next : <br />
-  100MHz ≤12<br />
-  1.25GHz ≤50<br />
-  2.5GHz ≤7.5<br />
-  7.5GHz ≤25</p>
+### UL 20276 36~30AWG Mini USB 3.0 cable
 
-<div class="table-responsive">
+__Descriptions:__
+
+* Rated temperature: 80℃
+* Rated voltage: 30V
+* Reference standard: UL758, UL1581, USB3.0 specification
+* Stranded bare or tinned copper conductor
+* FEP or foam PE insulation
+* Shielded with AL-Myar and braiding
+* Lead-free PVC or FRPE jacket
+* Flammability grade: UL VW-1 & CSA FT1 vertical flame test 
+
+__Electrical Characteristics:__
+
+Differential Impedance（20℃）：90±10
+
+Propagation delay skew: within a pair: ≤15ps/m
+
+Next :
+100MHz ≤12
+1.25GHz ≤50
+2.5GHz ≤7.5
+7.5GHz ≤25
+
+
 <table  class="table table-bordered table-hover table-condensed">
   <tr>
     <td colspan="2">Construct</td>
@@ -218,8 +225,7 @@ USB3.0</td>
     <td> </td>
   </tr>
 </table>
-</div>
 
-<p>* Reference：<br />
-  1)  <a href="http://iq.ul.com/awm/stylepage.aspx?Style=20276" target="_blank">UL iQ Style Page : UL 20276 </a></p>
+
+
 * Reference：[UL iQ Style Page : UL 20276](http://iq.ul.com/awm/stylepage.aspx?Style=20276)

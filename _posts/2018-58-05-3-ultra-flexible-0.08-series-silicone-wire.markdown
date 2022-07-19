@@ -13,35 +13,19 @@ permalink: /wire-cable/ultra-flexible-silicon-008-series.html
 ---
 
 
-<ul>
-	<li>
-		Rating Voltage: 600V
-	</li>
-	<li>
-		Temperature Range: -60℃ ~+200℃
-	</li>
-	<li>
-		OD Tolerance: ±0.05-0.1mm
-	</li>
-	<li>
-		Testing Voltage: 25000V
-	</li>
-	<li>
-		Conductuor: Tinned Copper
-	</li>
-	<li>
-		Insulator：Silicone
-	</li>
-	<li>
-		Colours:&nbsp; Red/Black/White/Brown/Yellow/Green/Yellow Green
-	</li>
-	<li>
-		Application: LED light/Electrection/Sensor/Lion-battery,hookup-wire
-	</li>
-</ul>
-<p>
-	<br />
-</p>
+
+__Description:__
+
+* Rating Voltage: 600V
+* Temperature Range: -60℃ ~+200℃
+* OD Tolerance: ±0.05-0.1mm
+* Testing Voltage: 25000V
+* Conductuor: Tinned Copper
+* Insulator：Silicone
+* Colours:&nbsp; Red/Black/White/Brown/Yellow/Green/Yellow Green
+* Application: LED light/Electrection/Sensor/Lion-battery,hookup-wire
+
+
 <div class="table-responsive">
 	<table class="table table-bordered table-hover table-condensed">
 		<tbody>
@@ -365,24 +349,14 @@ permalink: /wire-cable/ultra-flexible-silicon-008-series.html
 		</tbody>
 	</table>
 </div>
-<p>
-	<br />
-</p>
-<div class="table-responsive">
-	<p>
-		Remark:<br />
-30# 1500M/Reel<br />
-28#-20# 400M/Reel<br />
-18#-14#为200M/Reel<br />
-12#-10#为100M/Reel
-	</p>
-</div>
-<p>
-	* NO Approval
-</p>
-<p>
-	<br />
-</p>
-<p>
-	<br />
-</p>
+
+
+__Remark:__
+
+
+* 30# 1500M/Reel
+* 28#-20# 400M/Reel
+* 18#-14#为200M/Reel
+* 12#-10#为100M/Reel
+
+__* NO Approval__

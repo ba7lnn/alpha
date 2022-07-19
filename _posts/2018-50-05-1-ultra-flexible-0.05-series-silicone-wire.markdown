@@ -9,7 +9,7 @@ part_number: 10-3239
 thumb_img: static/202003/1-thumb-20200325145810.jpg
 image: static/202003/1-20200325145810.jpg
 date: 2018/5/5 6:50:25
-permalink: /wire-cable/ultra-flexible-005-series-silicon-wire.html
+permalink: /wire-cable/ultra-flexible-silicon-005-series.html
 ---
 
 

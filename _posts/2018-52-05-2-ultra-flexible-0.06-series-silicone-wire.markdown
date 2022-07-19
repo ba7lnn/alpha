@@ -9,7 +9,7 @@ part_number: 10-0006-0
 thumb_img: static/202003/2-thumb-20200325150017.jpg
 image: static/202003/2-20200325150017.jpg
 date: 2018/5/5 6:52:44
-permalink: /wire-cable/ultra-flexible-Silicon-006-series.html
+permalink: /wire-cable/ultra-flexible-silicon-006-series.html
 ---
 
 
@@ -244,7 +244,6 @@ permalink: /wire-cable/ultra-flexible-Silicon-006-series.html
 	</table>
 </div>
 
-<div class="table-responsive">
 
 __Remark:__
 
