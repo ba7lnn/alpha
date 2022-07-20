@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: B2P-VH,VH3.96, Top entry type
+tags: VH VH3.96
+categories: housing-terminal
+overview: B2P-VH,VH3.96, Top entry type
+series: VH
+part_number: B2P-VH
+thumb_img: static/202006/225-thumb-20200626145830.jpg
+image: static/202006/225-20200626145830.jpg
+date: 2020/1/1 6:34:27
+---
+
+
+

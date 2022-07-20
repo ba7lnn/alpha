@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: JST10Pin SCN
+tags: FN125
+categories: wire-harness
+overview: 
+series: 
+part_number: KR27
+thumb_img: static/202003/293-thumb-20200323181423.jpg
+image: static/202003/293-20200323181423.jpg
+date: 2020/3/23 10:13:43
+---
+
+
+10Pin SCN 1白9黑端子线

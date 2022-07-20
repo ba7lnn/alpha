@@ -1,0 +1,23 @@
+﻿---
+layout: post 
+title: DR250 blue
+tags: FA 250 SEL
+categories: housing-terminal
+overview: Sleveet,180,PVC
+series: DF
+part_number: 0500-1
+thumb_img: 
+image: static/202105/500-20210529.jpg
+date: 2021/5/29 8:50:57
+---
+
+
+Material: PVC
+Color Transpant, Blue
+Packaging: 2000PCS
+Copperater terminal:  250
+
+Rated Current: 10A
+Rated temperature: 70℃
+Rated voltage:500 Volts. AC/DC
+Resistance at >100 MΩ

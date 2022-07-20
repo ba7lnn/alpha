@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: 1.57mm,Pin&Socket Crimp Terminal,Male, 18-24AWG, 02062101
+tags: 1625
+categories: housing-terminal
+overview: 1.57mm Diameter, Standard .062" Pin and Socket Crimp Terminal, Series 1560, Male, with Tin (Sn) Plated Brass Contact, 18-24 AWG, Reel
+series: 1625
+part_number: 02062101
+thumb_img: static/202006/337-thumb-20200626153217.jpg
+image: static/202006/337-20200626153217.jpg
+date: 2020/6/26 7:30:54
+---
+
+
+As this Terminal:&nbsp; EconoLatch Male Terminal, 16-18 AWG, Tin (Sn) Plated, Reel,&nbsp; P/N: 1501801016

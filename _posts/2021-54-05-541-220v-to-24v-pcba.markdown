@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX 220V To 24V PCBA
+tags: PCBA
+categories: housing-terminal
+overview: 
+series: PCBA
+part_number: 0541-1
+thumb_img: 
+image: static/202106/541-20210605.jpg
+date: 2021/6/5 9:54:25
+---
+
+
+

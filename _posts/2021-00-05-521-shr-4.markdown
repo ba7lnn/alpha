@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: SHR-4
+tags: SUR
+categories: wire-harness
+overview: Crimp style 1.0mm pitch connector
+series: EH
+part_number: 0521-1
+thumb_img: 
+image: static/202106/521-20210605.jpg
+date: 2021/6/5 8:00:52
+---
+
+
+

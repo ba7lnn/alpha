@@ -1,0 +1,20 @@
+﻿---
+layout: post 
+title: 1.57mm, Pin&Socket Crimp Terminal, Female,18-24AWG, 02061101
+tags: 1625
+categories: housing-terminal
+overview: 1.57mm Diameter, Standard .062" Pin and Socket Crimp Terminal, Female, with Tin (Sn) Plated Brass Contact, 18-24 AWG, Reel,
+series: 1625
+part_number: 02061101
+thumb_img: static/202006/338-thumb-20200626154010.jpg
+image: static/202006/338-20200626154010.jpg
+date: 2020/6/26 7:39:04
+---
+
+
+<p>
+	1.57mm Diameter, Standard .062" Pin and Socket Crimp Terminal, Female, with Tin (Sn) Plated Brass Contact, 18-24 AWG, Reel,
+</p>
+<p>
+	AS this: EconoLatch Female Terminal, 16-18 AWG, Tin (Sn) Plated, Reel,3.68mm Pith
+</p>

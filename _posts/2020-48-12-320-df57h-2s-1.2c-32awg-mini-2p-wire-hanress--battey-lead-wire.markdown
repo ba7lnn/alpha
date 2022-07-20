@@ -1,0 +1,20 @@
+﻿---
+layout: post 
+title: DF57H-2S-1.2C 32AWG Mini 2P Wire Hanress, battey lead wire
+tags: DF57
+categories: wire-harness
+overview: DF57 series, DF57H-2S-1.2C, Red,Black 2P, battey lead wire
+series: 
+part_number: 5110000
+thumb_img: static/202004/320-thumb-20200412234947.jpg
+image: static/202004/320-20200412234947.jpg
+date: 2020/4/12 15:48:57
+---
+
+
+<p>
+	DF57 series, DF57H-2S-1.2C, Red,Black 2P, battey lead wire
+</p>
+<p>
+	HIROSE&nbsp;DF57H-2S-1.2C 32AWG Mini 2P Wire Hanress
+</p>

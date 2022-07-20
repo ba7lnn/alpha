@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: RJ45 to DC5521, UTP
+tags: RJ45
+categories: wire-harness
+overview: RJ45 to DC5521, UTP
+series: 
+part_number: KR07
+thumb_img: static/202003/273-thumb-20200323161837.jpg
+image: static/202003/273-20200323161837.jpg
+date: 2020/3/23 8:16:48
+---
+
+
+

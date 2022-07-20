@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX3.0 1*5
+tags: MX MX30
+categories: wire-harness
+overview: Reference P/N 0490-1
+series: 
+part_number: 0574-1
+thumb_img: 
+image: static/202106/574-20210607.jpg
+date: 2021/6/7 8:00:28
+---
+
+
+

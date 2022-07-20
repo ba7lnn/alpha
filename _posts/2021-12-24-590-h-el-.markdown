@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: H-EL 
+tags: GRE 1301
+categories: housing-terminal
+overview: 
+series: 
+part_number: 590-1
+thumb_img: 
+image: static/202107/590-20210724.jpg
+date: 2021/7/24 9:12:47
+---
+
+
+

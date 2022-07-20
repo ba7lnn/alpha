@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX1.25-18S
+tags: FASTON
+categories: housing-terminal
+overview: 
+series: 
+part_number: 0535-1
+thumb_img: 
+image: static/202106/535-20210605.jpg
+date: 2021/6/5 9:38:02
+---
+
+
+

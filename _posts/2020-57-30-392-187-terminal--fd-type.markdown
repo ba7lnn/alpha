@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: FD Type, 187 Terminal
+tags: FA 187
+categories: housing-terminal
+overview: 187 Terminal, FD Type
+series: faston
+part_number: FD1870202-35C
+thumb_img: static/202006/392-thumb-20200630085857.jpg
+image: static/202006/392-20200630085857.jpg
+date: 2020/6/30 0:57:34
+---
+
+
+

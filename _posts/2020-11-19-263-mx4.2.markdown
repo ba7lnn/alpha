@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX4.2
+tags: MX42
+categories: wire-harness
+overview: 
+series: 5557
+part_number: 
+thumb_img: static/202003/263-thumb-20200319201213.jpg
+image: static/202003/263-20200319201213.jpg
+date: 2020/3/19 12:11:16
+---
+
+
+MX4.2大电流马达启动线,灯泡空接线

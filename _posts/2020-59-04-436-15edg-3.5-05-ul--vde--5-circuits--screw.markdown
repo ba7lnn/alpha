@@ -1,0 +1,16 @@
+﻿---
+layout: post 
+title: UL, VDE, 5 Circuits, Screw, 15EDG-3.5-05
+is_home: true
+tags: EDG
+categories: housing-terminal
+overview: 15EDG-3.5-05,UL, VDE, 5 Circuits, Screw
+series: EDG
+part_number: 15EDG-3.5-05
+thumb_img: static/202007/436-thumb-20200704130036.jpg
+image: static/202007/436-20200704130036.jpg
+date: 2020/7/4 4:59:30
+---
+
+
+

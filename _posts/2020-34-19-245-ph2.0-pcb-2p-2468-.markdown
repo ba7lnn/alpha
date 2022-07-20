@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: PH2.0 PCB 2P,2468 
+tags: PH
+categories: wire-harness
+overview: 
+series: 
+part_number: 
+thumb_img: static/202003/245-thumb-20200319193523.jpg
+image: static/202003/245-20200319193523.jpg
+date: 2020/3/19 11:34:11
+---
+
+
+PH2.0电池线配PCB座2P，2468的4P端子线

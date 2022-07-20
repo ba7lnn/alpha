@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX51146-0300,1.25mm,PanelMate WTOB,Receptacle Housing
+tags: MX51146
+categories: wire-harness
+overview: 1.25mm Pitch PanelMate Wire-to-Board Receptacle Housing, Ultra Low Profile, 3 Circuits, Natural
+series: 
+part_number: 511460300
+thumb_img: static/202003/258-thumb-20200319200613.jpg
+image: static/202003/258-20200319200613.jpg
+date: 2020/3/19 12:05:06
+---
+
+
+1.25mm Pitch PanelMate Wire-to-Board Receptacle Housing, Ultra Low Profile, 3 Circuits, Natural

@@ -1,0 +1,23 @@
+﻿---
+layout: post 
+title: DF250-40 blue
+tags: FA 250 SEL
+categories: housing-terminal
+overview: Sleveet angle 90
+series: DF
+part_number: 0498-1
+thumb_img: 
+image: static/202105/498-20210529.jpg
+date: 2021/5/29 8:47:07
+---
+
+
+Material: PVC
+Color Transpant
+Packaging: 2000PCS
+Copperater terminal:  250 flag
+
+Rated Current: 10A
+Rated temperature: 70℃
+Rated voltage:500 Volts. AC/DC
+Resistance at >100 MΩ

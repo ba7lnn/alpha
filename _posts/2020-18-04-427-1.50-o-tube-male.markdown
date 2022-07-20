@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: O Tube,Male, 1.50
+tags: FA
+categories: housing-terminal
+overview: 1.50 O Tube,Male
+series: FA
+part_number: FA-W150-25U1822B0
+thumb_img: static/202007/427-thumb-20200704081913.jpg
+image: static/202007/427-20200704081913.jpg
+date: 2020/7/4 0:18:05
+---
+
+
+

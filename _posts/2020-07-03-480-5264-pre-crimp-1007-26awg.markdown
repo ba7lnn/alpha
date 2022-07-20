@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX 5264 Pre-crimp 1007 26AWG
+tags: 5264
+categories: wire-harness
+overview: 
+series: 5264
+part_number: 7-5264-0001
+thumb_img: static/202011/480-thumb-20201103100758.jpg
+image: static/202011/480-20201103100758.jpg
+date: 2020/11/3 2:07:04
+---
+
+
+

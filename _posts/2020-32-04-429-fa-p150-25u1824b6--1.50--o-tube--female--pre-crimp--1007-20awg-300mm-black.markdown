@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: FA-P150-25U1824B6, 1.50, O Tube, Female, Pre-crimp, 1007 20AWG,300mm,Black
+tags: FA
+categories: wire-harness
+overview: 
+series: FA
+part_number: FA-P150-25U1824B6
+thumb_img: static/202007/429-thumb-20200704083327.jpg
+image: static/202007/429-20200704083327.jpg
+date: 2020/7/4 0:32:20
+---
+
+
+

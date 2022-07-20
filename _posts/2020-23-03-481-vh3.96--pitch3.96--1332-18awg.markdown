@@ -1,0 +1,16 @@
+﻿---
+layout: post 
+title: VH3.96, Pitch3.96, 1332 18AWG
+is_home: true
+tags: VH
+categories: wire-harness
+overview: 
+series: VH
+part_number: 7-VH2N-133218-000
+thumb_img: static/202011/481-thumb-20201103102455.jpg
+image: static/202011/481-20201103102455.jpg
+date: 2020/11/3 2:23:37
+---
+
+
+

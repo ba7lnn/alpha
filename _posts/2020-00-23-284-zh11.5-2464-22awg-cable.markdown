@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: ZH11.5 2464 22AWG CABLE
+tags: HARNESS
+categories: wire-harness
+overview: ZH11.5 2464 22AWG CABLE
+series: 
+part_number: KR19
+thumb_img: static/202003/284-thumb-20200323180132.jpg
+image: static/202003/284-20200323180132.jpg
+date: 2020/3/23 10:00:56
+---
+
+
+ZH11.5 2464 22AWG CABLE

@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: XH60
+tags: XT
+categories: housing-terminal
+overview: 
+series: XT
+part_number: 0544-1
+thumb_img: 
+image: static/202106/544-20210605.jpg
+date: 2021/6/5 9:56:03
+---
+
+
+

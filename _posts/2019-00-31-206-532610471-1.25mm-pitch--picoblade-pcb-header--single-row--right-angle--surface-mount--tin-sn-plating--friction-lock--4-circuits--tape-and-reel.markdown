@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX 532610471,1.25mm Pitch, PicoBlade PCB Header, Single Row, Right-Angle, Surface Mount, Tin (Sn) Plating, Friction Lock, 4 Circuits, Tape and Reel
+tags: 2.0,90WF
+categories: housing-terminal
+overview: 1.25mm Pitch, PicoBlade PCB Header, Single Row, Right-Angle, Surface Mount, Tin (Sn) Plating, Friction Lock, 4 Circuits, Tape and Reel
+series: WF
+part_number: 532610471
+thumb_img: static/201912/206-thumb-20191231210233.jpg
+image: static/201912/206-20191231210233.jpg
+date: 2019/12/31 13:00:31
+---
+
+
+

@@ -1,0 +1,31 @@
+﻿---
+layout: post 
+title: PH2.0 26AWG
+tags: PH
+categories: wire-harness
+overview: PH2.0 26AWG
+series: 
+part_number: 
+thumb_img: static/202001/221-thumb-20200101131411.jpg
+image: static/202001/221-20200101131411.jpg
+date: 2020/1/1 5:07:58
+---
+
+
+<p>
+	PH2.0 26AWG硅胶线
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<strong>规格参数：</strong> 
+</p>
+<p>
+	1)端子：PH2.0<br />
+2)线材：26AWG硅胶线<br />
+3)长度：60mm
+</p>
+<p>
+	<br />
+</p>

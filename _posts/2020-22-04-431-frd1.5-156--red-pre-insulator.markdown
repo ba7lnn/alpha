@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: FRD1.5-156, RED,Pre-Insulator
+tags: FRD
+categories: housing-terminal
+overview: FRD1.5-156, RED,Pre-Insulator
+series: KT
+part_number: FRD1.5-156
+thumb_img: static/202007/431-thumb-20200704112412.jpg
+image: static/202007/431-20200704112412.jpg
+date: 2020/7/4 3:22:52
+---
+
+
+

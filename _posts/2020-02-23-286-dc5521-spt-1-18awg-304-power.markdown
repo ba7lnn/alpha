@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: DC5521 SPT-1 18AWG 304 power
+tags: 303
+categories: wire-harness
+overview: DC5521 SPT-1 18AWG 304
+series: 
+part_number: KR21
+thumb_img: static/202003/286-thumb-20200323180337.jpg
+image: static/202003/286-20200323180337.jpg
+date: 2020/3/23 10:02:53
+---
+
+
+SPT-1 18AWG 304船形开关电源线

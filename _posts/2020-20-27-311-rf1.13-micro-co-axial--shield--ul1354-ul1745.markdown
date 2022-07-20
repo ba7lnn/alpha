@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: RF1.13 Micro Co-Axial ,Shield, UL1354,UL1745
+tags: RF113
+categories: wire-cable
+overview: RF1.13 Micro Co-Axial ,Shield, UL1354,UL1745
+series: FN50
+part_number: 114-0246-000
+thumb_img: static/202003/311-thumb-20200327082109.jpg
+image: static/202003/311-20200327082109.jpg
+date: 2020/3/27 0:20:12
+---
+
+
+RF1.13 Micro Co-Axial ,Shield, UL1354,UL1745

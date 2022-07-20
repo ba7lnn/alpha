@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: AMP Mini CT, 1.5mm [.06in] Centerline, Insulation , 353293-6
+tags: MTA06
+categories: housing-terminal
+overview: AMP Mini CT, Connector Assembly, Receptacle, Wire-to-Board, 6 Position, 1.5mm [.06in] Centerline, Insulation Displacement Crimp (IDC), 1 Rows, Natural
+series: 
+part_number: 353293-6
+thumb_img: static/202006/332-thumb-20200616133612.jpg
+image: static/202006/332-20200616133612.jpg
+date: 2020/6/16 5:34:18
+---
+
+
+

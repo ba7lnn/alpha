@@ -1,0 +1,16 @@
+﻿---
+layout: post 
+title:  Wire Harness, Pitch 1.57, 1625
+is_home: true
+tags: MX 1625
+categories: wire-harness
+overview: Pitch 1.57, 1265 Series
+series: 1580
+part_number: HRE1258
+thumb_img: static/202010/453-thumb-20201031081957.jpg
+image: static/202010/453-20201031081957.jpg
+date: 2020/10/31 0:18:40
+---
+
+
+

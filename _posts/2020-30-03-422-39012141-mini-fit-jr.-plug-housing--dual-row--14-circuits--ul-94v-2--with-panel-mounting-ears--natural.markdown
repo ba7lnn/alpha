@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: Mini-Fit Jr. Plug Housing, Dual Row, 14 Circuits, UL 94V-2, with Panel Mounting Ears, Natural, 39012141
+tags: 5557
+categories: housing-terminal
+overview: Mini-Fit Jr. Plug Housing, Dual Row, 14 Circuits, UL 94V-2, with Panel Mounting Ears, Natural
+series: 5557
+part_number: 39012141
+thumb_img: static/202007/422-thumb-20200703163206.jpg
+image: static/202007/422-20200703163206.jpg
+date: 2020/7/3 8:30:58
+---
+
+
+

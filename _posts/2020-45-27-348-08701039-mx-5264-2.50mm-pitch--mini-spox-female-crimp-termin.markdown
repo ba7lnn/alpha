@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX 5264 2.50mm Pitch, Mini-SPOX Female Crimp Termin, 08701039
+tags: 5264
+categories: housing-terminal
+overview: 2.50mm Pitch, Mini-SPOX Female Crimp Terminal, 22-28 AWG, Reel
+series: 5264
+part_number: 08701039
+thumb_img: static/202006/348-thumb-20200627184709.jpg
+image: static/202006/348-20200627184709.jpg
+date: 2020/6/27 10:45:48
+---
+
+
+

@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX03062023,1.57mm, Pin Housing, 2Circuits, without Mounting  Ears, Natural
+tags: 1625
+categories: housing-terminal
+overview: 1.57mm Diameter Standard .062" Pin and Socket Plug Housing, 2 Circuits, without Mounting Ears, Natural
+series: 1625
+part_number: 03062023
+thumb_img: static/202006/340-thumb-20200626161805.jpg
+image: static/202006/340-20200626161805.jpg
+date: 2020/6/26 8:16:40
+---
+
+
+

@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: O Tube,Female, 1.50 
+tags: FA
+categories: housing-terminal
+overview: 1.50 O Tube,Female
+series: FA
+part_number: FA-M150-25U1824B6
+thumb_img: static/202007/428-thumb-20200704082005.jpg
+image: static/202007/428-20200704082005.jpg
+date: 2020/7/4 0:19:16
+---
+
+
+

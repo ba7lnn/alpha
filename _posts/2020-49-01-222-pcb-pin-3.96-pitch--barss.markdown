@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: PCB Pin 3.96 Pitch, Barss
+tags: 1.58
+categories: housing-terminal
+overview: PCB Pin 3.96 Pitch, Barss
+series: Faston
+part_number: 2-396-001
+thumb_img: static/202006/222-thumb-20200629073759.jpg
+image: static/202006/222-20200629073759.jpg
+date: 2020/1/1 5:49:59
+---
+
+
+

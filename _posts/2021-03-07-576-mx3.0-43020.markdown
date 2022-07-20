@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX3.0 43020
+tags: MX MX30
+categories: housing-terminal
+overview: 
+series: 
+part_number: 0576-1
+thumb_img: 
+image: static/202106/576-20210607.jpg
+date: 2021/6/7 8:03:29
+---
+
+
+

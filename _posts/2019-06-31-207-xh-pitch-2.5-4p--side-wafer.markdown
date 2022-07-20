@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: XH,Pitch 2.5,4P, Side Wafer
+tags: 2.5mm,WF
+categories: housing-terminal
+overview: XH,Pitch 2.5,4P, Side Wafer
+series: WF
+part_number: A2501WVR-4PCJT
+thumb_img: static/201912/207-thumb-20191231210836.jpg
+image: static/201912/207-20191231210836.jpg
+date: 2019/12/31 13:06:52
+---
+
+
+<br />

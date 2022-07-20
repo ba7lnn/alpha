@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: IDC, 2651
+tags: 2651 IDC
+categories: wire-harness
+overview: 
+series: IDC
+part_number: KR32
+thumb_img: static/202003/298-thumb-20200323181947.jpg
+image: static/202003/298-20200323181947.jpg
+date: 2020/3/23 10:19:02
+---
+
+
+2651 压接式 灰印红边排线

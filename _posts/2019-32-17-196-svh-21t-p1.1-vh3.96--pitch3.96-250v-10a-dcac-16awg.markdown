@@ -1,0 +1,26 @@
+﻿---
+layout: post 
+title: SVH-21T-P1.1 VH3.96, Pitch3.96 250V,10A DC/AC 16AWG
+tags: VH3.96
+categories: housing-terminal
+overview: VH3.96,10A,AWG 22#-16#
+series: VH
+part_number: SVH-21T-P1.1
+thumb_img: static/202006/196-thumb-20200620082336.jpg
+image: static/202006/196-20200620082336.jpg
+date: 2019/12/17 6:32:27
+---
+
+
+<p>
+	Current rating: 10A AC/DC (16AWG)
+</p>
+<p>
+	Temperature range: -25℃ to +85<span>℃ </span> 
+</p>
+<p>
+	<span>Contact resistance: Initial value 10mΩ/Max</span> 
+</p>
+<p>
+	<span>Applicable wire AWG: #22 to 16#</span> 
+</p>

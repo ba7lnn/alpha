@@ -1,0 +1,38 @@
+﻿---
+layout: post 
+title: USB2.0, UL2725(AVLV2) OD:3.5 28AWG/1P, 26AWG/2C, AL,64 Barid, POS Machine, Timer, Electicon
+tags: USB2.0,cable
+categories: wire-cable
+overview: 28AWG/1P, 26AWG/2C, AL,64 Barid, POS Machine, Timer, Electicon
+series: U20
+part_number: A02725.USB2.0003
+thumb_img: static/202006/203-thumb-20200629085510.jpg
+image: static/202006/203-20200629085510.jpg
+date: 2019/12/31 12:10:24
+---
+
+
+Description:<br />
+* Tinned, annealed, stranded or solid copper conductor. <br />
+* PVC indulation.<br />
+* Rated temperature: 80℃, Rated voltage:30 Volts.<br />
+* Uniform thickness of wire to ensure easy stripping and cutting.<br />
+* Reference Standard:UL758, UL1581,CSA22.2 <br />
+* Resistant acids,oil,aldalis,moisture and fungus. <br />
+<br />
+<br />
+Application: <br />
+* For general pupose internal wiring of electronic and electrical equipment.<br />
+* Cash register, timg_recording machines, Electronic and medical equiment.
+<p>
+	<br />
+</p>
+<p>
+	<b>Specification</b>
+</p>
+<p>
+	28AWG/1P+28AWG/2C B(6*0.10*16)+AL OD:3.5
+</p>
+<p>
+	<br />
+</p>

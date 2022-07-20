@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: Insulation Displacement Connectors (Wire-to-Board type),  0.6mm Pitch XSR,10XSR-36S, 8 circuits 
+tags: IDC XSR
+categories: wire-harness
+overview: XSR,10XSR-36S, 8 circuits Insulation Displacement Connectors (Wire-to-Board type),0.6,0.2A,30V,Side entry
+series: IDC06
+part_number: 10XSR-36S
+thumb_img: static/202007/395-thumb-20200701182136.jpg
+image: static/202007/395-20200701182136.jpg
+date: 2020/7/1 10:20:01
+---
+
+
+

@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: F Type, 187 Sleveet
+tags: FA 187 SEL
+categories: housing-terminal
+overview: 187 Sleveet, F Type
+series: faston
+part_number: DF187-35
+thumb_img: static/202006/389-thumb-20200630083746.jpg
+image: static/202006/389-20200630083746.jpg
+date: 2020/6/30 0:35:31
+---
+
+
+

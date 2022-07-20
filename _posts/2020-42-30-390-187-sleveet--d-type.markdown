@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: D Type, 187 Sleveet
+tags: FA 187 SEL
+categories: housing-terminal
+overview: 187 Sleveet, D Type
+series: faston
+part_number: DR187-30
+thumb_img: static/202006/390-thumb-20200630084255.jpg
+image: static/202006/390-20200630084255.jpg
+date: 2020/6/30 0:42:09
+---
+
+
+

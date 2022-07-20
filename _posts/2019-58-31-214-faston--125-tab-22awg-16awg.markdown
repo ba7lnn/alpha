@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: Faston, 125 Tab,22AWG-16AWG
+tags: 125
+categories: housing-terminal
+overview: Faston, 125 Tab,22AWG-16AWG
+series: Faston
+part_number: AJ125R2216
+thumb_img: static/202006/214-thumb-20200629080533.jpg
+image: static/202006/214-20200629080533.jpg
+date: 2019/12/31 13:58:45
+---
+
+
+

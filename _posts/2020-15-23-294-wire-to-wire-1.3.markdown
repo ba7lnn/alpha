@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: Wire to wire 1.3
+tags: MX30
+categories: wire-harness
+overview: 
+series: 
+part_number: KR28
+thumb_img: static/202003/294-thumb-20200323181541.jpg
+image: static/202003/294-20200323181541.jpg
+date: 2020/3/23 10:15:03
+---
+
+
+空接1.3仿古风扇线

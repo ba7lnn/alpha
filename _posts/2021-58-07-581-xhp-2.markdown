@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: XHP-2
+tags: XH S25
+categories: housing-terminal
+overview: 
+series: 
+part_number: 0591-1
+thumb_img: 
+image: static/202106/581-20210607.jpg
+date: 2021/6/7 8:58:41
+---
+
+
+

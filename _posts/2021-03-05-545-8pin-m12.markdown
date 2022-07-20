@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title:  M12 8Pin
+tags: TOF
+categories: housing-terminal
+overview: 
+series: 
+part_number: 0545-1
+thumb_img: 
+image: static/202106/545-20210605.jpg
+date: 2021/6/5 10:03:05
+---
+
+
+

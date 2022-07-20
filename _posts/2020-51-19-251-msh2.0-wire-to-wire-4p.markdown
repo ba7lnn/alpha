@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MSH2.0 wire to wire 4P
+tags: SMH
+categories: wire-harness
+overview: 
+series: 
+part_number: 
+thumb_img: static/202003/251-thumb-20200319195218.jpg
+image: static/202003/251-20200319195218.jpg
+date: 2020/3/19 11:51:26
+---
+
+
+MSH2.0空中对接4P端子线

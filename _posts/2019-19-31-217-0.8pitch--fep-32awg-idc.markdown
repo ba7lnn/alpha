@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title:  FEP 32AWG IDC, 0.8Pitch
+tags: SUR008
+categories: wire-harness
+overview: 0.8Pitch, FEP 32AWG IDC
+series: IDC
+part_number: 
+thumb_img: static/202007/217-thumb-20200703200713.jpg
+image: static/202007/217-20200703200713.jpg
+date: 2019/12/31 14:19:58
+---
+
+
+

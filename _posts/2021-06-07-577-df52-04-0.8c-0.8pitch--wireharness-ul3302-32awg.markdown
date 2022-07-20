@@ -1,0 +1,16 @@
+﻿---
+layout: post 
+title: DF52-04-0.8C,0.8Pitch, WireHarness,UL3302 32AWG
+is_home: true
+tags: HR DF52
+categories: wire-harness
+overview: 
+series: 
+part_number: 0577-1
+thumb_img: 
+image: static/202106/577-20210607.jpg
+date: 2021/6/7 8:06:32
+---
+
+
+

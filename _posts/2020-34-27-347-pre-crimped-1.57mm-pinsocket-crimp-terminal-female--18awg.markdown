@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: Pre-Crimped 1.57mm,Pin&Socket Crimp Terminal,Female, 18AWG
+tags: 1625
+categories: wire-harness
+overview: Pre-Crimped 1.57mm,Pin&Socket Crimp Terminal,Female, 18AWG
+series: 
+part_number: 02061101
+thumb_img: static/202006/347-thumb-20200627083653.jpg
+image: static/202006/347-20200627083653.jpg
+date: 2020/6/27 0:34:20
+---
+
+
+

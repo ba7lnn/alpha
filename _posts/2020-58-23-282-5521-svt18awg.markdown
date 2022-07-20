@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: SVT18AWG, 5521 
+tags: 5521
+categories: wire-harness
+overview: 5521 SVT18AWG
+series: 
+part_number: KR17
+thumb_img: static/202003/282-thumb-20200323175901.jpg
+image: static/202003/282-20200323175901.jpg
+date: 2020/3/23 9:58:08
+---
+
+
+5521 SVT18AWG电源线

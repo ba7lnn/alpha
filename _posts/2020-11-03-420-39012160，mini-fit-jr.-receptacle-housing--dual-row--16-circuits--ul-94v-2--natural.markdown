@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: MX 39012160，Mini-Fit Jr. Receptacle Housing, Dual Row, 16 Circuits, UL 94V-2, Natural
+tags: 5557
+categories: housing-terminal
+overview: Mini-Fit Jr. Receptacle Housing, Dual Row, 16 Circuits, UL 94V-2, Natural
+series: 5557
+part_number: 39012160
+thumb_img: static/202007/420-thumb-20200703161143.jpg
+image: static/202007/420-20200703161143.jpg
+date: 2020/7/3 8:11:21
+---
+
+
+

@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: JST 187 Terminal, D Type
+tags: FA 187
+categories: housing-terminal
+overview: 187 Terminal, D Type
+series: faston
+part_number: ST1870802-30C
+thumb_img: static/202006/393-thumb-20200630090747.jpg
+image: static/202006/393-20200630090747.jpg
+date: 2020/6/30 1:06:34
+---
+
+
+

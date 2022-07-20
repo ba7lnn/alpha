@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: JST03061023,1.57mm,Plug Housing,2Circuits,without Mounting Ears
+tags: 1625
+categories: housing-terminal
+overview: 1.57mm Diameter Standard .062" Pin and Socket Receptacle Housing, 2 Circuits, without Mounting Ears, Natural
+series: 1625
+part_number: 03061023
+thumb_img: static/202006/339-thumb-20200626161349.jpg
+image: static/202006/339-20200626161349.jpg
+date: 2020/6/26 8:11:48
+---
+
+
+03061023,1.57mm,Plug Housing, 2Circuits, without Mounting Ears,Natural

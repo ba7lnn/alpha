@@ -1,0 +1,15 @@
+﻿---
+layout: post 
+title: PH2.0 Wire to wire, Headers,3 Circuits
+tags: PH
+categories: housing-terminal
+overview: PH2.0 Wire to wire, Headers,4Circuits
+series: PH
+part_number: SPHR-3
+thumb_img: static/202006/367-thumb-20200628151656.jpg
+image: static/202006/367-20200628151656.jpg
+date: 2020/6/28 7:15:44
+---
+
+
+
