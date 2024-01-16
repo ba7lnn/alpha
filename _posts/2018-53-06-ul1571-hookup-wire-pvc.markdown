@@ -23,7 +23,7 @@ permalink: /wire-cable/ul1571-hookup-wire-pvc-80deg-30v.html
 __Description:__
 
 * Tinned, annealed, stranded or solid copper conductor.
-* Color-coded PVC or semi0rigid PVC indulation (jacketed optional).
+* Color-coded PVC or semi-rigid PVC indulation (jacketed optional).
 * Rated temperature: 80℃, Rated voltage:30 Volts.
 * Uniform thickness of wire to ensure easy stripping and cutting.
 * Passes UL VW-1&amp;Cul FT1/FT2 vertical flame test.
