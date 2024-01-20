@@ -50,12 +50,12 @@ Avaliable in 10 standard color.
 
 #### Datasheet Or Specification
 
-* [UL Style Catalog : UL 1007](/assets/catalog/catalog-ul-style-1007.pdf)
-
-#### Reference UL style page (Standard)
-
-* [UL iQ Style Page : UL 1007](http://iq.ul.com/awm/stylepage.aspx?Style=1007)
+* [UL Style Catalog : UL 1007](/assets/catalogs/catalog-ul-style-1007.pdf)
 
 #### Product Compliance
 
 * [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-pvc.zip)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 1007](http://iq.ul.com/awm/stylepage.aspx?Style=1007)
