@@ -1,11 +1,8 @@
 ﻿---
 layout: post 
 title: UL1007 PVC Hookup,Wire (80℃, 300V)
-tags: FN10
 categories: wire-cable
 overview: PVC,1C WIRE, 28AWG,16AWG, TIN-PLANT
-series: FN10
-part_number: 10-1007-0
 thumb_img: 
 image: static/202105/5-20210603.jpg
 date: 2018/5/5 7:04:11
@@ -51,5 +48,14 @@ AWG | Stranded |Overall Dimeter | Resistance at 20℃ Ω/Km
 Standard put-ups: 2000FT, 1000FT, 6100FT minimum for non-stock orders。
 Avaliable in 10 standard color. 
 
-__REFERENCE__
-[UL iQ Style Page : UL 1007](http://iq.ul.com/awm/stylepage.aspx?Style=1007)
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL 1007](/assets/catalog/catalog-ul-style-1007.pdf)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 1007](http://iq.ul.com/awm/stylepage.aspx?Style=1007)
+
+#### Product Compliance
+
+* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-pvc.zip)

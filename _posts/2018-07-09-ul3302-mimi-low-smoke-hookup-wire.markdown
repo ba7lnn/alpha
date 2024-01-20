@@ -56,7 +56,7 @@ __Standard Put-Ups:__
 
 * 100 feet, 500 feet, 1,000 feet.  4,000 feet online minimum
 
-Call for possible smaller minimum on larger sizes.  Please call or click on "Contact Us" above to inquire about stock availability of smaller quantities. 
+Call for possible smaller minimum on larger sizes.  Please call or click on "About" above to inquire about stock availability of smaller quantities. 
 
 __Colors Available__
 
