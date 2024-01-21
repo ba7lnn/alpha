@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: UL1061 Semi-PVC Hook-up wire 80℃ 300V
+title: UL style 1061 Semi-PVC Hook-up wire 80℃ 300V
 tags: SRPVC FN10
 categories: wire-cable
 overview: 
@@ -54,3 +54,16 @@ AWG | Stranded | OD | Resistance at 20℃ Ω/Km
  
 tandard put-ups: 2000FT, 1000FT, 6100FT minimum ofr non-stock orders。
 Avaliable in 10 standard color. 
+
+
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL 1061](/assets/catalogs/catalog-ul-style-1061.pdf)
+
+#### Product Compliance
+
+* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-pvc.zip)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 1061](https://iq.ul.com/awm/stylepage.aspx?style=1061)

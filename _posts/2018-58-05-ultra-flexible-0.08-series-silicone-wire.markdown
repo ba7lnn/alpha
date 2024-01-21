@@ -352,11 +352,13 @@ __Description:__
 
 
 __Remark:__
+None
 
+__Packing Spec:__
 
-* 30# 1500M/Reel
-* 28#-20# 400M/Reel
-* 18#-14#为200M/Reel
-* 12#-10#为100M/Reel
+* 30-28AWG 1500M/Reel
+* 28-20AWG 400M/Reel
+* 18-14AWG 200M/Reel
+* 12-10AWG 100M/Reel
 
-__* NO Approval__
+* [Catalog for Ultra Flexible Silicone Wire 0.08 series](/assets/catalogs/catalog-flexible-silicone-008.pdf)

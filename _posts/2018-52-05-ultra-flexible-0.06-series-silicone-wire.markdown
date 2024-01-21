@@ -252,4 +252,4 @@ __Remark:__
 * 18#-14# 200M/Reel
 * 12#-10# 100M/Reel
 
-* NO Approval
+* [Catalog for Ultra Flexible Silicone Wire 0.06 series](/assets/catalogs/catalog-flexible-silicone-006.pdf)

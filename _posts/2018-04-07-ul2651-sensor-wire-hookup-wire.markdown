@@ -40,4 +40,14 @@ AWM | Stranded | Cores | Pitch/mm | O.D.
 * Resistance: Conductor resistance  at 20℃/M</p>
 * Resistance: refeence UL758
 
-* Other Reference：[UL iQ Style Page : UL 2651 ](http://iq.ul.com/awm/stylepage.aspx?Style=2651)
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL 2651](/assets/catalogs/catalog-ul-style-2651.pdf)
+
+#### Product Compliance
+
+* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-pvc.zip)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 2651](https://iq.ul.com/awm/stylepage.aspx?style=2651)

@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: UL1015 PVC 600 Volt Wire - 105°C (CSA 600V-90 °C) AWM
+title: UL style 1015 PVC 600 Voltage Wire - 105°C (CSA 600V-90 °C) AWM
 tags: FN10
 categories: wire-cable
 overview: One conductor stranded annealed tinned copper, PVC insulation. Resistant to acids, alkalis, oil, flame, fungus and moisture.
@@ -71,7 +71,7 @@ Avaliable in 10 standard color.
 
 #### Datasheet Or Specification
 
-* [UL Style Catalog : UL 1007](/assets/catalogs/catalog-ul-style-1007.pdf)
+* [UL Style Catalog : UL 1015](/assets/catalogs/catalog-ul-style-1015.pdf)
 
 #### Product Compliance
 
@@ -79,5 +79,5 @@ Avaliable in 10 standard color.
 
 #### Reference UL style page (Standard)
 
-* [UL iQ Style Page : UL 1007](http://iq.ul.com/awm/stylepage.aspx?Style=1015)
+* [UL iQ Style Page : UL 1015](https://iq.ul.com/awm/stylepage.aspx?Style=1015)
 

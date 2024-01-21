@@ -71,7 +71,18 @@ AWG | Stranded | O.D. | resistance @ 20℃Ω/Km
 20 | 1/0.813 | 1.6 | 37.7
 18 | 1/1.024 | 1.8 | 23.2
 
-* Standard Put-Ups: 100 feet, 500 feet, 1,000 feet.  2,000 feet online minimum.  Please call or click on &quot;Contact Us&quot; above to inquire about stock availability of smaller quantities. 
-* Colors Available:  Black, Red, White, Green.  Please call or click on &quot;Contact Us&quot; above to inquire about other colors. 
-* Reference:
-[UL iQ Style Page : UL 3266](http://iq.ul.com/awm/stylepage.aspx?Style=3266)
+* Standard Put-Ups: 100 feet, 500 feet, 1,000 feet.  2,000 feet online minimum.  
+* Colors Available:  Black, Red, White, Green.
+
+
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL 3266](/assets/catalogs/catalog-ul-style-3266.pdf)
+
+#### Product Compliance
+
+* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-xlpe.zip)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 3266](https://iq.ul.com/awm/stylepage.aspx?style=3266)

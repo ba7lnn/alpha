@@ -342,8 +342,20 @@ __Application:__
 </ul>
 
 
-Standard Put-Ups: 100 feet, 500 feet, 1,000 feet.  2,000 feet online minimum.  Please call or click on &quot;Contact Us&quot; above to inquire about stock availability of smaller quantities. 
+Standard Put-Ups: 100 feet, 500 feet, 1,000 feet.  2,000 feet online minimum. 
 
-Colors Available:  Black, Red, White, Green.  Please call or click on &quot;Contact Us&quot; above to inquire about other colors. 
+Colors Available:  Black, Red, White, Green.  
 
-* Reference：[UL iQ Style Page : UL 10368](http://iq.ul.com/awm/stylepage.aspx?Style=10368)
+
+
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL 10368](/assets/catalogs/catalog-ul-style-10368.pdf)
+
+#### Product Compliance
+
+* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-xlpe.zip)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 10368](https://iq.ul.com/awm/stylepage.aspx?style=10368)

@@ -50,3 +50,17 @@ AWG | stranding(mm) | OD | Resistance at 20℃ Ω/Km
 18 | 34/0.18 | 2.10 | 23.20
 18 | 1/1.024 | 1.90 | 22.20
 16 | 26/0.25 | 2.30 | 14.60
+
+
+
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL 1430](/assets/catalogs/catalog-ul-style-1430.pdf)
+
+#### Product Compliance
+
+* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-pvc.zip)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 1430](https://iq.ul.com/awm/stylepage.aspx?style=1430)

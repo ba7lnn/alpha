@@ -129,5 +129,6 @@ permalink: /wire-cable/ultra-flexible-silicon-005-series.html
 
 O.D.: Over Diameter 
 
-* Reference：NONE
+#### Datasheet Or Specification
 
+* [Catalog for Ultra Flexible Silicone Wire 0.05 series](/assets/catalogs/catalog-flexible-silicone-005.pdf)

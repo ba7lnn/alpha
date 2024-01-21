@@ -50,3 +50,15 @@ AWG | Strand | Cores | Norm. Wall(mm) | Pitch/mm | O.D.(mm) | Conductor resistan
 22 | 17/0.160 | 4 | 0.52 | 1.8 | 1.8×7.2 | 59.4
 22 | 17/0.160 | 5 | 0.52 | 1.8 | 1.8×9.0 | 59.4
 22 | 17/0.160 | 6 | 0.52 | 1.8 | 1.8×10.8 | 59.4
+
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL 2468](/assets/catalogs/catalog-ul-style-2468.pdf)
+
+#### Product Compliance
+
+* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-pvc.zip)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 2468](https://iq.ul.com/awm/stylepage.aspx?style=2468)

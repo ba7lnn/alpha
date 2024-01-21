@@ -69,4 +69,14 @@ AWG | Stranded | Cores | Sheild | OD
 
 Pairs: Number of pairs conductor strand
 
-* UL IQ Style Page: [UL 2464](http://iq.ul.com/awm/stylepage.aspx?Style=2464)
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL 2464](/assets/catalogs/catalog-ul-style-2464.pdf)
+
+#### Product Compliance
+
+* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-pvc.zip)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 2464](https://iq.ul.com/awm/stylepage.aspx?style=2464)

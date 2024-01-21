@@ -46,4 +46,16 @@ __Standard Put-ups:__
 * 2000FT, 1000FT, 6100FT minimum of non-stock orders。
 * Available in 10 standard color. 
 
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL 1672](/assets/catalogs/catalog-ul-style-1672.pdf)
+
+#### Product Compliance
+
+* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-pvc.zip)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 1672](https://iq.ul.com/awm/stylepage.aspx?style=1672)
+
 
