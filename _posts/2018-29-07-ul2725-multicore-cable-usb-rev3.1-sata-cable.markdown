@@ -7,7 +7,7 @@ overview: Construction is flexible and suitable for computer, communication and 
 series: FN20
 part_number: 20-2725-0
 thumb_img: 
-image: static/202105/23-20210603.jpg
+image: static/23-20210603.jpg
 date: 2018/5/7 1:29:48
 permalink: /wire-cable/ul2725-multicore-cable-usb-rev31-sata-cable.html
 ---

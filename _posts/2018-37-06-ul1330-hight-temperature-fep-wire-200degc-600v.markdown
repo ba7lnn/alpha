@@ -7,7 +7,7 @@ overview: FEP Fluorinated Ethylene Propylene Wire, Single Conductor
 series: HN10
 part_number: 10-1330-0
 thumb_img: 
-image: static/202105/10-20210603.jpg
+image: static/10-20210603.jpg
 date: 2018/5/6 5:37:31
 permalink: /wire-cable/ul1330-hight-temperature-hookup-wire-200degc-600v.html
 ---

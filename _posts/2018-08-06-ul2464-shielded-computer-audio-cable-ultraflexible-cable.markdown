@@ -6,8 +6,8 @@ categories: wire-cable
 overview: 
 series: FN20
 part_number: 20-2464-0
-thumb_img: static/202003/19-thumb-20200327145350.jpg
-image: static/202003/19-20200327145350.jpg
+thumb_img: static/19-thumb-20200327145350.jpg
+image: static/19-20200327145350.jpg
 date: 2018/5/6 7:08:24
 permalink: /wire-cable/ul2464-shielded-computer-audio-cable-ultraflexible-cable.html
 ---

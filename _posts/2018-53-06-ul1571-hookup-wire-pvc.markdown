@@ -1,20 +1,20 @@
 ﻿---
 layout: post 
-title: UL1571 Hook-up wire, PVC
+title: UL AWM 1571 style, Hook-up wire, PVC 80 degC 30V
 tags: pvc,Hookup-Wire
 categories: wire-cable
 overview: PVC, SRPVC, foamed PVC, foamed SRPVC, XLPVC, XLSRPVC, foamed XLPVC or foamed XLSRPVC, 2 mils minimum thickness at any point, 100 mils maximum thickness.
 series: FN10
 part_number: 10-1571-0
-thumb_img: static/202003/16-thumb-20200327153422.jpg
-image: static/202003/16-20200327153422.jpg
+thumb_img: static/16-thumb-20200327153422.jpg
+image: static/16-20200327153422.jpg
 date: 2018/5/6 6:53:11
 permalink: /wire-cable/ul1571-hookup-wire-pvc-80deg-30v.html
 ---
 
 
 
-#### UL 1571 Hook-up wire
+#### UL style 1571 Hook-up wire
 
 * Rating: 80 deg C, 30 Vac, Horizontal flame.
 * Conductor : 50 AWG minimum. Solid or stranded.
@@ -51,4 +51,17 @@ AWG | Stranded | OD | Resistance at 20℃ Ω/Km
 
 Standard put-ups: 2000FT, 1000FT, 6100FT minimum ofr non-stock orders。
 Avaliable in 10 standard color. 
+
+
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL AWM 1571](/assets/catalogs/catalog-ul-style-1571.pdf)
+
+#### Product Compliance
+
+* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-pvc.zip)
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL 1571](https://iq.ul.com/awm/stylepage.aspx?style=1571)
 

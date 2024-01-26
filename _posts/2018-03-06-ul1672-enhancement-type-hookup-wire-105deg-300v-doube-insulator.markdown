@@ -6,8 +6,8 @@ categories: wire-cable
 overview: For general pupose internal wiring of electronic and electrical equipment.
 series: FN10
 part_number: 10-1617-0
-thumb_img: static/202003/18-thumb-20200327145849.jpg
-image: static/202003/18-20200327145849.jpg
+thumb_img: static/18-thumb-20200327145849.jpg
+image: static/18-20200327145849.jpg
 date: 2018/5/6 7:03:15
 permalink: /wire-cable/ul1672-enhancement-type-hookup-wire-105deg-300v-doube-insulator.html
 ---

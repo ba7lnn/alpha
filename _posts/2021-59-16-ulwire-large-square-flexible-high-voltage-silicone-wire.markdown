@@ -7,7 +7,7 @@ overview:
 series: FN10
 part_number: 10-1000
 thumb_img: 
-image: static/202105/495-20210603.jpg
+image: static/495-20210603.jpg
 date: 2021/4/16 0:59:42
 permalink: /wire-cable/large-square-flexible-high-voltage-silicone-wire.html
 ---

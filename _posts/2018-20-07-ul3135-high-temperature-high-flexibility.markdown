@@ -7,7 +7,7 @@ overview: high temperature resistance,sealed cooking, lighting ,computers, elect
 series: FN10
 part_number: 10-3135-0
 thumb_img: 
-image: static/202105/25-20210603.jpg
+image: static/25-20210603.jpg
 date: 2018/5/7 9:20:45
 permalink: /wire-cable/ul3135-high-temperature-high-flexibility-flexible.html
 ---

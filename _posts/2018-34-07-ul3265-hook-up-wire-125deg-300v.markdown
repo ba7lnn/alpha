@@ -7,7 +7,7 @@ overview: HookUp-Wire,XLPE
 series: FN10
 part_number: 10-3265-0
 thumb_img: 
-image: static/202105/28-20210603.jpg
+image: static/28-20210603.jpg
 date: 2018/5/7 9:34:30
 permalink: /wire-cable/ul3265-hook-up-wire-105deg-300v.html
 ---

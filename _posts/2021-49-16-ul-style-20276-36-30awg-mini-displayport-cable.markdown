@@ -8,9 +8,9 @@ overview:
 series: U30
 part_number: 6-20276-02
 thumb_img: 
-image: static/202105/493-20210603.jpg
+image: static/493-20210603.jpg
 date: 2021/4/16 0:49:10
-permalink: /wire-cable/ul20276-36awg-30awg-mini-displayport-cable.html
+permalink: /wire-cable/ul-style-20276-36awg-30awg-mini-displayport-cable.html
 ---
 
 

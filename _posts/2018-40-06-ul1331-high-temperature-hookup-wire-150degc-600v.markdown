@@ -7,7 +7,7 @@ overview: FEP Fluorinated Ethylene Propylene Wire
 series: HN10
 part_number: 10-1331-0
 thumb_img: 
-image: static/202105/11-20210603.jpg
+image: static/11-20210603.jpg
 date: 2018/5/6 5:40:27
 permalink: /wire-cable/ul31312-hight-temperature-fep-f46-hookup-wire-150degc-600v.html
 ---

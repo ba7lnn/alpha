@@ -4,7 +4,7 @@ title: UL style 1007, PVC Hook-up Wire (80℃, 300V)
 categories: wire-cable
 overview: PVC,1C WIRE, 28AWG,16AWG, TIN-PLANT
 thumb_img: 
-image: static/202105/5-20210603.jpg
+image: static/5-20210603.jpg
 date: 2018/5/5 7:04:11
 permalink: /wire-cable/ul1007-pvc-hookup-wire-80degc-300v.html
 ---

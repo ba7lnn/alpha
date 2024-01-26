@@ -7,7 +7,7 @@ overview: Cash register, timg_recording machines, Electronic and medical equimen
 series: FN10
 part_number: 10-3171-0
 thumb_img: 
-image: static/202105/27-20210603.jpg
+image: static/27-20210603.jpg
 date: 2018/5/7 9:28:12
 permalink: /wire-cable/ul3173-low-smoke-zero-halogen-hookup-wire-xlpe-125dec-600v.html
 ---

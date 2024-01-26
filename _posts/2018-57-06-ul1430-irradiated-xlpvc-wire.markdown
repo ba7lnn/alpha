@@ -7,7 +7,7 @@ overview: Irradiated XLPVC wire,UL 1430
 series: FN10
 part_number: 10-1430-0
 thumb_img: 
-image: static/202105/14-20210603.jpg
+image: static/14-20210603.jpg
 date: 2018/5/6 5:57:47
 permalink: /wire-cable/ul1430-irradiated-xlpvc-hookupwire.html
 ---

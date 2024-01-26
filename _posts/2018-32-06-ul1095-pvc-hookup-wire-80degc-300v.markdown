@@ -7,7 +7,7 @@ overview: UL1095,1Wire,PVC,80℃,300V
 series: FN10
 part_number: 10-1095-0
 thumb_img: 
-image: static/202105/8-20210603.jpg
+image: static/8-20210603.jpg
 date: 2018/5/6 5:32:12
 permalink: /wire-cable/ul1095-pvc-hookup-wire-80degc-300v.html
 ---

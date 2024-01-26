@@ -7,8 +7,9 @@ overview:
 series: FN100
 part_number: 10-1332-01
 thumb_img: 
-image: static/202105/497-20210603.jpg
+image: static/497-20210603.jpg
 date: 2021/4/16 1:24:24
+permalink: /wire-cable/ul-awm-1332-hight-temperature-fep-wire.html
 ---
 
 
@@ -60,3 +61,14 @@ AWG | Conductor(mm) | Wall | OD | Resistance at20℃ Ohm/km
 Standard Put-Ups: 100 feet, 500 feet, 1,000 feet
 Colors Available:  Black, Red, White, Green, Yellow, Blue, Brown, Grey, Violet, Orange 
 Sizes &amp; Colors usually stocked and available online are indicated in the above chart.  Please call or click above on &quot;Contact Us&quot; for availability of other sizes &amp; colors. 
+
+
+
+#### Datasheet Or Specification
+
+* [UL Style Catalog : UL AWM 1332](/assets/catalogs/catalog-ul-style-1332.pdf)
+
+
+#### Reference UL style page (Standard)
+
+* [UL iQ Style Page : UL style 1332](https://iq.ul.com/awm/stylepage.aspx?style=1332)

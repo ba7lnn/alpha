@@ -6,9 +6,10 @@ categories: wire-cable
 overview: Silicone Rubby, fiberglas braid, UL3122 16AWG OD:2.7
 series: FN10
 part_number: A03122.16.006
-thumb_img: static/202006/204-thumb-20200629083809.jpg
-image: static/202006/204-20200629083809.jpg
+thumb_img: static/204-thumb-20200629083809.jpg
+image: static/204-20200629083809.jpg
 date: 2019/12/31 12:21:43
+permalink: /wire-cable/ul-style-3122-fiberglas-braid-silicone-wire.html
 ---
 
 

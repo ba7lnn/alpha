@@ -7,7 +7,7 @@ overview: Cable,ROBOT Cable,TPEE,Ultra Flexible ROBOT Cable
 series: FN20
 part_number: 20-2517-0
 thumb_img: 
-image: static/202105/21-20210603.jpg
+image: static/21-20210603.jpg
 date: 2018/5/7 0:35:43
 permalink: /wire-cable/ul2517-ultra-flexible-robot-cable.html
 ---

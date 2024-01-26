@@ -6,8 +6,8 @@ categories: wire-cable
 overview: 
 series: FN20
 part_number: 20-2468-0
-thumb_img: static/202001/20-thumb-20200101113212.jpg
-image: static/202001/20-20200101113212.jpg
+thumb_img: static/20-thumb-20200101113212.jpg
+image: static/20-20200101113212.jpg
 date: 2018/5/6 7:12:56
 permalink: /wire-cable/ul2468-parallel-cable-hookup-wire.html
 ---

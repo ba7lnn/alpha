@@ -7,7 +7,7 @@ overview:
 series: FN50
 part_number: 11-10005-0
 thumb_img: 
-image: static/202105/33-20210603.jpg
+image: static/33-20210603.jpg
 date: 2018/5/9 2:12:42
 permalink: /wire-cable/ul10005-micro-coaxial-cable-pfa-jack.html
 ---

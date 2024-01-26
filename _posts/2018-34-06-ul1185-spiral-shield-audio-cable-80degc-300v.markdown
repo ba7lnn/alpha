@@ -7,7 +7,7 @@ overview: Spiral shield,Audio,Cable,UL1185
 series: FN10
 part_number: 10-1185-0
 thumb_img: 
-image: static/202105/9-20210603.jpg
+image: static/9-20210603.jpg
 date: 2018/5/6 5:34:35
 permalink: /wire-cable/ul1185-spiral-shield-audio-cable-80degc-300v.html
 ---

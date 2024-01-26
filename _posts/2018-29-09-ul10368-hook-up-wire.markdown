@@ -6,8 +6,8 @@ categories: wire-cable
 overview: Cross-Linked Polyethylene (XLPE) Wire exhibits the following characteristics
 series: FN10
 part_number: 10-10368-0
-thumb_img: static/202003/36-thumb-20200325144551.jpg
-image: static/202003/36-20200325144551.jpg
+thumb_img: static/36-thumb-20200325144551.jpg
+image: static/36-20200325144551.jpg
 date: 2018/5/9 2:29:47
 permalink: /wire-cable/ul10368-hookup-wire-xlpe-105deg-300v.html
 ---
