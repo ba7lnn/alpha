@@ -9,10 +9,17 @@ part_number: 10-0000-1
 thumb_img: 
 image: static/4-20210603.jpg
 date: 2018/5/5 7:01:12
+permalink: /wire-cable/hdmi-42-34awg-mini-core.html
 ---
 
 
-<div class="table-responsive">
+
+* TC: Tinned copper<br />
+* SPC: Silver plated copper<br />
+* SPTCA: silver plated tin-copper alloy<br />
+* TPTCA：Tin plated tin-copper allloy
+
+
 	<table class="table table-bordered table-hover">
 		<tbody>
 			<tr>
@@ -167,12 +174,3 @@ date: 2018/5/5 7:01:12
 		</tbody>
 	</table>
 </div>
-<p>
-	* TC: Tinned copper<br />
-* SPC: Silver plated copper<br />
-* SPTCA: silver plated tin-copper alloy<br />
-* TPTCA：Tin plated tin-copper allloy
-</p>
-<p>
-	<br />
-</p>

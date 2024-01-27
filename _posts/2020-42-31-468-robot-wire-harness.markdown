@@ -13,5 +13,9 @@ date: 2020/10/31 7:42:58
 permalink: /wire-cable/robot-wire-harness.html
 ---
 
+Robot Wire harness
+
+Users should evaluate the suitability of this product for their application. Specifications are subject to change without notice. 
+
 
 
