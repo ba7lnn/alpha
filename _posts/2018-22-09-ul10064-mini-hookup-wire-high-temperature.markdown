@@ -1,8 +1,7 @@
 ﻿---
 layout: post 
-title: UL10064 Mini Hook-up wire,High-temperature 105℃ 30V
-is_home: true
-tags: hookup-wire
+title: UL style 10064 Mini Hook-up wire,High-temperature 105℃ 30V
+is_home: true
 categories: wire-cable
 overview: Mini Hook-up wire,High-temperature
 series: FN

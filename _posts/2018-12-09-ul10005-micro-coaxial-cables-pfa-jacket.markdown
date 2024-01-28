@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
-title: UL10005 Micro coaxial cables - PFA Jacket
-tags: PFA
+title: UL style 10005 Micro coaxial cables - PFA Jacket
 categories: wire-cable
 overview: 
 series: FN50

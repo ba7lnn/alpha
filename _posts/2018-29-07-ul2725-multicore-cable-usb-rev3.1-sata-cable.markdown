@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
-title: UL2725 Mult Core Cable, USB 3.0, USB Rev3.1, SATA cable
-tags: USB2.0 USB3.0
+title: UL style 2725 Mult Core Cable, USB 3.0, USB Rev3.1, SATA cable
 categories: wire-cable
 overview: Construction is flexible and suitable for computer, communication and control applications. Cable resists acids, alkalis, oil, solvents, moisture and fungus
 series: FN20

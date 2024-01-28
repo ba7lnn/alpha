@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL1185 Spiral Shield Audio Cable
-tags: Spiral,Hookup-Wire
 categories: wire-cable
 overview: Spiral shield,Audio,Cable,UL1185
 series: FN10

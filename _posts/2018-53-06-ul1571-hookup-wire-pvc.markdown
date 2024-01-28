@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL AWM 1571 style, Hook-up wire, PVC 80 degC 30V
-tags: pvc,Hookup-Wire
 categories: wire-cable
 overview: PVC, SRPVC, foamed PVC, foamed SRPVC, XLPVC, XLSRPVC, foamed XLPVC or foamed XLSRPVC, 2 mils minimum thickness at any point, 100 mils maximum thickness.
 series: FN10

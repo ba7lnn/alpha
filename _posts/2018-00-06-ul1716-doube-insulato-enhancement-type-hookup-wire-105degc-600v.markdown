@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL1617 Doube insulato, Enhancement type hook-up wire (105℃ 600V)
-tags: pvc,Hookup-Wire
 categories: wire-cable
 overview: 
 series: FN10

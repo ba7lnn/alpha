@@ -1,7 +1,6 @@
 ---
 layout: post 
 title: UL3385 XLPE Hook-up wire 105℃ 300Volt
-tags: XLPE FN10
 categories: wire-cable
 overview: UL Mimi Low smoke Hook-up wire UL3385
 series: FN10

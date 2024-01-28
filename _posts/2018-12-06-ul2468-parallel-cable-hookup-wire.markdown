@@ -1,7 +1,6 @@
 ---
 layout: post 
 title: UL2468 Parallel cable,Hook-up wire 80℃ 300V
-tags: hookup-wire
 categories: wire-cable
 overview: 
 series: FN20

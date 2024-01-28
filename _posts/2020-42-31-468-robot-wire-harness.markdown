@@ -2,7 +2,6 @@
 layout: post 
 title: ROBOT wire harness
 is_home: true
-tags: RB
 categories: wire-harness
 overview: ROBOT wire harness
 series: RB

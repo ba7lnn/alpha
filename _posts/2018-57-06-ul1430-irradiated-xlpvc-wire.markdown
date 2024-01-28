@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL1430 Irradiated XLPVC wire 105°C 300 Vac
-tags: XLPVC,Hookup-Wire
 categories: wire-cable
 overview: Irradiated XLPVC wire,UL 1430 
 series: FN10

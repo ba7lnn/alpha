@@ -1,7 +1,6 @@
 ---
 layout: post 
 title: UL3302 Mimi Low smoke Hook-up wire 105℃ 30V
-tags: XLPE FN10
 categories: wire-cable
 overview: UL Mimi Low smoke Hook-up wire
 series: FN10

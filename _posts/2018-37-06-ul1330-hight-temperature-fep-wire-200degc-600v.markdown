@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL1330 Hight temperature FEP wire 200°C 600V
-tags: hookup-wire, fep
 categories: wire-cable
 overview: FEP Fluorinated Ethylene Propylene Wire, Single Conductor
 series: HN10

@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL1354 Mini RF Co-axial Cable
-tags: Co-Axial
 categories: wire-cable
 overview: Mini RF Co-axial Cable, UL1354 Co-Axial Cable
 series: FN50

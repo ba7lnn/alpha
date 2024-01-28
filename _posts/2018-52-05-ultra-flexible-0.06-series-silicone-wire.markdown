@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: Ultra flexible 0.06 Series Silicone wire
-tags: FN10
 categories: wire-cable
 overview: Ultra flexible 0.06 Series Silicone wire
 series: FN10

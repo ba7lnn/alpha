@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
-title: hight temperature FEP wire, UL 1332
-tags: FN10
+title: hight temperature FEP wire, UL style 1332
 categories: wire-cable
 overview: 
 series: FN100

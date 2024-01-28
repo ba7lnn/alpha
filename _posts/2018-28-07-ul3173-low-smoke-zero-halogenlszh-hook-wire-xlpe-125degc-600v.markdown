@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
-title:  UL3173 Low-smoke Zero Halogen(LSZH) hook-wire,XLPE 125℃ 600V
-tags: XLPE FN10
+title:  UL style 3173 Low-smoke Zero Halogen(LSZH) hook-wire,XLPE 125℃ 600V
 categories: wire-cable
 overview: Cash register, timg_recording machines, Electronic and medical equiment.
 series: FN10

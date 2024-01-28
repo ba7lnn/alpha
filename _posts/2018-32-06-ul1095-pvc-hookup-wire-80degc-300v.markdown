@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL1095 PVC hook-up wire,80℃,300V
-tags: Hookup-Wire
 categories: wire-cable
 overview: UL1095,1Wire,PVC,80℃,300V
 series: FN10

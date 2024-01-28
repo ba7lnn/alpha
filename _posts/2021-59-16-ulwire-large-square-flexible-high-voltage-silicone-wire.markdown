@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: Large Square Flexible High Voltage Silicone Wire
-tags: FN90
 categories: wire-cable
 overview: 
 series: FN10

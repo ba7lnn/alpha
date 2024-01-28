@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
-title: UL10368 Hook-up wire 105℃ 300V XLPE
-tags: UL10368
+title: UL style 10368 Hook-up wire 105℃ 300V XLPE
 categories: wire-cable
 overview: Cross-Linked Polyethylene (XLPE) Wire exhibits the following characteristics
 series: FN10

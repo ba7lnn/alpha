@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL2651 Sensor Wire, Hook-up wire
-tags: hookup-wire
 categories: wire-cable
 overview: For general pupose internal wiring of electronic and electrical equipment
 series: FN20

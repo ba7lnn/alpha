@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL10005 PF jacket 80℃ 30v
-tags: RF
 categories: wire-cable
 overview: ultra flexible high strand count bare copper conductor insulated with a 3.5 mil wall of non-hygroscopic fluoropolymer (FEP). 
 series: FN50

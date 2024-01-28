@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
-title: UL3132 Hight Temperature Silicone Hook-up Wire 150℃ 300v
-tags: FN10 FS
+title: UL style 3132 Hight Temperature Silicone Hook-up Wire 150℃ 300v
 categories: wire-cable
 overview: HookUp-Wire,Silicone,Hight Temperature Silicone Hook-up Wire 150℃
 series: FN10
@@ -39,5 +38,5 @@ AWG | Strand | Norm. Wall(mm) | O.D.(mm) | Conductor resistance @ 20℃/Ω/Km
 
 * Reference：
 
-[UL iQ Style Page : UL 3132](http://iq.ul.com/awm/stylepage.aspx?Style=3132)
+[UL iQ Style Page : UL 3132](https://iq.ul.com/awm/stylepage.aspx?Style=3132)
 

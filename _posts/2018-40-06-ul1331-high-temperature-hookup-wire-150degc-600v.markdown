@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL1331 High-temperature Hook-up wire 150°C 600V
-tags: hookup-wire, fep
 categories: wire-cable
 overview: FEP Fluorinated Ethylene Propylene Wire
 series: HN10

@@ -1,7 +1,6 @@
 ﻿---
 layout: post 
 title: UL style 1061 Semi-PVC Hook-up wire 80℃ 300V
-tags: SRPVC FN10
 categories: wire-cable
 overview: 
 series: FN10

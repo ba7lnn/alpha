@@ -1,7 +1,6 @@
 ---
 layout: post 
 title: UL2464 Shielded, Computer & Audio Cable, UltraFlexible Cable 80℃ 300V 
-tags: UltraFlexible
 categories: wire-cable
 overview: 
 series: FN20

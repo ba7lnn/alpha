@@ -1,8 +1,7 @@
 ﻿---
 layout: post 
-title: UL20276 36-30awg mini displayport cable
+title: UL style 20276 36-30awg mini displayport cable
 is_home: true
-tags: U30
 categories: wire-cable
 overview: 
 series: U30
@@ -228,4 +227,4 @@ USB3.0</td>
 
 
 
-* Reference：[UL iQ Style Page : UL 20276](http://iq.ul.com/awm/stylepage.aspx?Style=20276)
+* Reference：[UL iQ Style Page : UL 20276](https://iq.ul.com/awm/stylepage.aspx?Style=20276)
