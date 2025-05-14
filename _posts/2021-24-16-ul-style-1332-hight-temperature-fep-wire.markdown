@@ -71,3 +71,47 @@ Sizes &amp; Colors usually stocked and available online are indicated in the abo
 #### Reference UL style page (Standard)
 
 * [UL iQ Style Page : UL style 1332](https://iq.ul.com/awm/stylepage.aspx?style=1332)
+
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="T9ZPPVZ5NNZXY" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="Style 1332, FEP"/>
+        Style 1332, FEP
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="1332 20AWG, L=2KFT">
+            1332 20AWG, L=2KFT
+          </option>
+          <option value="1332 18AWG, L=2KFT">
+            1332 18AWG, L=2KFT
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="Color#"/>
+        Color#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="text" name="os1" maxLength="200" />
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>
+
+
+
+

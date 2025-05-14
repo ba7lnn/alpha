@@ -228,3 +228,27 @@ USB3.0</td>
 
 
 * Reference：[UL iQ Style Page : UL 20276](https://iq.ul.com/awm/stylepage.aspx?Style=20276)
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="92KCY6MGCUT3L" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL style 20276 36-30awg mini displayport cable"/>
+        UL style 20276 36-30awg mini displayport cable
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="36AWG USB3.0(2P+1P+2C),OD3.4">
+            36AWG USB3.0(2P+1P+2C),OD3.4
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>
