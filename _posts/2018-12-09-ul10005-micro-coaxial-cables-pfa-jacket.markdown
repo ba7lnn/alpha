@@ -437,3 +437,37 @@ Single conductor stranded bare copper insulated with non-hygroscopic fluoropolym
 * Silver or tin plated tin-copper alloy spiral shielded
 
 [UL iQ Style Page : UL 10005](http://iq.ul.com/awm/stylepage.aspx?Style=10005)
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="Z9BMBP4WXPAY2" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL10005 PFA jacket 80℃ 30v"/>
+        UL10005 PFA jacket 80℃ 30v
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="RF 44AWG OD=0.26">
+            RF 44AWG OD=0.26
+          </option>
+          <option value="RF 42AWG OD=0.28">
+            RF 42AWG OD=0.28
+          </option>
+          <option value="RF 40AWG OD=0.35">
+            RF 40AWG OD=0.35
+          </option>
+          <option value="RF 36AWG OD=0.38">
+            RF 36AWG OD=0.38
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

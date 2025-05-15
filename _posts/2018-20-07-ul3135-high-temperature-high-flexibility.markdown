@@ -46,3 +46,82 @@ OD: overall diameter
 __Application:__
 
 * For general pupose internal wiring of electronic and electrical equipment.	
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="AZJNYW94HF9CC" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL3135 High temperature,high flexibility,Flexible"/>
+        UL3135 High temperature,high flexibility,Flexible
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="3135  28AWG(2KFT) OD=1.85">
+            3135  28AWG(2KFT) OD=1.85 $100.00 USD
+          </option>
+          <option value="3135  26AWG(2KFT) OD=2.0">
+            3135  26AWG(2KFT) OD=2.0 $120.00 USD
+          </option>
+          <option value="3135 24AWG(2KFT) OD=2.2">
+            3135 24AWG(2KFT) OD=2.2 $130.00 USD
+          </option>
+          <option value="3135  22AWG(2KFT) OD=2.36">
+            3135  22AWG(2KFT) OD=2.36 $140.00 USD
+          </option>
+          <option value="3135  20AWG(2KFT) OD=2.48">
+            3135  20AWG(2KFT) OD=2.48 $150.00 USD
+          </option>
+          <option value="3135  18AWG(2KFT) OD=2.78">
+            3135  18AWG(2KFT) OD=2.78 $155.00 USD
+          </option>
+          <option value="3135  16AWG(1KFT) OD=3.0">
+            3135  16AWG(1KFT) OD=3.0 $160.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="COLOUR#"/>
+        COLOUR#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os1">
+          <option value="RED">
+            RED
+          </option>
+          <option value="BLACK">
+            BLACK
+          </option>
+          <option value="WHITE">
+            WHITE
+          </option>
+          <option value="YELLOW">
+            YELLOW
+          </option>
+          <option value="GREEN">
+            GREEN
+          </option>
+          <option value="ORANGE">
+            ORANGE
+          </option>
+          <option value="GRAY">
+            GRAY
+          </option>
+          <option value="BLUE">
+            BLUE
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

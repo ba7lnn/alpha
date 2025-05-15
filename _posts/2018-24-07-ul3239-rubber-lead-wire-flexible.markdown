@@ -336,3 +336,83 @@ __Application:__
 </div>
 
 * Reference [UL iQ Style Page UL 3239](http://iq.ul.com/awm/stylepage.aspx?Style=323)
+
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="S2CLUCS73SBNQ" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL3239 Hookup-Wire,Flexible"/>
+        UL3239 Hookup-Wire,Flexible
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="3239 28AWG 3KV(2KFT) OD=1.38">
+            3239 28AWG 3KV(2KFT) OD=1.38 $100.00 USD
+          </option>
+          <option value="3239 26AWG 3KV(2KFT) OD=1.49">
+            3239 26AWG 3KV(2KFT) OD=1.49 $120.00 USD
+          </option>
+          <option value="3239 24AWG 3KV(2KFT) OD=1.61">
+            3239 24AWG 3KV(2KFT) OD=1.61 $130.00 USD
+          </option>
+          <option value="3239 22AWG 3KV(2KFT) OD=1.76">
+            3239 22AWG 3KV(2KFT) OD=1.76 $140.00 USD
+          </option>
+          <option value="3239 20AWG 3KV(2KFT) OD=1.91">
+            3239 20AWG 3KV(2KFT) OD=1.91 $150.00 USD
+          </option>
+          <option value="3239 18AWG 3KV(2KFT) OD=2.17">
+            3239 18AWG 3KV(2KFT) OD=2.17 $155.00 USD
+          </option>
+          <option value="3239 16AWG 3KV(1KFT) OD=2.47">
+            3239 16AWG 3KV(1KFT) OD=2.47 $160.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="COLOUR#"/>
+        COLOUR#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os1">
+          <option value="RED">
+            RED
+          </option>
+          <option value="BLACK">
+            BLACK
+          </option>
+          <option value="WHITE">
+            WHITE
+          </option>
+          <option value="YELLOW">
+            YELLOW
+          </option>
+          <option value="GREEN">
+            GREEN
+          </option>
+          <option value="ORANGE">
+            ORANGE
+          </option>
+          <option value="GRAY">
+            GRAY
+          </option>
+          <option value="BLUE">
+            BLUE
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

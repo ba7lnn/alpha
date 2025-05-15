@@ -294,7 +294,7 @@ Construction is flexible and suitable for computer, communication and control ap
 				0.63
 			</td>
 			<td>
-				3.0
+				3.8
 			</td>
 			<td>
 				232
@@ -323,7 +323,7 @@ Construction is flexible and suitable for computer, communication and control ap
 				0.63
 			</td>
 			<td>
-				3.0
+				3.8
 			</td>
 			<td>
 				232
@@ -401,3 +401,49 @@ __Standard Put-Up:__
 Additional constructions to order.
 
 * Reference: [UL iQ Style Page : UL 2725](http://iq.ul.com/awm/stylepage.aspx?Style=2725)
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="UHUAF56B5K92C" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL style 2725 Cable, USB 2.0"/>
+        UL style 2725 Cable, USB 2.0
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="2725 28AWG/1P+28AWG/2C AEB OD=3.8 (1KFT)">
+            2725 28AWG/1P+28AWG/2C AEB OD=3.8 (1KFT) $536.00 USD
+          </option>
+          <option value="2725 28AWG/1P+24AWG/2C AEB OD=4.7 (1KFT)">
+            2725 28AWG/1P+24AWG/2C AEB OD=4.7 (1KFT) $769.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="COLOUR#"/>
+        COLOUR#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os1">
+          <option value="BLACK">
+            BLACK
+          </option>
+          <option value="GRAY">
+            GRAY
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

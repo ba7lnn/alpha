@@ -64,3 +64,79 @@ Black, Red, White, Green.  Please call or click on "Contact Us" above to inquire
 __Reference:__
 
 *  UL iQ Style Page : UL 3302 [http://iq.ul.com/awm/stylepage.aspx?Style=3302] 
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="LTGJ9A8HRNMMW" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL3302 XLPE Hook-up wire 105℃ 300Volt"/>
+        UL3302 XLPE Hook-up wire 105℃ 300Volt
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="3302 30AWG(2KFT) OD=0.8">
+            3302 30AWG(2KFT) OD=0.8
+          </option>
+          <option value="3302 28AWG(2KFT) OD=0.9">
+            3302 28AWG(2KFT) OD=0.9
+          </option>
+          <option value="3302  26AWG(2KFT) OD=1.0">
+            3302  26AWG(2KFT) OD=1.0
+          </option>
+          <option value="3302  24AWG(2KFT) OD=1.1">
+            3302  24AWG(2KFT) OD=1.1
+          </option>
+          <option value="3302  22AWG(2KFT) OD=1.3">
+            3302  22AWG(2KFT) OD=1.3
+          </option>
+          <option value="3302  20AWG(2KFT) OD=1.5">
+            3302  20AWG(2KFT) OD=1.5
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="COLOUR#"/>
+        COLOUR#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os1">
+          <option value="RED">
+            RED
+          </option>
+          <option value="BLACK">
+            BLACK
+          </option>
+          <option value="WHITE">
+            WHITE
+          </option>
+          <option value="YELLOW">
+            YELLOW
+          </option>
+          <option value="GREEN">
+            GREEN
+          </option>
+          <option value="ORANGE">
+            ORANGE
+          </option>
+          <option value="GRAY">
+            GRAY
+          </option>
+          <option value="BLUE">
+            BLUE
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

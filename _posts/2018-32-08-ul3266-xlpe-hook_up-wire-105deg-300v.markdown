@@ -85,3 +85,91 @@ AWG | Stranded | O.D. | resistance @ 20℃Ω/Km
 #### Reference UL style page (Standard)
 
 * [UL iQ Style Page : UL 3266](https://iq.ul.com/awm/stylepage.aspx?style=3266)
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="TM774R345486U" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL3266 XLPE Hook_Up Wire (125℃ 300V)"/>
+        UL3266 XLPE Hook_Up Wire (125℃ 300V)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="3266 32AWG(2KFT) OD=1.0">
+            3266 32AWG(2KFT) OD=1.0 $100.00 USD
+          </option>
+          <option value="3266 30AWG(2KFT) OD=1.1">
+            3266 30AWG(2KFT) OD=1.1 $110.00 USD
+          </option>
+          <option value="3266 28AWG(2KFT) OD=1.2">
+            3266 28AWG(2KFT) OD=1.2 $120.00 USD
+          </option>
+          <option value="3266 26AWG(2KFT) OD=1.3">
+            3266 26AWG(2KFT) OD=1.3 $130.00 USD
+          </option>
+          <option value="3266 24AWG(2KFT) OD=1.4">
+            3266 24AWG(2KFT) OD=1.4 $140.00 USD
+          </option>
+          <option value="3266 22AWG(2KFT) OD=1.6">
+            3266 22AWG(2KFT) OD=1.6 $150.00 USD
+          </option>
+          <option value="3266 20AWG(2KFT) OD=1.8">
+            3266 20AWG(2KFT) OD=1.8 $155.00 USD
+          </option>
+          <option value="3266 18AWG(2KFT) OD=2.1">
+            3266 18AWG(2KFT) OD=2.1 $160.00 USD
+          </option>
+          <option value="3266 16AWG(2KFT) OD=2.4">
+            3266 16AWG(2KFT) OD=2.4 $165.00 USD
+          </option>
+          <option value="3266 14AWG(2KFT) OD=2.8">
+            3266 14AWG(2KFT) OD=2.8 $170.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="COLOUR#"/>
+        COLOUR#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os1">
+          <option value="RED">
+            RED
+          </option>
+          <option value="BLACK">
+            BLACK
+          </option>
+          <option value="WHITE">
+            WHITE
+          </option>
+          <option value="YELLOW">
+            YELLOW
+          </option>
+          <option value="GREEN">
+            GREEN
+          </option>
+          <option value="ORANGE">
+            ORANGE
+          </option>
+          <option value="GRAY">
+            GRAY
+          </option>
+          <option value="BLUE">
+            BLUE
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

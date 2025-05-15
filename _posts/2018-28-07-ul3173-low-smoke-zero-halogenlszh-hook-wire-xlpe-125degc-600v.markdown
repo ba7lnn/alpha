@@ -334,3 +334,91 @@ Standard put-ups: 2000FT, 1000FT, 6100FT minimum ofr non-stock orders。<br />
 Avaliable in 10 standard color.
 
 Reference: [UL iQ Style Page : UL 3173](http://iq.ul.com/awm/stylepage.aspx?Style=3173)
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="5MRDNPRUMBVVN" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL style 3173 Low-smoke Zero Halogen(LSZH) hook-wire,XLPE 125℃ 6"/>
+        UL style 3173 Low-smoke Zero Halogen(LSZH) hook-wire,XLPE 125℃ 6
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="3173 28AWG(2KFT) OD=2.0">
+            3173 28AWG(2KFT) OD=2.0 $100.00 USD
+          </option>
+          <option value="3173 26AWG(2KFT) OD=2.1">
+            3173 26AWG(2KFT) OD=2.1 $120.00 USD
+          </option>
+          <option value="3173 24AWG(2KFT) OD=2.2">
+            3173 24AWG(2KFT) OD=2.2 $130.00 USD
+          </option>
+          <option value="3173 22AWG(2KFT) OD=2.4">
+            3173 22AWG(2KFT) OD=2.4 $140.00 USD
+          </option>
+          <option value="3173 20AWG(2KFT) OD=2.5">
+            3173 20AWG(2KFT) OD=2.5 $150.00 USD
+          </option>
+          <option value="3173 18AWG(2KFT) OD=2.8">
+            3173 18AWG(2KFT) OD=2.8 $155.00 USD
+          </option>
+          <option value="3173 16AWG(1KFT) OD=3.1">
+            3173 16AWG(1KFT) OD=3.1 $160.00 USD
+          </option>
+          <option value="3173  14AWG(1KFT) OD=3.5">
+            3173  14AWG(1KFT) OD=3.5 $170.00 USD
+          </option>
+          <option value="3173  12AWG(1KFT) OD=3.95">
+            3173  12AWG(1KFT) OD=3.95 $543.00 USD
+          </option>
+          <option value="3173  10AWG(1KFT) OD=5.1">
+            3173  10AWG(1KFT) OD=5.1 $618.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="COLOUR#"/>
+        COLOUR#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os1">
+          <option value="RED">
+            RED
+          </option>
+          <option value="BLACK">
+            BLACK
+          </option>
+          <option value="WHITE">
+            WHITE
+          </option>
+          <option value="YELLOW">
+            YELLOW
+          </option>
+          <option value="GREEN">
+            GREEN
+          </option>
+          <option value="ORANGE">
+            ORANGE
+          </option>
+          <option value="GRAY">
+            GRAY
+          </option>
+          <option value="BLUE">
+            BLUE
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

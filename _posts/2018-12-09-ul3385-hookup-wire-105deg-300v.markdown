@@ -48,3 +48,82 @@ Standard put-ups: 2000FT, 1000FT, 6100FT minimum ofr non-stock orders。
 Avaliable in 10 standard color. 
 
 * Reference: [UL iQ Style Page : UL 3385 ](http://iq.ul.com/awm/stylepage.aspx?Style=3385)
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="4UMFTM39NWE4L" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL3385 XLPE Hook-up wire 105℃ 300Volt"/>
+        UL3385 XLPE Hook-up wire 105℃ 300Volt
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="3385 30AWG(2KFT) OD=1.1">
+            3385 30AWG(2KFT) OD=1.1
+          </option>
+          <option value="3385 28AWG(2KFT) OD=1.2">
+            3385 28AWG(2KFT) OD=1.2
+          </option>
+          <option value="3385 26AWG(2KFT) OD=1.3">
+            3385 26AWG(2KFT) OD=1.3
+          </option>
+          <option value="3385 24AWG(2KFT) OD=1.4">
+            3385 24AWG(2KFT) OD=1.4
+          </option>
+          <option value="3385 22AWG(2KFT) OD=1.6">
+            3385 22AWG(2KFT) OD=1.6
+          </option>
+          <option value="3385 20AWG(2KFT) OD=1.8">
+            3385 20AWG(2KFT) OD=1.8
+          </option>
+          <option value="3385 18AWG(1KFT) OD=2.1">
+            3385 18AWG(1KFT) OD=2.1
+          </option>
+          <option value="3385 16AWG(2KFT) OD=2.4">
+            3385 16AWG(2KFT) OD=2.4
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="COLOUR#"/>
+        COLOUR#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os1">
+          <option value="RED">
+            RED
+          </option>
+          <option value="BLACK">
+            BLACK
+          </option>
+          <option value="WHITE">
+            WHITE
+          </option>
+          <option value="YELLOW">
+            YELLOW
+          </option>
+          <option value="GREEN">
+            GREEN
+          </option>
+          <option value="ORANGE">
+            ORANGE
+          </option>
+          <option value="GRAY">
+            GRAY
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

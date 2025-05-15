@@ -30,7 +30,7 @@ AWM | Stranded | Cores | Pitch/mm | O.D.
 :-: | :-: | :-: | :-: | :-:
 28 | 7/0.127 | 2 | 1.27 | 0.9×1.8
 28 | 7/0.127 | 3 | 1.27 | 0.9×2.7
-28 | 7/0.127 | 4 | 1.27 | 0.9×1.8
+28 | 7/0.127 | 4 | 1.27 | 0.9×3.6
 28 | 7/0.127 | 5 | 1.27 | 0.9×4.5
 
 
@@ -50,3 +50,36 @@ AWM | Stranded | Cores | Pitch/mm | O.D.
 #### Reference UL style page (Standard)
 
 * [UL iQ Style Page : UL 2651](https://iq.ul.com/awm/stylepage.aspx?style=2651)
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="7W94BFLSFZ58S" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL2651 Sensor Wire/Flat WIRE"/>
+        UL2651 Sensor Wire/Flat WIRE
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="28AWG 2C 0.9*1.8">
+            28AWG 2C 0.9*1.8 $120.00 USD
+          </option>
+          <option value="28AWG 3C 0.9*2.7">
+            28AWG 3C 0.9*2.7 $120.00 USD
+          </option>
+          <option value="28AWG 4C 0.9*3.6">
+            28AWG 4C 0.9*3.6 $142.00 USD
+          </option>
+          <option value="28AWG 5C 0.9*4.5">
+            28AWG 5C 0.9*4.5 $158.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

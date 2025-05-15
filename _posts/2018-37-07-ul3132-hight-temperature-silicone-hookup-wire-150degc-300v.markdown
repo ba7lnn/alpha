@@ -40,3 +40,82 @@ AWG | Strand | Norm. Wall(mm) | O.D.(mm) | Conductor resistance @ 20℃/Ω/Km
 
 [UL iQ Style Page : UL 3132](https://iq.ul.com/awm/stylepage.aspx?Style=3132)
 
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="LY3RMSRNTXTKW" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL style 3132 Hight Temperature Silicone Hook-up Wire 150℃ 300v"/>
+        UL style 3132 Hight Temperature Silicone Hook-up Wire 150℃ 300v
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="3132 28AWG(2KFT) OD=1.95">
+            3132 28AWG(2KFT) OD=1.95 $100.00 USD
+          </option>
+          <option value="3132  26AWG(2KFT) OD=2.01">
+            3132  26AWG(2KFT) OD=2.01 $120.00 USD
+          </option>
+          <option value="3132 24AWG(2KFT) OD=2.13">
+            3132 24AWG(2KFT) OD=2.13 $130.00 USD
+          </option>
+          <option value="3132 22AWG(2KFT) OD=2.28">
+            3132 22AWG(2KFT) OD=2.28 $140.00 USD
+          </option>
+          <option value="3132 20AWG(2KFT) OD=2.45">
+            3132 20AWG(2KFT) OD=2.45 $150.00 USD
+          </option>
+          <option value="3132 18AWG(2KFT) OD=2.78">
+            3132 18AWG(2KFT) OD=2.78 $155.00 USD
+          </option>
+          <option value="3132 16AWG(1KFT) OD=3.02">
+            3132 16AWG(1KFT) OD=3.02 $160.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="COLOUR#"/>
+        COLOUR#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os1">
+          <option value="RED">
+            RED
+          </option>
+          <option value="BLACK">
+            BLACK
+          </option>
+          <option value="WHITE">
+            WHITE
+          </option>
+          <option value="YELLOW">
+            YELLOW
+          </option>
+          <option value="GREEN">
+            GREEN
+          </option>
+          <option value="ORANGE">
+            ORANGE
+          </option>
+          <option value="GRAY">
+            GRAY
+          </option>
+          <option value="BLUE">
+            BLUE
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>
+
