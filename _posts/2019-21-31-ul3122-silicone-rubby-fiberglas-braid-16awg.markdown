@@ -19,3 +19,27 @@ Small Diameters and High Temperature performance make an outstanding combination
 <p>
 	fiberglas braid，UL3122 16AWG (7/0.5TS) OD:2.7
 </p>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="2SB3LWLLADG7J" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="Silicone Rubby, fiberglas braid, UL AWM 3122 16AWG OD:2.7"/>
+        Silicone Rubby, fiberglas braid, UL AWM 3122 16AWG OD:2.7
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="3122 16AWG(2KFT) OD=2.7">
+            3122 16AWG(2KFT) OD=2.7
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

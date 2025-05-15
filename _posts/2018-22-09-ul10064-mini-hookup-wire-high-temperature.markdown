@@ -86,3 +86,54 @@ AWG | Material | Stranded | Material | OD
 *  Stranded tinned copper conductor
 * PFA or FEP insulation
 * Passes UL VW-1 & CSA FT-1 vertical flame test 
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="2TPZATVRVQMZY" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="FEP 10064 Mini Hook-up wire,High-temperature 105℃ 30V"/>
+        FEP 10064 Mini Hook-up wire,High-temperature 105℃ 30V
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="10064 28AWG (1KFT) OD=0.6">
+            10064 28AWG (1KFT) OD=0.6
+          </option>
+          <option value="10064 30AWG (1KFT) OD=0.55">
+            10064 30AWG (1KFT) OD=0.55
+          </option>
+          <option value="10064 32AWG (1KFT) OD=0.38">
+            10064 32AWG (1KFT) OD=0.38
+          </option>
+          <option value="10064 34AWG (1KFT) OD=0.32">
+            10064 34AWG (1KFT) OD=0.32
+          </option>
+          <option value="10064 36AWG (1KFT) OD=0.28">
+            10064 36AWG (1KFT) OD=0.28
+          </option>
+          <option value="10064 38AWG (1KFT) OD=0.24">
+            10064 38AWG (1KFT) OD=0.24
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="COLOUR#"/>
+        COLOUR#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="text" name="os1" maxLength="200" />
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>
