@@ -356,7 +356,7 @@ Construction is flexible and suitable for computer, communication and control ap
 				0.95
 			</td>
 			<td>
-				4.7
+				4.8
 			</td>
 			<td>
 				232
@@ -385,7 +385,7 @@ Construction is flexible and suitable for computer, communication and control ap
 				0.95
 			</td>
 			<td>
-				4.7
+				4.8
 			</td>
 			<td>
 				93.25
@@ -420,7 +420,7 @@ Additional constructions to order.
             2725 28AWG/1P+28AWG/2C AEB OD=3.8 (1KFT) $536.00 USD
           </option>
           <option value="2725 28AWG/1P+24AWG/2C AEB OD=4.7 (1KFT)">
-            2725 28AWG/1P+24AWG/2C AEB OD=4.7 (1KFT) $769.00 USD
+            2725 28AWG/1P+24AWG/2C AEB OD=4.8 (1KFT) $769.00 USD
           </option>
         </select>
       </td>

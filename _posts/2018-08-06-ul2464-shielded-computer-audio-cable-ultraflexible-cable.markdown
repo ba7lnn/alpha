@@ -79,3 +79,39 @@ Pairs: Number of pairs conductor strand
 #### Reference UL style page (Standard)
 
 * [UL iQ Style Page : UL 2464](https://iq.ul.com/awm/stylepage.aspx?style=2464)
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="38PFG6MM4NWCN" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL2464 Shielded, Computer &amp; Audio Cable, UltraFlexible Cable 80℃"/>
+        UL2464 Shielded, Computer &amp; Audio Cable, UltraFlexible Cable 80℃
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="28AWG 3C OD=4.0 (1KFT)">
+            28AWG 3C OD=4.0 (1KFT) $108.00 USD
+          </option>
+          <option value="28AWG 4C OD=4.8 (1KFT)">
+            28AWG 4C OD=4.8 (1KFT) $126.00 USD
+          </option>
+          <option value="28AWG 5C OD=5.0 (1KFT)">
+            28AWG 5C OD=5.0 (1KFT) $153.00 USD
+          </option>
+          <option value="28AWG 5C OD=5.1 (1KFT)">
+            28AWG 5C OD=5.1 (1KFT) $176.00 USD
+          </option>
+          <option value="26AWG 3C OD=5.0 (1KFT)">
+            26AWG 3C OD=5.0 (1KFT) $265.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

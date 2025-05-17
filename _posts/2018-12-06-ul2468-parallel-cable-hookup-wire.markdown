@@ -61,3 +61,51 @@ AWG | Strand | Cores | Norm. Wall(mm) | Pitch/mm | O.D.(mm) | Conductor resistan
 #### Reference UL style page (Standard)
 
 * [UL iQ Style Page : UL 2468](https://iq.ul.com/awm/stylepage.aspx?style=2468)
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="R2DHN54T59HAW" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL2651 Sensor Wire/Flat WIRE"/>
+        UL2651 Sensor Wire/Flat WIRE
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="28AWG 2C 0.9×1.8">
+            28AWG 2C 0.9×1.8 $120.00 USD
+          </option>
+          <option value="28AWG 3C 0.9×2.7">
+            28AWG 3C 0.9×2.7 $120.00 USD
+          </option>
+          <option value="28AWG 4C 0.9×3.6">
+            28AWG 4C 0.9×3.6 $142.00 USD
+          </option>
+          <option value="28AWG 5C 0.9×4.5">
+            28AWG 5C 0.9×4.5 $158.00 USD
+          </option>
+          <option value="26AWG 2C 1.3×2.6">
+            26AWG 2C 1.3×2.6 $125.00 USD
+          </option>
+          <option value="26AWG 3C 1.3×3.9">
+            26AWG 3C 1.3×3.9 $125.00 USD
+          </option>
+          <option value="26AWG 4C 1.3×5.2">
+            26AWG 4C 1.3×5.2 $192.00 USD
+          </option>
+          <option value="26AWG 5C 1.3×6.5">
+            26AWG 5C 1.3×6.5 $178.00 USD
+          </option>
+          <option value="26AWG 6C 1.3×7.8">
+            26AWG 6C 1.3×7.8 $201.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

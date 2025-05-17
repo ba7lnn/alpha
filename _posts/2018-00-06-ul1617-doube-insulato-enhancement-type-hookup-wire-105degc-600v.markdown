@@ -1,31 +1,33 @@
 ﻿---
 layout: post 
-title: UL style 1672 Enhancement type hook-up wire 105℃ 300V doube insulator
+title: UL1617 Doube insulato, Enhancement type hook-up wire (105℃ 600V)
 categories: wire-cable
-overview: For general pupose internal wiring of electronic and electrical equipment.
+overview: 
 series: FN10
 part_number: 10-1617-0
-thumb_img: static/18-thumb-20200327145849.jpg
-image: static/18-20200327145849.jpg
-date: 2018/5/6 7:03:15
-permalink: /wire-cable/ul1672-enhancement-type-hookup-wire-105deg-300v-doube-insulator.html
+thumb_img: static/17-thumb-20200326095042.jpg
+image: static/17-20200326095042.jpg
+date: 2018/5/6 7:00:19
+permalink: /wire-cable/ul1716-doube-insulato-enhancement-type-hookup-wire-105degc-600v.html
 ---
 
 
+
+#### UL 1617  doube insulator 105℃ 600V(Enhancement type hook-up wire)
+ 
 __Description:__
 
 * Tinned, annealed, stranded or solid copper conductor.
-* PVC insulation.
+* PVC indulation.
 * PVC jacked. 
 * Rated temperature: 105℃, Rated voltage:600 Volts.
 * Uniform thickness of wire to ensure easy stripping and cutting.
-* Passes UL VW-1&Cul FT1 vertical flame test.
+* Passes UL VW-1&amp;Cul FT1 vertical flame test.
 * Reference Standard:UL758, UL1581,CSA22.2 
-    
  
 __Application:__
 
-* For general internal wiring of electronic and electrical equipment. 
+* For general pupose internal wiring of electronic and electrical equipment. 
 
 AWG | Stranded | Insulation OD | Jacket OD | Resistance at 20℃ Ω/Km
 :-: | :-: |  :-: |  :-: |  :-: |  :-: 
@@ -40,32 +42,17 @@ AWG | Stranded | Insulation OD | Jacket OD | Resistance at 20℃ Ω/Km
 18 | 34/0.178 | 2.80 | 3.60 |  23.20
 18 | 1/1.024 | 2.60 | 3.5 | 23.20
 
-__Standard Put-ups:__
-
-* 2000FT, 1000FT, 6100FT minimum of non-stock orders。
-* Available in 10 standard color. 
-
-#### Datasheet Or Specification
-
-* [UL Style Catalog : UL 1672](/assets/catalogs/catalog-ul-style-1672.pdf)
-
-#### Product Compliance
-
-* [Hook-up Wire PVC  series RoHS2.0 &  REACH](/assets/compliance/2023-pvc.zip)
-
-#### Reference UL style page (Standard)
-
-* [UL iQ Style Page : UL 1672](https://iq.ul.com/awm/stylepage.aspx?style=1672)
-
+Standard put-ups: 2000FT, 1000FT, 6100FT minimum ofr non-stock orders。
+Avaliable in 10 standard color. 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
   <input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="S78BQJ5KJK9XU" />
+  <input type="hidden" name="hosted_button_id" value="QHJUFZQN6BZE2" />
   <table>
     <tr>
       <td>
-        <input type="hidden" name="on0" value="UL style 1672 Enhancement type hook-up wire 105℃ 300V doube insu"/>
-        UL style 1672 Enhancement type hook-up wire 105℃ 300V doube insu
+        <input type="hidden" name="on0" value="UL style 1617 Doube insulato, Enhancement Type"/>
+        UL style 1617 Doube insulato, Enhancement Type
       </td>
     </tr>
     <tr>

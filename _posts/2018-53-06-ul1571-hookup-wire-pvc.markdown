@@ -64,3 +64,89 @@ Avaliable in 10 standard color.
 
 * [UL iQ Style Page : UL 1571](https://iq.ul.com/awm/stylepage.aspx?style=1571)
 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="9SRFXQ4ZT6LXS" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL AWM 1571 style, Hook-up wire, PVC 80 degC 30V"/>
+        UL AWM 1571 style, Hook-up wire, PVC 80 degC 30V
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="34AWG OD=0.5 2KFT">
+            34AWG OD=0.5 2KFT $60.00 USD
+          </option>
+          <option value="32AWG OD=0.6 2KFT">
+            32AWG OD=0.6 2KFT $70.00 USD
+          </option>
+          <option value="30AWG OD=0.7 2KFT">
+            30AWG OD=0.7 2KFT $80.00 USD
+          </option>
+          <option value="28AWG OD=0.9 2KFT">
+            28AWG OD=0.9 2KFT $106.00 USD
+          </option>
+          <option value="26AWG OD=1.0 2KFT">
+            26AWG OD=1.0 2KFT $132.00 USD
+          </option>
+          <option value="24AWG OD=1.1 2KFT">
+            24AWG OD=1.1 2KFT $160.00 USD
+          </option>
+          <option value="22AWG OD=1.3 2KFT">
+            22AWG OD=1.3 2KFT $180.00 USD
+          </option>
+          <option value="20AWG OD=1.5 2KFT">
+            20AWG OD=1.5 2KFT $230.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="COLOUR#"/>
+        COLOUR#
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os1">
+          <option value="BLACK">
+            BLACK
+          </option>
+          <option value="BROWN">
+            BROWN
+          </option>
+          <option value="RED">
+            RED
+          </option>
+          <option value="ORANGE">
+            ORANGE
+          </option>
+          <option value="YELLOW">
+            YELLOW
+          </option>
+          <option value="GREEN">
+            GREEN
+          </option>
+          <option value="BLUE">
+            BLUE
+          </option>
+          <option value="VIOLET">
+            VIOLET
+          </option>
+          <option value="GRAY">
+            GRAY
+          </option>
+          <option value="WHITE">
+            WHITE
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

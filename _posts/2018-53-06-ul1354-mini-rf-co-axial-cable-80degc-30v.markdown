@@ -157,3 +157,37 @@ permalink: /wire-cable/ul1354-mini-rf-co-axial-cable-80degc-30v.html
 </p>
 <p>* Reference：<br />
   1)  <a href="http://iq.ul.com/awm/stylepage.aspx?Style=1354" target="_blank">UL iQ Style Page : UL 1354 </a></p>
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="9D5HAVTNQEWE2" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL style 1354 Mini RF 50-3 Co-axial Cable"/>
+        UL style 1354 Mini RF 50-3 Co-axial Cable
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="36AWG OD=0.81 2K/Mts">
+            36AWG OD=0.81 2K/Mts $170.00 USD
+          </option>
+          <option value="32AWG OD=1.13 2K/Mts">
+            32AWG OD=1.13 2K/Mts $216.00 USD
+          </option>
+          <option value="30AWG OD=1.78 2K/Mts">
+            30AWG OD=1.78 2K/Mts $287.00 USD
+          </option>
+          <option value="26AWG OD=3.16 50-3 400M">
+            26AWG OD=3.16 50-3 400M $412.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>

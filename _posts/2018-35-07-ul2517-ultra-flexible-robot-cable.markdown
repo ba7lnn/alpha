@@ -55,3 +55,31 @@ AWG | Stranded | Cores | I.D. | Shielded | O.D.
 
 * Reference: [UL iQ Style Page : UL 2517](http://iq.ul.com/awm/stylepage.aspx?Style=2517)
 
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="F56L268ENZNUA" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="UL2517 Ultra Flexible ROBOT Cable"/>
+        UL2517 Ultra Flexible ROBOT Cable
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="2517 22AWG 2C (2KFT) OD=4.96">
+            2517 22AWG 2C (2KFT) OD=4.96 $310.00 USD
+          </option>
+          <option value="2517 22AWG 2C (2KFT) OD=5.34">
+            2517 22AWG 2C (2KFT) OD=5.34 $420.00 USD
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="添加到购物车" />
+</form>
+
