@@ -47,7 +47,7 @@ The TTL RS232 5V/3V3 is fully RoHS compliant and is supplied loose - packed in a
 
 
 Download:
-* [Cable Specification (PDF Format)](https://products.hingtak.com/USB_to_UART_cable_v3.pdf)
+* [Cable Specification (PDF Format)](https://www.hingtak.com/assets/2025/USB_to_UART_cable_v3.pdf)
 
  
 * [PC Driver(English, Open new window)](https://www.wch-ic.com/products/CH340.html)
